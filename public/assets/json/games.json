@@ -1,0 +1,104 @@
+[
+    {
+        "name": "Gunspin",
+        "image": "https://img.gamedistribution.com/917cce8c44c44638a8cdc2a1794b65c8-512x512.jpeg",
+        "url": "https://gun-spin.github.io/file/",
+        "tags": [
+            "Upgrade",
+            "Guns",
+            "Shooting",
+            "Arcade",
+            "2D"
+        ],
+        "special": [
+            "hot",
+            "new",
+            "hr"
+        ],
+        "size": "m"
+    },
+    {
+        "name": "Happy Filled Glass",
+        "image": "https://img.gamedistribution.com/84b43aa584d44167aae8edbeaa26a58b-512x512.jpeg",
+        "url": "https://media.safekidgames.com/happy-filled-glass/index.html",
+        "tags": [
+            "Arcade",
+            "Puzzle",
+            "2D",
+            "Drawing",
+            "Strategy"
+        ],
+        "special": [
+            "hot",
+            "new",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
+        "name": "Wormmate",
+        "image": "/assets/imgs/games/wormmate.png",
+        "url": "https://wormate.io/",
+        "tags": [
+            "Arcade",
+            "Strategy",
+            "2D"
+        ],
+        "special": [
+            "hot",
+            "new",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
+        "name": "Block Blast Puzzle",
+        "image": "/assets/imgs/games/blockblast.webp",
+        "url": "https://reunbozdo.github.io/",
+        "tags": [
+            "Arcade",
+            "Strategy",
+            "2D"
+        ],
+        "special": [
+            "hot",
+            "new",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
+        "name": "Snowball.io",
+        "image": "/assets/imgs/games/snowball.png",
+        "url": "https://snowballio.gitlab.io/file/",
+        "tags": [
+            "Strategy",
+            "IO",
+            "3D",
+            "Multiplayer"
+        ],
+        "special": [
+            "hot",
+            "new",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
+        "name": "Disaster Arena",
+        "image": "https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/75d6183e398510939db2e4ad311e3de3.jfif",
+        "url": "https://blockblastonline.com/disaster-arena.embed",
+        "tags": [
+            "Strategy",
+            "Parkour",
+            "3D",
+            "Multiplayer"
+        ],
+        "special": [
+            "hot",
+            "new",
+            "hr"
+        ],
+        "size": "s"
+    }
+]

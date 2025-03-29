@@ -1,0 +1,306 @@
+:root {
+    --primary: #ffed9e;
+    --secondary: #2f2300;
+    --accent: #ffa600;
+    --card-radius: 10px;
+    --card-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    --card-shadow-hover: 0 8px 16px rgba(0, 0, 0, 0.2);
+    --title-bg: rgba(47, 35, 0, 0.9);
+}
+
+@font-face {
+    font-family: 'font';
+    src: url("/assets/fonts/font.ttf");
+}
+
+body {
+    background-color: var(--primary);
+    font-family: 'font';
+    background-image: url("https://img.freepik.com/free-vector/abstract-orange-background_698452-2007.jpg?semt=ais_hybrid");
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#title {
+    text-align: center;
+}
+
+#games {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+    gap: 20px;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.game-card {
+    background-color: white;
+    border-radius: var(--card-radius);
+    box-shadow: var(--card-shadow);
+    overflow: hidden;
+    transition: transform 0.2s ease;
+    cursor: pointer;
+    position: relative;
+    transform: translateZ(0);
+    /* Hardware acceleration */
+}
+
+/* Add these styles to public/assets/styles/main.css */
+
+/* Base badge styling */
+.game-card::before {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    z-index: 10;
+}
+
+/* Hot games effect */
+.game-card.special-hot::before {
+    content: "HOT";
+    background-color: #ff5722;
+    color: white;
+    box-shadow: 0 0 10px rgba(255, 87, 34, 0.7);
+    animation: pulse 1.5s infinite;
+}
+
+/* New games effect */
+.game-card.special-new::after {
+    content: "NEW";
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    z-index: 10;
+}
+
+/* Highly rated games effect */
+.game-card.special-hr {
+    border: 2px solid gold;
+    box-shadow: 0 0 15px rgba(255, 215, 0, 0.5);
+}
+
+.game-card.special-hr .game-title {
+    background-color: rgba(255, 215, 0, 0.8);
+    color: #333;
+    font-weight: bold;
+}
+
+/* Pulse animation for hot games */
+@keyframes pulse {
+    0% {
+        opacity: 1;
+    }
+
+    50% {
+        opacity: 0.7;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+
+.game-card:hover,
+.game-card:focus {
+    transform: translateY(-5px);
+    box-shadow: var(--card-shadow-hover);
+}
+
+.size-s {
+    grid-column: span 1;
+    grid-row: span 1;
+    aspect-ratio: 1/1;
+}
+
+.size-m {
+    grid-column: span 2;
+    grid-row: span 2;
+    aspect-ratio: 1/1;
+}
+
+.size-l {
+    grid-column: span 3;
+    grid-row: span 3;
+    aspect-ratio: 1/1;
+}
+
+.game-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.game-title {
+    padding: 10px;
+    margin: 0;
+    color: white;
+    font-size: clamp(0.9rem, 2vw, 1.2rem);
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: var(--title-bg);
+    opacity: 0;
+    transition: opacity 0.2s ease;
+}
+
+.game-card:hover .game-title,
+.game-card:focus .game-title {
+    opacity: 1;
+}
+
+/* Always show title for touch devices */
+@media (hover: none) {
+    .game-title {
+        opacity: 1;
+    }
+}
+
+@media (max-width: 900px) {
+    #games {
+        grid-template-columns: repeat(6, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    #games {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 15px;
+        padding: 15px;
+    }
+}
+
+@media (max-width: 400px) {
+    #games {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 10px;
+        padding: 10px;
+    }
+
+    .size-s,
+    .size-m,
+    .size-l {
+        grid-column: span 1;
+        grid-row: span 1;
+    }
+}
+
+#search-container {
+    display: flex;
+    justify-content: center;
+    margin: 20px auto;
+    max-width: 600px;
+    width: 90%;
+}
+
+.search-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+#search-input {
+    width: 100%;
+    padding: 15px 20px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    font-size: 16px;
+    transition: all 0.3s ease;
+    background: rgba(255, 255, 255, 0.9);
+    font-family: 'font';
+}
+
+#search-input:focus {
+    outline: none;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+    background: white;
+}
+
+.search-icon {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 20px;
+    height: 20px;
+    color: #666;
+    pointer-events: none;
+}
+
+#no-results {
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+    color: white;
+    font-size: 18px;
+    background: rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    margin: 20px 0;
+}
+
+.tag-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 20px auto;
+    max-width: 800px;
+    justify-content: center;
+    padding: 15px;
+    background: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    font-family: 'font';
+}
+
+.tag-filters h3 {
+    width: 100%;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: 'font';
+}
+
+.tag-button {
+    background-color: #333;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-family: 'font';
+}
+
+.tag-button:hover {
+    background-color: #555;
+}
+
+.tag-button.active {
+    background-color: #ff5722;
+}
+
+#clear-filters {
+    background-color: #777;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 20px;
+    cursor: pointer;
+    margin-left: auto;
+    font-family: 'font';
+}
+
+#clear-filters:hover {
+    background-color: #999;
+}
