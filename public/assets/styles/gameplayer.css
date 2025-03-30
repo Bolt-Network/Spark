@@ -175,3 +175,60 @@ body {
 #fulllogo {
     max-width: 20px;
 }
+
+#unofficial {
+    position: absolute;
+    color: var(--secondary);
+    font-size: 1rem;
+    margin: 0 auto;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: var(--primary);
+    width: 60vw;
+    max-width: 600px;
+    padding: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: var(--card-radius);
+    box-shadow: var(--card-shadow-hover);
+    z-index: 1001;
+    border: 2px solid var(--accent);
+}
+
+#unofficial h3 {
+    margin-top: 0;
+    color: var(--secondary);
+    font-size: 1.5rem;
+}
+
+#unofficial p {
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+
+#unofficial-close {
+    background-color: var(--accent);
+    color: var(--secondary);
+    width: auto;
+    text-align: center;
+    display: inline-block;
+    border: none;
+    padding: 8px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'font';
+    font-weight: bold;
+    transition: all 0.3s ease;
+    margin-top: 15px;
+}
+
+#unofficial-close:hover {
+    background-color: var(--secondary);
+    color: var(--primary);
+    transform: translateY(-2px);
+    box-shadow: var(--card-shadow);
+}

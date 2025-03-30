@@ -4,6 +4,19 @@ var homebutton = document.getElementById("go-home");
 var fullscreenBtn = document.getElementById("fullscreen-btn");
 var gameIcon = document.getElementById("game-icon");
 var gameTitle = document.getElementById("game-title");
+var unofficial = document.getElementById("unofficial");
+var unofficialClose = document.getElementById("unofficial-close");
+
+unofficial.style.display = "none";
+if (localStorage.getItem('unofficial') == "true") {
+  unofficial.style.display = "flex";
+  unofficialClose.addEventListener("click", function () {
+    unofficial.style.display = "none";
+
+  });
+}
+
+
 gameframe.src = currentGameUrl;
 gameframe.contentDocument.body.style.overflow = "hidden";
 homebutton.addEventListener("click", function () {
@@ -19,7 +32,7 @@ function loadRandomGames() {
 
       const shuffledGames = filteredGames.sort(() => Math.random() - 0.5);
 
-      const randomGames = shuffledGames.slice(0, 4);
+      const randomGames = shuffledGames.slice(0, Infinity);
 
       const moreGamesContainer = document.getElementById('more-games');
       const currentGame = games.find(game => game.url === currentGameUrl);

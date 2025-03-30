@@ -36,6 +36,90 @@
         "size": "s"
     },
     {
+        "name": "Escape Road",
+        "image": "/assets/imgs/games/erc.jpg",
+        "url": "https://game.azgame.io/escape-road-city/",
+        "tags": [
+            "Arcade",
+            "3D",
+            "Action",
+            "Strategy"
+        ],
+        "special": [
+            "hot",
+            "new",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
+        "name": "Snow Rider",
+        "image": "/assets/imgs/games/snowrider.jpg",
+        "url": "https://smashkartsonlinegames.github.io/v8/snow-rider-3d/",
+        "tags": [
+            "Arcade",
+            "3D",
+            "Parkour"
+        ],
+        "special": [
+            "hot",
+            "new",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
+        "name": "Black Hole",
+        "image": "/assets/imgs/games/blackhole.webp",
+        "url": "https://holeioonline.github.io/file/",
+        "tags": [
+            "Arcade",
+            "3D",
+            "Strategy",
+            "IO",
+            "Action"
+        ],
+        "special": [
+            "hot",
+            "new",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
+        "name": "Dreadhead Parkour",
+        "image": "/assets/imgs/games/dreadhead.avif",
+        "url": "https://dreadheadparkour.gitlab.io/file/",
+        "tags": [
+            "2D",
+            "Action",
+            "Parkour"
+        ],
+        "special": [
+            "hot",
+            "new",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
+        "name": "Escape Road 2",
+        "image": "/assets/imgs/games/escape-road-2.png",
+        "url": "https://game.azgame.io/escape-road-2/",
+        "tags": [
+            "Arcade",
+            "3D",
+            "Action",
+            "Strategy"
+        ],
+        "special": [
+            "hot",
+            "new",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
         "name": "Wormmate",
         "image": "/assets/imgs/games/wormmate.png",
         "url": "https://wormate.io/",
@@ -49,7 +133,8 @@
             "new",
             "hr"
         ],
-        "size": "s"
+        "size": "s",
+        "unofficial": true
     },
     {
         "name": "Block Blast Puzzle",

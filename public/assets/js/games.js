@@ -115,6 +115,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 }
             }
 
+
             const gameImage = document.createElement('img');
             gameImage.src = game.image;
             gameImage.alt = game.name;
@@ -125,6 +126,11 @@ document.addEventListener('DOMContentLoaded', () => {
             gameTitle.textContent = game.name;
 
             gameCard.addEventListener('click', () => {
+                localStorage.setItem('unofficial', 'false');
+                if (game.unofficial) {
+                    localStorage.setItem('unofficial', 'true');
+                }
+
                 localStorage.setItem('url', game.url);
                 window.location.href = "/game.html";
             });
