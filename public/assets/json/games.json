@@ -207,6 +207,22 @@
         "size": "s"
     },
     {
+        "name": "Aquapark Slides",
+        "image": "/assets/imgs/games/aquapark.png",
+        "url": "https://gms.parcoil.com/aquapark-slides/",
+        "tags": [
+            "Arcade",
+            "Strategy",
+            "3D",
+            "Parkour"
+        ],
+        "special": [
+            "hot",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
         "name": "Drift Boss",
         "image": "/assets/imgs/games/driftboss.jpeg",
         "url": "https://www.hoodamath.com/mobile/games/drift-boss/game.html?nocheckorient=1",
