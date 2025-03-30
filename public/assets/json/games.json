@@ -137,6 +137,45 @@
         "unofficial": true
     },
     {
+        "name": "Diep.io",
+        "image": "/assets/imgs/games/diepio.webp",
+        "url": "https://diep.io/",
+        "tags": [
+            "Shooting",
+            "Strategy",
+            "2D",
+            "IO",
+            "Upgrade",
+            "Guns"
+        ],
+        "special": [
+            "hot",
+            "new",
+            "hr"
+        ],
+        "size": "s",
+        "unofficial": true
+    },
+    {
+        "name": "Chicken Merge",
+        "image": "/assets/imgs/games/chickenmerge.jpg",
+        "url": "https://htmlxm.github.io/h4/chicken-merge/",
+        "tags": [
+            "Shooting",
+            "Strategy",
+            "2D",
+            "IO",
+            "Upgrade",
+            "Guns"
+        ],
+        "special": [
+            "hot",
+            "new",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
         "name": "Block Blast Puzzle",
         "image": "/assets/imgs/games/blockblast.webp",
         "url": "https://reunbozdo.github.io/",
@@ -147,7 +186,6 @@
         ],
         "special": [
             "hot",
-            "new",
             "hr"
         ],
         "size": "s"

@@ -63,23 +63,34 @@ body {
 
 /* Hot games effect */
 .game-card.special-hot::before {
-    content: "HOT";
-    background-color: #ff5722;
-    color: white;
+    content: "";
+    background-image: url("/assets/imgs/svg/flame.svg");
+    background-color: rgb(255, 119, 0);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 15px;
+    height: 15px;
+    /* Added height for the image */
+    position: absolute;
+    top: 40px;
+    left: 0px;
+    border-radius: 0 100em 100em 0;
+    padding: 5px 10px;
     box-shadow: 0 0 10px rgba(255, 87, 34, 0.7);
     animation: pulse 1.5s infinite;
 }
 
 /* New games effect */
 .game-card.special-new::after {
-    content: "NEW";
+    content: "NEW!";
     position: absolute;
     top: 10px;
-    left: 10px;
-    background-color: #4CAF50;
+    left: 0px;
+    background-color: #00bbff;
     color: white;
     padding: 5px 10px;
-    border-radius: 4px;
+    border-radius: 0 100em 100em 0;
     font-size: 0.8rem;
     font-weight: bold;
     z-index: 10;
