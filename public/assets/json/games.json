@@ -191,6 +191,38 @@
         "size": "s"
     },
     {
+        "name": "Shortcut Race",
+        "image": "/assets/imgs/games/shortcutrace.webp",
+        "url": "https://www.hoodamath.com/mobile/games/shortcut-race/game.html?nocheckorient=1",
+        "tags": [
+            "Arcade",
+            "Strategy",
+            "3D",
+            "Parkour"
+        ],
+        "special": [
+            "hot",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
+        "name": "Drift Boss",
+        "image": "/assets/imgs/games/driftboss.jpeg",
+        "url": "https://www.hoodamath.com/mobile/games/drift-boss/game.html?nocheckorient=1",
+        "tags": [
+            "Arcade",
+            "Strategy",
+            "3D",
+            "Parkour"
+        ],
+        "special": [
+            "hot",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
         "name": "Snowball.io",
         "image": "/assets/imgs/games/snowball.png",
         "url": "https://snowballio.gitlab.io/file/",
