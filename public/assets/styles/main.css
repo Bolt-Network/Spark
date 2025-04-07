@@ -132,3 +132,59 @@ body {
     object-position: center;
     border-radius: var(--card-radius);
 }
+
+.special-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+    max-width: 15%;
+    max-height: 60%;
+    pointer-events: none;
+    display: flex;
+    flex-direction: column;
+}
+
+.special {
+    margin-top: 12%;
+    translate: 0 20%;
+    background-color: var(--accent);
+    width: 120%;
+    height: 100px;
+    border-bottom-right-radius: 30px;
+    border-top-right-radius: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+#hot {
+    background-color: rgb(255, 128, 0);
+    box-shadow: 0 0 10px rgb(255, 128, 0);
+}
+
+.hot-icon {
+    max-width: 80%;
+    max-height: 80%;
+}
+
+#new {
+    background-color: rgb(0, 229, 255);
+    box-shadow: 0 0 10px rgb(0, 255, 225);
+}
+
+.new-icon {
+    max-width: 70%;
+    max-height: 70%;
+}
+
+#hr {
+    background-color: rgb(255, 204, 0);
+    box-shadow: 0 0 10px rgb(255, 204, 0);
+}
+
+.hr-icon {
+    max-width: 70%;
+    max-height: 70%;
+}

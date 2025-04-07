@@ -10,11 +10,7 @@
             "Arcade",
             "2D"
         ],
-        "special": [
-            "hot",
-            "new",
-            "hr"
-        ],
+        "special": [],
         "size": "m"
     },
     {
@@ -28,11 +24,7 @@
             "Drawing",
             "Strategy"
         ],
-        "special": [
-            "hot",
-            "new",
-            "hr"
-        ],
+        "special": [],
         "size": "s"
     },
     {
@@ -45,11 +37,7 @@
             "Action",
             "Strategy"
         ],
-        "special": [
-            "hot",
-            "new",
-            "hr"
-        ],
+        "special": [],
         "size": "s"
     },
     {
@@ -61,11 +49,7 @@
             "3D",
             "Parkour"
         ],
-        "special": [
-            "hot",
-            "new",
-            "hr"
-        ],
+        "special": [],
         "size": "s"
     },
     {
@@ -79,11 +63,7 @@
             "IO",
             "Action"
         ],
-        "special": [
-            "hot",
-            "new",
-            "hr"
-        ],
+        "special": [],
         "size": "s"
     },
     {
@@ -95,11 +75,7 @@
             "Action",
             "Parkour"
         ],
-        "special": [
-            "hot",
-            "new",
-            "hr"
-        ],
+        "special": [],
         "size": "s"
     },
     {
@@ -112,11 +88,7 @@
             "Action",
             "Strategy"
         ],
-        "special": [
-            "hot",
-            "new",
-            "hr"
-        ],
+        "special": [],
         "size": "s"
     },
     {
@@ -128,11 +100,7 @@
             "Strategy",
             "2D"
         ],
-        "special": [
-            "hot",
-            "new",
-            "hr"
-        ],
+        "special": [],
         "size": "s",
         "unofficial": true
     },
@@ -148,11 +116,7 @@
             "Upgrade",
             "Guns"
         ],
-        "special": [
-            "hot",
-            "new",
-            "hr"
-        ],
+        "special": [],
         "size": "s",
         "unofficial": true
     },
@@ -168,11 +132,7 @@
             "Upgrade",
             "Guns"
         ],
-        "special": [
-            "hot",
-            "new",
-            "hr"
-        ],
+        "special": [],
         "size": "s"
     },
     {
@@ -184,10 +144,7 @@
             "Strategy",
             "2D"
         ],
-        "special": [
-            "hot",
-            "hr"
-        ],
+        "special": [],
         "size": "s"
     },
     {
@@ -200,10 +157,7 @@
             "3D",
             "Parkour"
         ],
-        "special": [
-            "hot",
-            "hr"
-        ],
+        "special": [],
         "size": "s"
     },
     {
@@ -216,10 +170,7 @@
             "3D",
             "Parkour"
         ],
-        "special": [
-            "hot",
-            "hr"
-        ],
+        "special": [],
         "size": "s"
     },
     {
@@ -250,7 +201,6 @@
         ],
         "special": [
             "hot",
-            "new",
             "hr"
         ],
         "size": "l"
@@ -266,9 +216,7 @@
             "Multiplayer"
         ],
         "special": [
-            "hot",
-            "new",
-            "hr"
+            "hot"
         ],
         "size": "s"
     }

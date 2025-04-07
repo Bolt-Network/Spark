@@ -4,6 +4,10 @@ document.addEventListener('DOMContentLoaded', function () {
         .then(games => {
             games.sort((a, b) => a.name.localeCompare(b.name));
             games.forEach(game => {
+                var special = [];
+                if (game.special) {
+                    special = game.special;
+                }
                 const gameCard = document.createElement('div');
                 gameCard.className = 'game-card';
                 gameCard.id = game.name;
@@ -14,6 +18,37 @@ document.addEventListener('DOMContentLoaded', function () {
                 gameImage.alt = game.name;
                 gameImage.className = 'game-image';
 
+                const specialContainer = document.createElement('div');
+                specialContainer.className = 'special-container';
+                special.forEach(special => {
+                    const specialElement = document.createElement('div');
+                    if (special === 'hot') {
+                        const hotIcon = document.createElement('img');
+                        hotIcon.src = "/assets/imgs/svg/flame.svg";
+                        hotIcon.alt = "hot";
+                        hotIcon.className = 'hot-icon';
+                        specialElement.appendChild(hotIcon);
+                    }
+                    if (special === 'new') {
+                        const newIcon = document.createElement('img');
+                        newIcon.src = "/assets/imgs/svg/new.svg";
+                        newIcon.alt = "new";
+                        newIcon.className = 'new-icon';
+                        specialElement.appendChild(newIcon);
+                    }
+                    if (special === 'hr') {
+                        const newIcon = document.createElement('img');
+                        newIcon.src = "/assets/imgs/svg/hr.svg";
+                        newIcon.alt = "hr";
+                        newIcon.className = 'hr-icon';
+                        specialElement.appendChild(newIcon);
+                    }
+
+                    specialElement.className = 'special';
+                    specialElement.id = special;
+                    specialContainer.appendChild(specialElement);
+                });
+
                 const titleContainer = document.createElement('div');
                 titleContainer.className = 'title-container';
 
@@ -21,6 +56,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 gameTitle.className = 'game-title';
                 gameTitle.textContent = game.name;
 
+                gameCard.appendChild(specialContainer);
                 titleContainer.appendChild(gameTitle);
                 gameCard.appendChild(gameImage);
                 gameCard.appendChild(titleContainer);
