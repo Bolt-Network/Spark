@@ -103,6 +103,7 @@ else {
 
 gameFrame.src = localStorage.getItem('url');
 
+
 fullscreenButton.addEventListener('click', () => {
   if (gameFrame.requestFullscreen) {
     gameFrame.requestFullscreen();

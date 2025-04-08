@@ -212,6 +212,77 @@
         "size": "l"
     },
     {
+        "name": "Bloons Super Monkey",
+        "image": "/assets/imgs/games/supermonkey.webp",
+        "url": "https://6games.eu/files/file/game.php?gid=10418&lns=eng&isb=0",
+        "tags": [
+            "Strategy",
+            "2D",
+            "Upgrade",
+            "Shooting",
+            "Action"
+        ],
+        "special": [
+            "hot",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
+        "name": "Kirka.io",
+        "image": "/assets/imgs/games/kirka.jpg",
+        "url": "https://kirka.io",
+        "tags": [
+            "Guns",
+            "3D",
+            "IO",
+            "Multiplayer",
+            "Shooting"
+        ],
+        "special": [
+            "hot",
+            "hr"
+        ],
+        "size": "s",
+        "unofficial": true
+    },
+    {
+        "name": "Kour.io",
+        "image": "/assets/imgs/games/kour.avif",
+        "url": "https://kour.io/",
+        "tags": [
+            "Guns",
+            "3D",
+            "IO",
+            "Multiplayer",
+            "Shooting"
+        ],
+        "special": [
+            "hot",
+            "hr"
+        ],
+        "size": "s",
+        "unofficial": true
+    },
+    {
+        "name": "Shell Shockers",
+        "image": "/assets/imgs/games/shellshockers.jpg",
+        "url": "https://shellshock.io/",
+        "tags": [
+            "Guns",
+            "3D",
+            "IO",
+            "Multiplayer",
+            "Shooting"
+        ],
+        "special": [
+            "hot",
+            "hr"
+        ],
+        "size": "s",
+        "unofficial": true
+    },
+    {
         "name": "Disaster Arena",
         "image": "https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/75d6183e398510939db2e4ad311e3de3.jfif",
         "url": "https://blockblastonline.com/disaster-arena.embed",
