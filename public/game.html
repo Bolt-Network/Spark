@@ -12,37 +12,30 @@
 </head>
 
 <body>
-    <button id="go-home" class="go-home-btn">Go Home</button>
-    <div class="game-container">
-        <div id="unofficial">
-            <h1>This game is not affiliated with Spark. Any advertisments you see in this game are not correlated with
-                Spark.</h1>
-            <button id="unofficial-close">OK</button>
-        </div>
-        <iframe id="gameframe" scrolling="no"></iframe>
-        <div class="game-bar">
-            <img id="game-icon" class="game-icon" src="" alt="Game Icon">
-            <h2 id="game-title" class="game-title"></h2>
-            <button id="fullscreen-btn" class="fullscreen-btn"><img src="/assets/imgs/svg/fullscreen.svg"
-                    id="fulllogo"></button>
-        </div>
-        <div class="suggested-games">
-            <h3>More Games</h3>
-            <div id="more-games" class="more-games-grid"></div>
+
+    <div id="more-games">
+        <div class="game-container">
+            <div id="unofficial">
+                <h2 id="unofficial-text">This game is not affiliated with Spark. Any advertisments you see in-game are
+                    not a result of any of Spark's desires.</h2>
+                <button id="unofficial-close">Okay</button>
+            </div>
+            <iframe id="gameframe" scrolling="no"></iframe>
+            <div class="game-bar">
+                <div id="game-title">
+                    <img src="" alt="Game Logo" id="gamelogo">
+                    <h1 id="game-name-title"></h1>
+                </div>
+                <div id="fullscreen-button" title="Fullscreen">
+                    <img src="/assets/imgs/svg/fullscreen.svg" alt="Fullscreen" id="fullscreen-icon">
+                </div>
+                <div id="bug-button" title="Report a bug">
+                    <img src="/assets/imgs/svg/bug.svg" alt="Report" id="bug-icon">
+                </div>
+            </div>
         </div>
     </div>
 
-    <div>
-        <svg class="waves" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-            viewBox="0 24 150 28" preserveAspectRatio="none" shape-rendering="auto">
-            <defs>
-                <path id="gentle-wave" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" />
-            </defs>
-            <g class="parallax">
-                <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(255,255,255,0.7" />
-            </g>
-        </svg>
-    </div>
     <script src="/assets/js/gameplayer.js"></script>
 </body>
 

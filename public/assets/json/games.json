@@ -10,7 +10,11 @@
             "Arcade",
             "2D"
         ],
-        "special": [],
+        "special": [
+            "hot",
+            "new",
+            "hr"
+        ],
         "size": "m"
     },
     {
@@ -69,7 +73,7 @@
     {
         "name": "Dreadhead Parkour",
         "image": "/assets/imgs/games/dreadhead.avif",
-        "url": "https://dreadheadparkour.gitlab.io/file/",
+        "url": "https://bitlifeonline.github.io/class12523/dreadhead-parkour/",
         "tags": [
             "2D",
             "Action",
@@ -132,7 +136,9 @@
             "Upgrade",
             "Guns"
         ],
-        "special": [],
+        "special": [
+            "new"
+        ],
         "size": "s"
     },
     {

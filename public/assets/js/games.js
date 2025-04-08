@@ -63,6 +63,14 @@ document.addEventListener('DOMContentLoaded', function () {
 
                 gameCard.addEventListener('click', () => {
                     localStorage.setItem('url', game.url);
+                    localStorage.setItem('image', game.image);
+                    localStorage.setItem('name', game.name);
+                    if (game.unofficial) {
+                        localStorage.setItem('unofficial', true);
+                    }
+                    else {
+                        localStorage.removeItem('unofficial');
+                    }
                     window.location.href = "/game.html";
                 });
 
@@ -71,3 +79,4 @@ document.addEventListener('DOMContentLoaded', function () {
             })
         });
 });
+
