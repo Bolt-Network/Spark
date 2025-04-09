@@ -17,7 +17,7 @@
 body {
     background-color: var(--primary);
     font-family: 'font';
-    background-image: url("https://4kwallpapers.com/images/wallpapers/orange-abstract-5k-8k-7680x4800-10990.jpg");
+    background-image: url("/assets/imgs/background/0.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;

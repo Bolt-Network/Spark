@@ -17,7 +17,7 @@
 body {
     background-color: var(--primary);
     font-family: 'font';
-    background-image: url("https://4kwallpapers.com/images/wallpapers/orange-abstract-5k-8k-7680x4800-10990.jpg");
+    background-image: url("/assets/imgs/background/0.jpg");
     background-size: cover;
     background-attachment: fixed;
     background-repeat: no-repeat;
@@ -263,7 +263,11 @@ body {
     color: white;
     font-size: 30px;
     transition: all .3s ease;
-    filter: drop-shadow(0 0 5px white);
+}
+
+#bug-icon {
+    width: 73%;
+    height: 73%;
 }
 
 #unofficial {
@@ -326,11 +330,13 @@ body {
     width: 45px;
     height: 45px;
     border-radius: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    object-position: center;
 }
 
 #game-name-title {
     margin-left: 10px;
     font-size: 20px;
     color: white;
-    text-shadow: 0 0 2px rgb(255, 255, 255);
 }
