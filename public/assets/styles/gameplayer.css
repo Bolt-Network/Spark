@@ -212,16 +212,44 @@ body::before {
 }
 
 .game-container {
-    grid-row-start: 1;
-    grid-row-end: 6;
-    grid-column-start: 2;
-    grid-column-end: 10;
+    position: relative;
+    margin: 0 auto;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 930px;
+    width: 100%;
+    max-width: 930px;
     height: 580px;
+}
+
+@media (max-width: 1024px) {
+    .game-container {
+        max-width: 90%;
+        height: 520px;
+    }
+}
+
+@media (max-width: 768px) {
+    .game-container {
+        max-width: 95%;
+        height: 480px;
+    }
+
+    #unofficial {
+        width: 95%;
+        height: 480px;
+    }
+}
+
+@media (max-width: 480px) {
+    .game-container {
+        height: 400px;
+    }
+
+    #unofficial {
+        height: 400px;
+    }
 }
 
 #gameframe {
@@ -288,9 +316,9 @@ body::before {
     position: absolute;
     background-color: #5839005c;
     backdrop-filter: blur(5px);
-    top: 20px;
-    width: 930px;
-    height: 522px;
+    top: 0px;
+    width: 100%;
+    height: calc(100% - 58px);
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
 }
