@@ -265,6 +265,40 @@
         "unofficial": true
     },
     {
+        "name": "Krunker.io",
+        "image": "/assets/imgs/games/krunker.png",
+        "url": "https://krunker.io/",
+        "tags": [
+            "Guns",
+            "3D",
+            "IO",
+            "Multiplayer",
+            "Shooting"
+        ],
+        "special": [
+            "hot",
+            "hr"
+        ],
+        "size": "s",
+        "unofficial": true
+    },
+    {
+        "name": "Craftmine",
+        "image": "/assets/imgs/games/craftmine.jpeg",
+        "url": "craftmine",
+        "tags": [
+            "Action",
+            "2D",
+            "Adventure",
+            "Strategy"
+        ],
+        "special": [
+            "hot",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
         "name": "Shell Shockers",
         "image": "/assets/imgs/games/shellshockers.jpg",
         "url": "https://shellshock.io/",

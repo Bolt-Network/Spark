@@ -62,7 +62,12 @@ document.addEventListener('DOMContentLoaded', function () {
                 gameCard.appendChild(titleContainer);
 
                 gameCard.addEventListener('click', () => {
-                    localStorage.setItem('url', game.url);
+                    if (game.url.includes('https://') || game.url.includes('http://')) {
+                        localStorage.setItem('url', game.url);
+                    }
+                    else {
+                        localStorage.setItem('url', "https://enchanteddonutstudioz.github.io/Spark-Games/" + game.url);
+                    }
                     localStorage.setItem('image', game.image);
                     localStorage.setItem('name', game.name);
                     if (game.unofficial) {
