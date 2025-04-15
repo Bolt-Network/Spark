@@ -260,6 +260,7 @@ body::before {
     border: none;
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
+    background-color: white;
 }
 
 .game-bar {

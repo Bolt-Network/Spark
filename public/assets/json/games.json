@@ -212,6 +212,72 @@
         "size": "l"
     },
     {
+        "name": "Soldier Legend",
+        "image": "/assets/imgs/games/soldierlegend.jpg",
+        "url": "soldier-legend",
+        "tags": [
+            "2D",
+            "Action",
+            "Adventure",
+            "Guns",
+            "Upgrade"
+        ],
+        "special": [
+            "hot",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
+        "name": "Doge Miner",
+        "image": "/assets/imgs/games/dogeminer.png",
+        "url": "DogeMiner",
+        "tags": [
+            "2D",
+            "Idle",
+            "Strategy",
+            "Upgrade"
+        ],
+        "special": [
+            "hot",
+            "hr"
+        ],
+        "size": "m"
+    },
+    {
+        "name": "10 Minutes Till Dawn",
+        "image": "/assets/imgs/games/10minutes.jpg",
+        "url": "10-minutes-till-dawn",
+        "tags": [
+            "2D",
+            "Strategy",
+            "Upgrade",
+            "Shooting",
+            "Action",
+            "Guns"
+        ],
+        "special": [
+            "hot",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
+        "name": "Achievement Unlocked",
+        "image": "/assets/imgs/games/achievementunlocked.jpg",
+        "url": "achievementunlocked",
+        "tags": [
+            "2D",
+            "Strategy",
+            "Parkour"
+        ],
+        "special": [
+            "hot",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
         "name": "Bloons Super Monkey",
         "image": "/assets/imgs/games/supermonkey.webp",
         "url": "https://6games.eu/files/file/game.php?gid=10418&lns=eng&isb=0",
