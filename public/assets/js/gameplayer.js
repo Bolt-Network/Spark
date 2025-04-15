@@ -4,6 +4,7 @@ const bugButton = document.getElementById('bug-button');
 const unofficial = document.getElementById('unofficial');
 const gameNameElement = document.getElementById('game-name-title');
 const gameImage = document.getElementById('gamelogo');
+const toolbox = document.getElementById('toolbox');
 var gameName = localStorage.getItem('name');
 
 document.title = gameName + " - Play Games Online for Free on Spark";
@@ -489,6 +490,15 @@ function adjustGameContainerGrid() {
     gameContainer.style.maxWidth = '930px';
     gameContainer.style.height = '580px';
   }
+  else {
+    // For small screens
+    gameContainer.style.gridRowStart = '1';
+    gameContainer.style.gridRowEnd = '8';
+    gameContainer.style.gridColumnStart = '2';
+    gameContainer.style.gridColumnEnd = '6';
+    gameContainer.style.maxWidth = '930px';
+    gameContainer.style.height = '820px';
+  }
 }
 
 // Run the adjustment function on page load
@@ -498,4 +508,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
   // Also run when the window is resized
   window.addEventListener('resize', adjustGameContainerGrid);
+});
+
+toolbox.addEventListener('click', () => {
+  window.location.href = "/";
 });

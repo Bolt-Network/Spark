@@ -196,9 +196,9 @@
         "size": "s"
     },
     {
-        "name": "Snowball.io",
+        "name": "Snowbattle",
         "image": "/assets/imgs/games/snowball.png",
-        "url": "https://2052720167-atari-embeds.googleusercontent.com/0d7df373-a4fc-4493-8c75-b03777c783f9",
+        "url": "snowbattle",
         "tags": [
             "Strategy",
             "IO",

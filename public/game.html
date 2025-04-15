@@ -8,12 +8,18 @@
     <title>Spark | The #1 Game Site</title>
     <link rel="stylesheet" href="/assets/styles/gameplayer.css">
     <link rel="stylesheet" href="/assets/styles/waves.css">
+    <link rel="stylesheet" href="/assets/styles/tooltip.css">
     <link rel="icon" href="/assets/imgs/logos/sparklogo.ico">
 </head>
 
 <body>
 
     <div id="more-games">
+        <div id="toolbox">
+            <div id="logo" data-tooltip="Return to Home">
+                <img src="/assets/imgs/logos/sparklogo.png" alt="Spark" id="logo-img">
+            </div>
+        </div>
         <div class="game-container">
             <div id="unofficial">
                 <h2 id="unofficial-text">This game is not affiliated with Spark. Any advertisments you see in-game are
@@ -26,10 +32,10 @@
                     <img src="" alt="Game Logo" id="gamelogo">
                     <h1 id="game-name-title"></h1>
                 </div>
-                <div id="fullscreen-button" title="Fullscreen">
+                <div id="fullscreen-button" data-tooltip="Toggle Fullscreen">
                     <img src="/assets/imgs/svg/fullscreen.svg" alt="Fullscreen" id="fullscreen-icon">
                 </div>
-                <div id="bug-button" title="Report a bug">
+                <div id="bug-button" data-tooltip="Report a Bug">
                     <img src="/assets/imgs/svg/bug.svg" alt="Report" id="bug-icon">
                 </div>
             </div>
