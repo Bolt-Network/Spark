@@ -6,13 +6,49 @@ const gameNameElement = document.getElementById('game-name-title');
 const gameImage = document.getElementById('gamelogo');
 const toolbox = document.getElementById('toolbox');
 var gameName = localStorage.getItem('name');
+var gameUrl;
+
 
 document.title = gameName + " - Play Games Online for Free on Spark";
-
+gameFrame.src = gameUrl;
 document.addEventListener('DOMContentLoaded', function () {
   fetch('/assets/json/games.json')
     .then(response => response.json())
     .then(games => {
+      if (window.location.href.includes("/*/")) {
+        gameUrl = decodeURIComponent(window.location.href.split("/*/")[1]);
+
+        const game = games.find(g => {
+          if (g.url.includes('https://') || g.url.includes('http://')) {
+            return g.url === gameUrl;
+          } else {
+            return "https://enchanteddonutstudioz.github.io/Spark-Games/" + g.url === gameUrl;
+          }
+        });
+
+        if (game) {
+
+          localStorage.setItem('url', gameUrl);
+          localStorage.setItem('image', game.image);
+          localStorage.setItem('name', game.name);
+          if (game.unofficial) {
+            localStorage.setItem('unofficial', true);
+          } else {
+            localStorage.removeItem('unofficial');
+          }
+        }
+      } else {
+        gameUrl = localStorage.getItem('url');
+      }
+
+      gameName = localStorage.getItem('name');
+      document.title = gameName + " - Play Games Online for Free on Spark";
+      gameFrame.src = gameUrl;
+      gameImage.src = localStorage.getItem('image');
+      gameNameElement.textContent = gameName;
+
+
+
       games.sort(() => Math.random() - 0.5);
       games.forEach(game => {
         var special = [];
@@ -73,21 +109,21 @@ document.addEventListener('DOMContentLoaded', function () {
         gameCard.appendChild(titleContainer);
 
         gameCard.addEventListener('click', () => {
-          localStorage.setItem('name', game.name);
-          localStorage.setItem('image', game.image);
           if (game.url.includes('https://') || game.url.includes('http://')) {
             localStorage.setItem('url', game.url);
           }
           else {
             localStorage.setItem('url', "https://enchanteddonutstudioz.github.io/Spark-Games/" + game.url);
           }
+          localStorage.setItem('image', game.image);
+          localStorage.setItem('name', game.name);
           if (game.unofficial) {
             localStorage.setItem('unofficial', true);
           }
           else {
             localStorage.removeItem('unofficial');
           }
-          window.location.href = "/game.html";
+          window.location.href = "/*/" + encodeURIComponent(localStorage.getItem('url'));
         });
 
         const gamesContainer = document.getElementById('more-games');
@@ -108,7 +144,7 @@ else {
   unofficial.style.display = 'none';
 }
 
-gameFrame.src = localStorage.getItem('url');
+
 
 
 fullscreenButton.addEventListener('click', () => {

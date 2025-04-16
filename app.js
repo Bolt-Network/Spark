@@ -18,7 +18,7 @@ app.get("/", (req, res) => {
 
 app.use((req, res) => {
     res.status(404);
-    res.sendFile(publicPath + "/404.html");
+    res.sendFile(publicPath + "/game.html");
 });
 
 
