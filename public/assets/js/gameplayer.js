@@ -15,8 +15,8 @@ document.addEventListener('DOMContentLoaded', function () {
   fetch('/assets/json/games.json')
     .then(response => response.json())
     .then(games => {
-      if (window.location.href.includes("/*/")) {
-        gameUrl = decodeURIComponent(window.location.href.split("/*/")[1]);
+      if (window.location.href.includes("/~/")) {
+        gameUrl = decodeURIComponent(window.location.href.split("/~/")[1]);
 
         const game = games.find(g => {
           if (g.url.includes('https://') || g.url.includes('http://')) {
@@ -123,7 +123,7 @@ document.addEventListener('DOMContentLoaded', function () {
           else {
             localStorage.removeItem('unofficial');
           }
-          window.location.href = "/*/" + encodeURIComponent(localStorage.getItem('url'));
+          window.location.href = "/~/" + encodeURIComponent(localStorage.getItem('url'));
         });
 
         const gamesContainer = document.getElementById('more-games');

@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     else {
                         localStorage.removeItem('unofficial');
                     }
-                    window.location.href = "/*/" + encodeURIComponent(localStorage.getItem('url'));
+                    window.location.href = "/~/" + encodeURIComponent(localStorage.getItem('url'));
                 });
 
                 const gamesContainer = document.getElementById('games');

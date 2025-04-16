@@ -16,11 +16,14 @@ app.get("/", (req, res) => {
     res.sendFile("index.html");
 });
 
-app.use((req, res) => {
-    res.status(404);
+app.get('/~/*', (req, res) => {
     res.sendFile(publicPath + "/game.html");
 });
 
+app.get('*', (req, res) => {
+    res.status(404);
+    res.sendFile(publicPath + "/404.html");
+});
 
 server.on("request", (req, res) => {
     res.setHeader("Cross-Origin-Opener-Policy", "same-origin");
