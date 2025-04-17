@@ -3,7 +3,8 @@ const tagsOpenImage = document.getElementById("tags-open-icon");
 const tagsContainer = document.getElementById("tags-container");
 const tagsSpace = document.getElementById("tags");
 let tagsOpen = false;
-let activeTags = [];
+// Make activeTags global so search.js can access it
+window.activeTags = [];
 
 // Function to collect all unique tags from games
 function collectAllTags(games) {
@@ -25,46 +26,18 @@ function populateTagsContainer(tags) {
         tagElement.textContent = tag;
         tagElement.addEventListener('click', () => {
             tagElement.classList.toggle('active');
+
             if (tagElement.classList.contains('active')) {
-                activeTags.push(tag);
+                window.activeTags.push(tag);
             } else {
-                activeTags = activeTags.filter(t => t !== tag);
+                window.activeTags = window.activeTags.filter(t => t !== tag);
             }
-            filterGamesByTags();
+
+            // Dispatch event after updating the tags
+            document.dispatchEvent(new CustomEvent('tagFilterChange'));
         });
         tagsSpace.appendChild(tagElement);
     });
-}
-
-// Function to filter games by selected tags
-function filterGamesByTags() {
-    const gameCards = document.querySelectorAll('.game-card');
-
-    if (activeTags.length === 0) {
-        // Show all games if no tags selected
-        gameCards.forEach(card => {
-            card.style.display = 'flex';
-        });
-        return;
-    }
-
-    // Get games data to check tags
-    fetch('/assets/json/games.json')
-        .then(response => response.json())
-        .then(games => {
-            gameCards.forEach(card => {
-                const gameName = card.id;
-                const game = games.find(g => g.name === gameName);
-
-                if (game && game.tags) {
-                    // Check if game has any of the active tags
-                    const hasMatchingTag = game.tags.some(tag => activeTags.includes(tag));
-                    card.style.display = hasMatchingTag ? 'flex' : 'none';
-                } else {
-                    card.style.display = 'none';
-                }
-            });
-        });
 }
 
 // Toggle tags container visibility

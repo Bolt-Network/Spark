@@ -251,6 +251,10 @@ body::before {
     z-index: 200;
 }
 
+#search:focus {
+    outline: none;
+}
+
 #tagsbutton {
     position: absolute;
     background-color: rgb(255, 254, 254);
