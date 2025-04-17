@@ -7,14 +7,25 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spark | The #1 Game Site</title>
     <link rel="stylesheet" href="/assets/styles/main.css">
-    <link rel="stylesheet" href="/assets/styles/waves.css">
+    <link rel="stylesheet" href="/assets/styles/tooltip.css">
     <link rel="icon" href="/assets/imgs/logos/sparklogo.ico">
 </head>
 
 <body>
 
     <div id="title">
-        <h1>Spark</h1>
+        <h1 id="title-text">SPARK</h1>
+        <div id="searchbox">
+            <input type="text" id="search" placeholder="Search for games...">
+            <div id="tagsbutton" data-tooltip="Show Tags">
+                <img src="/assets/imgs/svg/down.svg" alt="Expand" id="tags-open-icon">
+            </div>
+            <div id="tags-container">
+                <div id="tags">
+
+                </div>
+            </div>
+        </div>
     </div>
 
     <div id="games">
@@ -23,7 +34,7 @@
 
 
     <script src="/assets/js/games.js"></script>
-
+    <script src="/assets/js/tags.js"></script>
 </body>
 
 </html>
