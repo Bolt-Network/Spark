@@ -277,7 +277,7 @@ body::before {
 
 #tags-container {
     z-index: 5;
-    top: 40%;
+    top: 50%;
     position: absolute;
     width: 20%;
     right: 22px;
