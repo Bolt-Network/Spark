@@ -61,6 +61,7 @@ body::before {
     grid-gap: 20px;
     align-items: start;
     justify-items: center;
+    margin-top: 8vh;
 }
 
 .game-card {
@@ -265,6 +266,8 @@ body::before {
     font-family: 'font';
     font-size: 1rem;
     z-index: 200;
+    right: 0;
+    margin-right: 20px;
 }
 
 #search:focus {
@@ -281,6 +284,8 @@ body::before {
     justify-content: center;
     display: flex;
     border-radius: 100%;
+    right: 20%;
+    margin-right: 20px;
 }
 
 #tags-open-icon {
@@ -297,21 +302,49 @@ body::before {
     height: 0;
     background-color: rgba(255, 255, 255, 0.766);
     backdrop-filter: blur(7px);
-    border-bottom-right-radius: 25px;
-    border-bottom-left-radius: 25px;
     overflow-x: scroll;
     overflow-y: hidden;
     align-items: center;
     justify-content: flex-start;
+    flex-wrap: wrap;
     transition: all 0.3s ease-in-out;
-    scrollbar-width: none;
     -ms-overflow-style: none;
     box-sizing: border-box;
     display: flex;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
 }
 
-#tags-container::-webkit-scrollbar {
-    display: none;
+*::-webkit-scrollbar {
+    height: 11px;
+    width: 11px;
+    background-color: #83444400;
+}
+
+*::-webkit-scrollbar-track {
+    border-radius: 5px;
+    background-color: #83444400;
+}
+
+*::-webkit-scrollbar-track:hover {
+    background-color: #FFFFFF;
+}
+
+*::-webkit-scrollbar-track:active {
+    background-color: #FFFFFF;
+}
+
+*::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: var(--accent);
+}
+
+*::-webkit-scrollbar-thumb:hover {
+    background-color: var(--accent);
+}
+
+*::-webkit-scrollbar-thumb:active {
+    background-color: var(--accent);
 }
 
 #tags {
