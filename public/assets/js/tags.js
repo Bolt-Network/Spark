@@ -51,7 +51,7 @@ tagsButton.addEventListener("click", function () {
         tagsOpen = true;
         tagsButton.setAttribute("data-tooltip", "Hide Tags");
         tagsOpenImage.style.rotate = "180deg";
-        tagsContainer.style.height = "100px"; // Changed to auto to accommodate all tags
+        tagsContainer.style.height = "70px"; // Changed to auto to accommodate all tags
     }
 });
 
