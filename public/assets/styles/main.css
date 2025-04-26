@@ -16,7 +16,7 @@
 
 @font-face {
     font-family: 'big';
-    src: url("/assets/fonts/big.ttf");
+    src: url("/assets/fonts/big.otf");
 }
 
 body {
@@ -61,7 +61,6 @@ body::before {
     grid-gap: 20px;
     align-items: start;
     justify-items: center;
-    margin-top: 8vh;
 }
 
 .game-card {
@@ -250,7 +249,7 @@ body::before {
 }
 
 #searchbox {
-    width: 60%;
+    width: 40%;
     align-items: center;
     justify-content: center;
     display: flex;
@@ -267,7 +266,6 @@ body::before {
     font-size: 1rem;
     z-index: 200;
     right: 0;
-    margin-right: 20px;
 }
 
 #search:focus {
@@ -276,7 +274,6 @@ body::before {
 
 #tagsbutton {
     position: absolute;
-    right: 20%;
     background-color: rgb(255, 254, 254);
     width: 40px;
     height: 40px;
@@ -284,8 +281,7 @@ body::before {
     justify-content: center;
     display: flex;
     border-radius: 100%;
-    right: 20%;
-    margin-right: 20px;
+    right: 30%;
 }
 
 #tags-open-icon {
@@ -298,7 +294,7 @@ body::before {
     z-index: 5;
     position: absolute;
     top: 50%;
-    width: 60%;
+    width: 40%;
     height: 0;
     background-color: rgba(255, 255, 255, 0.766);
     backdrop-filter: blur(7px);
@@ -310,10 +306,10 @@ body::before {
     transition: all 0.3s ease-in-out;
     -ms-overflow-style: none;
     box-sizing: border-box;
-    display: flex;
-    border-bottom-right-radius: 20px;
-    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 5px;
 }
+
 
 *::-webkit-scrollbar {
     height: 11px;
@@ -327,7 +323,7 @@ body::before {
 }
 
 *::-webkit-scrollbar-track:hover {
-    background-color: #FFFFFF;
+    background-color: #ffffff9d;
 }
 
 *::-webkit-scrollbar-track:active {
@@ -348,7 +344,7 @@ body::before {
 }
 
 #tags {
-    transform: translateY(20%);
+    transform: translateY(55%);
     display: flex;
     flex-direction: row;
 }
@@ -375,51 +371,129 @@ body::before {
     box-shadow: var(--card-shadow);
 }
 
+/* Add these styles to your CSS file */
 #about {
-    background-color: rgba(255, 255, 255, 0.766);
-    align-items: center;
-    text-align: center;
-    justify-content: center;
+    background-color: rgba(255, 255, 255, 0.85);
     border-radius: 20px;
-    height: 810px;
+    max-width: 90%;
+    margin: 100px auto 0px;
+    padding: 40px;
+    box-shadow: var(--card-shadow);
+    transition: transform 0.3s ease;
 }
 
-#about-title {
+#about:hover {
+    box-shadow: var(--card-shadow-hover);
+    transform: translateY(-5px);
+}
+
+.section-title {
+    color: var(--secondary);
+    font-family: 'big';
+    font-size: 2.2rem;
+    margin-bottom: 20px;
     position: relative;
-    top: 20px;
+    display: inline-block;
+}
+
+.section-title::after {
+    content: '';
+    position: absolute;
+    bottom: -10px;
+    left: 0;
+    width: 100%;
+    height: 3px;
+    background-color: var(--accent);
+    border-radius: 3px;
 }
 
 .about-text {
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    font-size: 1.2rem;
-    top: 10px;
-    width: 80%;
+    font-size: 1.1rem;
+    line-height: 1.6;
+    margin-bottom: 30px;
+    color: var(--secondary);
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
 }
 
-#about-text-list {
-    text-align: left;
-    position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    font-size: 1.2rem;
-    width: fit-content;
+.feature-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+    margin: 20px 0 30px;
 }
 
-#faq-text {
-    text-align: left;
+.feature-item {
+    background-color: rgba(255, 166, 0, 0.1);
+    border-left: 4px solid var(--accent);
+    padding: 15px 20px;
+    border-radius: 0 10px 10px 0;
+    width: calc(50% - 30px);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.feature-item:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.faq-item {
+    margin-bottom: 20px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    padding: 15px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.faq-question {
+    font-weight: bold;
+    color: var(--secondary);
+    margin-bottom: 10px;
+    font-size: 1.1rem;
+}
+
+.faq-answer {
+    line-height: 1.5;
+}
+
+#copyright {
+    font-size: 0.9rem;
+    margin-top: 40px;
+    color: rgba(47, 35, 0, 0.7);
+    border-top: 1px solid rgba(47, 35, 0, 0.1);
+    padding-top: 20px;
 }
 
 a {
-    color: #ff8400;
-    text-shadow: #ffa600 0px 0px 10px;
+    color: var(--accent);
+    font-weight: bold;
     text-decoration: none;
     transition: all 0.2s ease-in-out;
+    position: relative;
 }
 
 a:hover {
-    text-shadow: #ff8400 0px 0px 10px;
+    color: #ff8400;
+}
+
+a::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 2px;
+    bottom: -2px;
+    left: 0;
+    background-color: var(--accent);
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+}
+
+a:hover::after {
+    transform: scaleX(1);
 }
 
 #copyright {
