@@ -45,6 +45,32 @@
         "size": "s"
     },
     {
+        "name": "Babel Tower",
+        "image": "/assets/imgs/games/babel.avif",
+        "url": "https://script.google.com/macros/s/AKfycbxRBWjngabC4G3-omE2PsRcbAe50Z5stjH3C7jOs1I65POEq3g05ecCZID2VBU2B6AReQ/exec",
+        "tags": [
+            "Arcade",
+            "Idle",
+            "Strategy"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Grow Defense",
+        "image": "/assets/imgs/games/growdefense.jpg",
+        "url": "https://game297093.konggames.com/gamez/0029/7093/live/index.html",
+        "tags": [
+            "Arcade",
+            "3D",
+            "Strategy",
+            "Upgrade"
+        ],
+        "special": [],
+        "size": "s",
+        "unofficial": true
+    },
+    {
         "name": "Snow Rider",
         "image": "/assets/imgs/games/snowrider.jpg",
         "url": "https://smashkartsonlinegames.github.io/v8/snow-rider-3d/",
