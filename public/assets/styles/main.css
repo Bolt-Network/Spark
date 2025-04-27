@@ -319,7 +319,7 @@ body::before {
 
 *::-webkit-scrollbar-track {
     border-radius: 5px;
-    background-color: #83444400;
+    background-color: #ffffff47;
 }
 
 *::-webkit-scrollbar-track:hover {
