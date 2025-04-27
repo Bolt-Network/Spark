@@ -224,18 +224,17 @@ body::before {
     left: 0;
     width: 100%;
     height: 70px;
-    backdrop-filter: blur(7px);
-    background-color: rgba(255, 255, 255, 0.307);
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
     z-index: 100;
+    gap: 30px;
+    padding: 0 20px 20px 20px;
+    background-color: #a5580021;
+    backdrop-filter: blur(40px);
 }
 
 #logo {
-    position: absolute;
-    left: 10px;
     height: 60%;
     display: flex;
     align-items: center;
@@ -249,7 +248,7 @@ body::before {
 }
 
 #searchbox {
-    width: 40%;
+    width: 310px;
     align-items: center;
     justify-content: center;
     display: flex;
@@ -258,30 +257,32 @@ body::before {
 #search {
     width: 100%;
     height: 40px;
-    background-color: white;
+    padding: 0 20px;
+    background-color: #e6e6e648;
     border-radius: 50px;
-    border: none;
-    text-align: center;
     font-family: 'font';
     font-size: 1rem;
     z-index: 200;
     right: 0;
+    color: var(--accent);
+    border: 1px solid #ffffff00;
+    transition-duration: 0.3s;
 }
-
+#search::placeholder {
+    color: var(--accent);
+}
 #search:focus {
     outline: none;
+    border: 1px solid var(--accent);
 }
 
 #tagsbutton {
     position: absolute;
-    background-color: rgb(255, 254, 254);
-    width: 40px;
-    height: 40px;
-    align-items: center;
-    justify-content: center;
-    display: flex;
+    background-color: var(--accent);
+    width: 30px;
+    height: 30px;
     border-radius: 100%;
-    right: 30%;
+    left: 360px;
 }
 
 #tags-open-icon {
@@ -293,12 +294,9 @@ body::before {
 #tags-container {
     z-index: 5;
     position: absolute;
-    top: 50%;
-    width: 40%;
-    height: 0;
-    background-color: rgba(255, 255, 255, 0.766);
-    backdrop-filter: blur(7px);
-    overflow-x: scroll;
+    left: 90px;
+    top: 40%;
+    width: 100%;
     overflow-y: hidden;
     align-items: center;
     justify-content: flex-start;
@@ -308,6 +306,7 @@ body::before {
     box-sizing: border-box;
     border-bottom-right-radius: 5px;
     border-bottom-left-radius: 5px;
+    height: 0;
 }
 
 
@@ -359,6 +358,11 @@ body::before {
     font-size: 0.9rem;
     cursor: pointer;
     transition: transform 0.2s, background-color 0.2s;
+    user-select: none; /* Standard property */
+    -webkit-user-select: none; /* For Safari and Chrome */
+    -moz-user-select: none; /* For Firefox */
+    -ms-user-select: none; /* For Internet Explorer/Edge */
+  
 }
 
 .tag:hover {
@@ -373,7 +377,8 @@ body::before {
 
 /* Add these styles to your CSS file */
 #about {
-    background-color: rgba(255, 255, 255, 0.85);
+    background-color: rgba(255, 255, 255, 0.548);
+    backdrop-filter: blur(20px);
     border-radius: 20px;
     max-width: 90%;
     margin: 100px auto 0px;
