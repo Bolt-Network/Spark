@@ -46,12 +46,14 @@ tagsButton.addEventListener("click", function () {
         tagsOpen = false;
         tagsButton.setAttribute("data-tooltip", "Show Tags");
         tagsOpenImage.style.rotate = "0deg";
-        tagsContainer.style.height = "0";
+        tagsContainer.style.opacity = "0";
+        tagsContainer.style.transform = "translateY(-20px)";
     } else {
         tagsOpen = true;
         tagsButton.setAttribute("data-tooltip", "Hide Tags");
         tagsOpenImage.style.rotate = "180deg";
-        tagsContainer.style.height = "70px"; // Changed to auto to accommodate all tags
+        tagsContainer.style.opacity = "1";
+        tagsContainer.style.transform = "translateY(0px)";
     }
 });
 
