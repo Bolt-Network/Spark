@@ -57,6 +57,19 @@
         "size": "s"
     },
     {
+        "name": "Minecraft 1.12",
+        "image": "/assets/imgs/games/minecraft.png",
+        "url": "minecraft1.12",
+        "tags": [
+            "3D",
+            "Strategy",
+            "Action",
+            "Adventure"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
         "name": "Grow Defense",
         "image": "/assets/imgs/games/growdefense.jpg",
         "url": "https://game297093.konggames.com/gamez/0029/7093/live/index.html",
