@@ -70,6 +70,105 @@
         "size": "s"
     },
     {
+        "name": "Starlike Client",
+        "image": "/assets/imgs/games/starlike.png",
+        "url": "/assets/games/minecraft1.17.html",
+        "tags": [
+            "3D",
+            "Strategy",
+            "Action",
+            "Adventure"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Getaway Shootout",
+        "image": "/assets/imgs/games/getaway.avif",
+        "url": "https://htmlxm.github.io/h4/getaway-shootout/",
+        "tags": [
+            "2D",
+            "Action"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Rooftop Snipers 2",
+        "image": "/assets/imgs/games/rooftop-snipers.png",
+        "url": "https://htmlxm.github.io/h6/rooftop-snipers-2/",
+        "tags": [
+            "2D",
+            "Action"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Burgers and Frights",
+        "image": "/assets/imgs/games/burgers.png",
+        "url": "https://sz-games.github.io/Games6/burger-and-frights/",
+        "tags": [
+            "3D",
+            "Action",
+            "Adventure"
+        ],
+        "special": [
+            "new"
+        ],
+        "size": "s"
+    },
+    {
+        "name": "PolyTrack",
+        "image": "/assets/imgs/games/polytrack.jpg",
+        "url": "https://unblockeds-games.github.io/iframe/Polytrack/fork/",
+        "tags": [
+            "3D",
+            "Action"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Age of War",
+        "image": "/assets/imgs/games/ageofwar.jpg",
+        "url": "https://ageofwargame.io/age-of-war.embedgame",
+        "tags": [
+            "2D",
+            "Strategy",
+            "Action",
+            "Upgrade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Breaking the Bank",
+        "image": "/assets/imgs/games/breakingthebank.avif",
+        "url": "https://ubg89.github.io/BreakingTheBank/",
+        "tags": [
+            "2D",
+            "Strategy",
+            "Action",
+            "Upgrade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Armed with Wings 3",
+        "image": "/assets/imgs/games/armedwithwings.png",
+        "url": "https://frivez.com/flashgame?load=armed-with-wings-3",
+        "tags": [
+            "2D",
+            "Strategy",
+            "Action",
+            "Upgrade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
         "name": "Grow Defense",
         "image": "/assets/imgs/games/growdefense.jpg",
         "url": "https://game297093.konggames.com/gamez/0029/7093/live/index.html",

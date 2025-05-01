@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 gameCard.appendChild(titleContainer);
 
                 gameCard.addEventListener('click', () => {
-                    if (game.url.includes('https://') || game.url.includes('http://')) {
+                    if (game.url.includes('https://') || game.url.includes('http://') || game.url.includes('/assets/games/')) {
                         localStorage.setItem('url', game.url);
                     }
                     else {
