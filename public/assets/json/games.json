@@ -32,6 +32,142 @@
         "size": "s"
     },
     {
+        "name": "Ragdoll Hit",
+        "image": "/assets/imgs/games/ragdollhit.avif",
+        "url": "https://ragdollhit.gitlab.io/file/",
+        "tags": [
+            "2D",
+            "Action"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Idle Digging Tycoon",
+        "image": "/assets/imgs/games/idledigging.jpg",
+        "url": "https://subjectedu511.github.io/g72/class-581/",
+        "tags": [
+            "2D",
+            "Action"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Ragdoll Archers",
+        "image": "/assets/imgs/games/ragdollarchers.webp",
+        "url": "https://roman-number.com/games/ragdollarcher/index.html",
+        "tags": [
+            "2D",
+            "Action"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Mr Bullet",
+        "image": "/assets/imgs/games/mrbullet.png",
+        "url": "https://tbg95.github.io/mr-bullet/game.html",
+        "tags": [
+            "2D",
+            "Action"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Drive Mad",
+        "image": "/assets/imgs/games/drivemad.png",
+        "url": "https://drive-mad-online.github.io/file/",
+        "tags": [
+            "3D",
+            "Action"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Cookie Clicker",
+        "image": "/assets/imgs/games/cookieclicker.webp",
+        "url": "https://cookie-clicker-online.github.io/file/",
+        "tags": [
+            "Idle",
+            "Upgrade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Fortnite",
+        "image": "/assets/imgs/games/fortnite.jpg",
+        "url": "https://play.geforcenow.com/games?game-id=46bfab06-d864-465d-9e56-2d9e45cdee0a&lang=en_US&asset-id=01_7446f58d-0d32-44f0-b4d0-cfec543a5621",
+        "tags": [
+            "3D",
+            "Action",
+            "Strategy",
+            "Shooting",
+            "Guns",
+            "Multiplayer"
+        ],
+        "special": [
+            "hot"
+        ],
+        "size": "m"
+    },
+    {
+        "name": "Bloons TD Battles 2",
+        "image": "/assets/imgs/games/btdb2.webp",
+        "url": "https://play.geforcenow.com/games?game-id=d3b8fd6f-cad3-4779-94c3-b4617714de0c&lang=en_US&asset-id=01_4ec603c9-981d-494f-8837-491c23acfd51",
+        "tags": [
+            "3D",
+            "Action",
+            "Strategy",
+            "Upgrade"
+        ],
+        "special": [
+            "hot"
+        ],
+        "size": "s"
+    },
+    {
+        "name": "Subway Surfers",
+        "image": "/assets/imgs/games/subway.png",
+        "url": "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210324/jj01/index.html",
+        "tags": [
+            "3D",
+            "Action"
+        ],
+        "special": [
+            "hot"
+        ],
+        "size": "s"
+    },
+    {
+        "name": "Slice Master",
+        "image": "/assets/imgs/games/slicemaster.jpg",
+        "url": "https://bitlifeonline.github.io/slice-master/",
+        "tags": [
+            "3D",
+            "Action"
+        ],
+        "special": [
+            "hot"
+        ],
+        "size": "s"
+    },
+    {
+        "name": "Stickman Hook",
+        "image": "/assets/imgs/games/stickmanhook.jpg",
+        "url": "https://stickmanhook.gitlab.io/file/",
+        "tags": [
+            "2D",
+            "Action",
+            "Parkour"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
         "name": "Escape Road",
         "image": "/assets/imgs/games/erc.jpg",
         "url": "https://game.azgame.io/escape-road-city/",
