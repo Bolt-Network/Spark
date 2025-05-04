@@ -48,7 +48,9 @@
         "url": "https://subjectedu511.github.io/g72/class-581/",
         "tags": [
             "2D",
-            "Action"
+            "Action",
+            "Idle",
+            "Upgrade"
         ],
         "special": [],
         "size": "s"
@@ -59,7 +61,8 @@
         "url": "https://roman-number.com/games/ragdollarcher/index.html",
         "tags": [
             "2D",
-            "Action"
+            "Action",
+            "Shooting"
         ],
         "special": [],
         "size": "s"
@@ -70,7 +73,10 @@
         "url": "https://tbg95.github.io/mr-bullet/game.html",
         "tags": [
             "2D",
-            "Action"
+            "Action",
+            "Shooting",
+            "Puzzle",
+            "Guns"
         ],
         "special": [],
         "size": "s"
@@ -81,7 +87,9 @@
         "url": "https://drive-mad-online.github.io/file/",
         "tags": [
             "3D",
-            "Action"
+            "Action",
+            "Arcade",
+            "Parkour"
         ],
         "special": [],
         "size": "s"
@@ -92,7 +100,9 @@
         "url": "https://cookie-clicker-online.github.io/file/",
         "tags": [
             "Idle",
-            "Upgrade"
+            "Upgrade",
+            "Arcade",
+            "2D"
         ],
         "special": [],
         "size": "s"
@@ -122,7 +132,8 @@
             "3D",
             "Action",
             "Strategy",
-            "Upgrade"
+            "Upgrade",
+            "Multiplayer"
         ],
         "special": [
             "hot"
@@ -135,7 +146,9 @@
         "url": "https://szhong.4399.com/4399swf//upload_swf/ftp35/liuxinyu/20210324/jj01/index.html",
         "tags": [
             "3D",
-            "Action"
+            "Action",
+            "Arcade",
+            "Parkour"
         ],
         "special": [
             "hot"
@@ -148,7 +161,8 @@
         "url": "https://bitlifeonline.github.io/slice-master/",
         "tags": [
             "3D",
-            "Action"
+            "Action",
+            "Arcade"
         ],
         "special": [
             "hot"
@@ -162,7 +176,756 @@
         "tags": [
             "2D",
             "Action",
+            "Parkour",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Bodycam Shooter",
+        "image": "/assets/imgs/games/bodycam.avif",
+        "url": "https://www.crazygames.com/embed/bodycamera-shooter",
+        "tags": [
+            "3D",
+            "Action",
+            "Guns",
+            "Shooting",
+            "Multiplayer"
+        ],
+        "special": [],
+        "size": "s",
+        "unofficial": true
+    },
+    {
+        "name": "Clicker Heroes",
+        "image": "/assets/imgs/games/clickerheroes.jpg",
+        "url": "https://www.crazygames.com/embed/clicker-heroes",
+        "tags": [
+            "2D",
+            "Upgrade",
+            "Idle",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s",
+        "unofficial": true
+    },
+    {
+        "name": "Backrooms",
+        "url": "https://backroomsgame.io/game/backrooms/",
+        "image": "/assets/imgs/games/backrooms.png",
+        "tags": [
+            "3D",
+            "Adventure",
+            "Action"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Granny",
+        "url": "https://html5.gamemonetize.co/pm5wjn3np4xl59y8ie3a85xqs1m1nyma/",
+        "image": "/assets/imgs/games/granny.png",
+        "tags": [
+            "3D",
+            "Adventure",
+            "Puzzle"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Piano Tiles",
+        "url": "https://h5.4j.com/games/Piano-Tiles-2-Online/index.html?pubid=silvergames&v=1503580918",
+        "image": "/assets/imgs/games/pianotiles.png",
+        "tags": [
+            "Arcade",
+            "2D"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Raze",
+        "url": "https://f.silvergames.com/ruffle/player.php?id=4195",
+        "image": "/assets/imgs/games/raze.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Shooting",
+            "Guns",
+            "Upgrade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Intrusion",
+        "url": "https://f.silvergames.com/ruffle/player.php?id=2278",
+        "image": "/assets/imgs/games/intrusion.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Shooting",
+            "Adventure",
+            "Guns"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Bitlife",
+        "url": "https://ubg365.github.io/bitlife-life-simulator/play.html",
+        "image": "/assets/imgs/games/bitlife.png",
+        "tags": [
+            "Strategy",
+            "Idle"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Death Run 3D",
+        "url": "https://mathgames66.github.io/games/html5/deathrun3d/",
+        "image": "/assets/imgs/games/deathrun3d.png",
+        "tags": [
+            "3D",
+            "Arcade",
+            "Parkour",
+            "Action"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Vex 3",
+        "url": "https://html5.gamedistribution.com/762c932b4db74c6da0c1d101b2da8be6/?timestamp=1713731401&countryCode=en&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fkizi.com%2Fgames%2Fvex-3",
+        "image": "/assets/imgs/games/vex3.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Parkour",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Vex 4",
+        "url": "https://html5.gamedistribution.com/80e6a5ae477f4d4fbcd1ea293d10087d/?timestamp=1713731551&countryCode=en&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fkizi.com%2Fgames%2Fvex-4",
+        "image": "/assets/imgs/games/vex4.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Parkour",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Vex 5",
+        "url": "https://html5.gamedistribution.com/f120262ab72743039fbce88c1f370df8/?timestamp=1713731604&countryCode=en&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fkizi.com%2Fgames%2Fvex-5",
+        "image": "/assets/imgs/games/vex5.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Parkour",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Vex 6",
+        "url": "https://html5.gamedistribution.com/4925e12574364121a48c61c35f649c36/?timestamp=1713731635&countryCode=en&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fkizi.com%2Fgames%2Fvex-6",
+        "image": "/assets/imgs/games/vex6.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Parkour",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Vex 7",
+        "url": "https://html5.gamedistribution.com/0c454c9562d249d28ba3a2b50564042c/?timestamp=1713731659&countryCode=en&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fkizi.com%2Fgames%2Fvex-7",
+        "image": "/assets/imgs/games/vex7.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Parkour",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Toss the Turle",
+        "url": "https://kdata1.com/RS/game.php?r=https://kdata1.com/2024/02/tosstheturtle_0.swf&w=900&h=563&warnsupport=true",
+        "image": "/assets/imgs/games/tosstheturtle.png",
+        "tags": [
+            "2D",
+            "Arcade",
+            "Upgrade",
+            "Action"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Binding of Issac",
+        "url": "https://f.kbhgames.com/RS/game.php?r=//f.kbhgames.com/2011/10/binding-of-issac.swf&w=800&h=600&warnsupport=true",
+        "image": "/assets/imgs/games/bindingofissac.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Adventure",
+            "Shooting",
+            "Upgrade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Ultimate Driving Simulator",
+        "url": "https://app-258100.games.s3.yandex.net/258100/tjl3zpx5pqgflpnp9trchxb110lsyvvz/index.html?is-united-page=1&skip-guard=1&header=no&clid=2818308&flags=%7B%22adv_sticky_banner_disabled%22%3Atrue%7D&sdk=%2Fsdk%2F_%2Fv2.40602063910d0212bbe3.js#origin=https%3A%2F%2Fyandex.com&app-id=258100&device-type=desktop",
+        "image": "/assets/imgs/games/ultimatecardrivingsimulator.png",
+        "tags": [
+            "3D",
+            "Arcade",
+            "Action"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Madalin Cars Multiplayer",
+        "url": "https://f.kbhgames.com/2018/03/madalin-cars-multiplayer/",
+        "image": "/assets/imgs/games/madalincarsmultiplayer.png",
+        "tags": [
+            "3D",
+            "Arcade",
+            "Multiplayer",
+            "Action"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Deadshot.io",
+        "url": "https://deadshot.io/",
+        "image": "/assets/imgs/games/deadshotio.png",
+        "tags": [
+            "3D",
+            "Action",
+            "Shooting",
+            "Guns",
+            "Multiplayer",
+            "IO"
+        ],
+        "special": [],
+        "size": "s",
+        "unofficial": true
+    },
+    {
+        "name": "Stick Slasher",
+        "url": "https://kdata1.com/2023/03/stickslasher/",
+        "image": "/assets/imgs/games/stickslasher.png",
+        "tags": [
+            "2D",
+            "Action"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Basketbros.io",
+        "url": "https://basketbros.io/",
+        "image": "/assets/imgs/games/basketbrosio.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Multiplayer",
+            "IO",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Fancy Pants",
+        "url": "https://f.kbhgames.com/RS/game.php?r=//f.kbhgames.com/2018/swf/fancypantsadventure.swf&w=720&h=480&warnsupport=true",
+        "image": "/assets/imgs/games/fancypantsadventureworld1.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Adventure",
+            "Parkour",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Jetpack Joyride",
+        "url": "https://kdata1.com/2024/02/jetpack-joyride/",
+        "image": "/assets/imgs/games/jetpackjoyride.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Arcade",
+            "Upgrade",
             "Parkour"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Station Meltdown",
+        "url": "https://kdata1.com/2022/03/station-meltdown/",
+        "image": "/assets/imgs/games/stationmeltdown.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Shooting",
+            "Guns"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "What Remains",
+        "url": "https://kdata1.com/2021/07/3911393/",
+        "image": "/assets/imgs/games/whatremains.png",
+        "tags": [
+            "2D",
+            "Adventure",
+            "Puzzle"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Plazma Burst",
+        "url": "https://f.kbhgames.com/RS/game.php?r=//f.kbhgames.com/2018/swf/plazma-burst.swf&w=1000&h=500&warnsupport=true",
+        "image": "/assets/imgs/games/plazmaburst.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Shooting",
+            "Guns",
+            "Upgrade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Count Secure Operations 2",
+        "url": "https://app-256471.games.s3.yandex.net/256471/gctqmljj6yn6nvurax636mu4hme5gsqz/index.html?is-united-page=1&skip-guard=1&header=no&clid=2818308&flags=%7B%22adv_sticky_banner_disabled%22%3Atrue%7D&sdk=%2Fsdk%2F_%2Fv2.40602063910d0212bbe3.js#origin=https%3A%2F%2Fyandex.com&app-id=256471&device-type=desktop",
+        "image": "/assets/imgs/games/countsecureoperations2.png",
+        "tags": [
+            "3D",
+            "Action",
+            "Shooting",
+            "Guns",
+            "Strategy"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "10-103",
+        "url": "https://kdata1.com/2020/12/3100528/",
+        "image": "/assets/imgs/games/10103.png",
+        "tags": [
+            "2D",
+            "Puzzle",
+            "Adventure",
+            "Parkour"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "10-103: Null Kevin",
+        "url": "https://kdata1.com/2021/06/4056473/",
+        "image": "/assets/imgs/games/10103nullkevin.png",
+        "tags": [
+            "2D",
+            "Puzzle",
+            "Adventure",
+            "Parkour"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Last Hope",
+        "url": "https://kdata1.com/2021/09/LastHope/",
+        "image": "/assets/imgs/games/lasthope.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Shooting",
+            "Guns"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Make sure it's closed",
+        "url": "https://kdata1.com/2019/04/MSIC-WEBGL/",
+        "image": "/assets/imgs/games/makesureitsclosed.png",
+        "tags": [
+            "2D",
+            "Puzzle",
+            "Adventure"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Crossy Road",
+        "url": "https://h52304.github.io/s77/crossy-road/",
+        "image": "/assets/imgs/games/crossyroad.png",
+        "tags": [
+            "Arcade",
+            "3D",
+            "Action"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Survivor.io",
+        "url": "https://html5.gamedistribution.com/rvvASMiM/f1c451e586c04b4c8cba01b0c50d9090/index.html",
+        "image": "/assets/imgs/games/survivalio.png",
+        "tags": [
+            "Action",
+            "Shooting",
+            "Upgrade",
+            "Strategy",
+            "2D",
+            "IO"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Super Mario 64",
+        "url": "https://probablykam.github.io/Mario64webgl/",
+        "image": "/assets/imgs/games/supermario64.png",
+        "tags": [
+            "3D",
+            "Action",
+            "Adventure",
+            "Parkour"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Pokemon Emerald",
+        "url": "https://f.kbhgames.com/emujs/play.php?c=gba&f=pokemon-emerald.gba",
+        "image": "/assets/imgs/games/pokemonemerald.png",
+        "tags": [
+            "Adventure",
+            "Strategy",
+            "2D",
+            "Upgrade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Vex 8",
+        "url": "https://html5.gamedistribution.com/rvvASMiM/949009d40a2846f89f887de2285d6c28/index.html?gd_sdk_referrer_url=https%3A%2F%2Farcadespot.com%2Fgame%2Fvex-8&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2FyY2FkZXNwb3QuY29tL2dhbWUvdmV4LTgiLCJwYXJlbnREb21haW4iOiJhcmNhZGVzcG90LmNvbSIsInRvcERvbWFpbiI6ImFyY2FkZXNwb3QuY29tIiwiaGFzSW1wcmVzc2lvbiI6dHJ1ZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xNyJ9",
+        "image": "/assets/imgs/games/vex8.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Parkour",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Precision Client",
+        "url": "https://html-classic.itch.zone/html/7086310/PrecisionClient-Static-main/index.html",
+        "image": "/assets/imgs/games/precisionclient.png",
+        "tags": [
+            "3D",
+            "Strategy",
+            "Action",
+            "Adventure",
+            "Multiplayer",
+            "Upgrade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Idle Breakout",
+        "url": "https://html5.gamedistribution.com/rvvASMiM/3a3d9f4967994f76a7973297b51c995a/index.html",
+        "image": "/assets/imgs/games/idlebreakout.png",
+        "tags": [
+            "Idle",
+            "Arcade",
+            "Upgrade",
+            "2D",
+            "Strategy"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Burrito Bison",
+        "url": "https://f.silvergames.com/awayfl/index.html?swf=burrito-bison.swf",
+        "image": "/assets/imgs/games/burritobison.png",
+        "tags": [
+            "Arcade",
+            "Action",
+            "Upgrade",
+            "2D"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Twitch Tetris",
+        "url": "https://www.rossipotti.de/ausgabe28/tetris/index.html",
+        "image": "/assets/imgs/games/twitchtetris.png",
+        "tags": [
+            "Puzzle",
+            "Arcade",
+            "Strategy",
+            "2D"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Pizza Tower",
+        "url": "https://kdata1.com/2021/03/3527391/2.1/",
+        "image": "/assets/imgs/games/pizzatower.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Adventure",
+            "Parkour",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Stick Archers Battle",
+        "url": "https://html5.gamedistribution.com/rvvASMiM/a2eafb6bfed84d56a10d6c57e1e72417/index.html?gd_sdk_referrer_url=https%3A%2F%2Fwww.twoplayergames.org%2Fgame%2Fstick-archers-battle&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL3d3dy50d29wbGF5ZXJnYW1lcy5vcmcvZ2FtZS9zdGljay1hcmNoZXJzLWJhdHRsZSIsInBhcmVudERvbWFpbiI6InR3b3BsYXllcmdhbWVzLm9yZyIsInRvcERvbWFpbiI6InR3b3BsYXllcmdhbWVzLm9yZyIsImhhc0ltcHJlc3Npb24iOmZhbHNlLCJsb2FkZXJFbmFibGVkIjp0cnVlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJ2ZXJzaW9uIjoiMS41LjE3In0%253D",
+        "image": "/assets/imgs/games/stickarchersbattle.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Shooting",
+            "Multiplayer",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Funny Shooter 2",
+        "url": "https://html5.gamedistribution.com/rvvASMiM/a1b7ac4025214a5cb0bd01a4f675513a/index.html?gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2Z1bm55c2hvb3RlcjIuY29tLyIsInBhcmVudERvbWFpbiI6ImZ1bm55c2hvb3RlcjIuY29tIiwidG9wRG9tYWluIjoiZnVubnlzaG9vdGVyMi5jb20iLCJoYXNJbXByZXNzaW9uIjpmYWxzZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xNyJ9",
+        "image": "/assets/imgs/games/funnyshooter.png",
+        "tags": [
+            "3D",
+            "Action",
+            "Shooting",
+            "Guns",
+            "Upgrade",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s",
+        "unofficial": true
+    },
+    {
+        "name": "Tomb of the Mask",
+        "url": "https://tombofthemask.github.io/g8/tomb-of-the-mask/",
+        "image": "/assets/imgs/games/tombofthemask.png",
+        "tags": [
+            "Arcade",
+            "Action",
+            "Puzzle",
+            "2D",
+            "Parkour"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Exit Path",
+        "url": "https://f.silvergames.com/ruffle/player.php?id=606",
+        "image": "/assets/imgs/games/exitpath.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Parkour",
+            "Arcade",
+            "Strategy"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Awesome Planes",
+        "url": "https://f.silvergames.com/ruffle/player.php?id=2017",
+        "image": "/assets/imgs/games/awesomeplanes.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Shooting",
+            "Upgrade",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "OvO 2",
+        "url": "https://dedragames.com/games/ovo2/0.2alpha/",
+        "image": "/assets/imgs/games/ovo2.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Parkour",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "60 Seconds",
+        "url": "https://www.puzzlegame.com/games/60-Seconds-Atomic-Adventure/index.html?yad",
+        "image": "/assets/imgs/games/60seconds.png",
+        "tags": [
+            "Strategy",
+            "Adventure",
+            "Action",
+            "2D"
+        ],
+        "special": [],
+        "size": "s",
+        "unofficial": true
+    },
+    {
+        "name": "BuildNow GG",
+        "url": "https://games.crazygames.com/en_US/buildnow-gg/index.html?v=1.282",
+        "image": "/assets/imgs/games/buildnowgg.png",
+        "tags": [
+            "3D",
+            "Action",
+            "Shooting",
+            "Guns",
+            "Multiplayer",
+            "Strategy",
+            "IO"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Sans Fight",
+        "url": "https://jcw87.github.io/c2-sans-fight/",
+        "image": "/assets/imgs/games/sansfight.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Shooting",
+            "Arcade",
+            "Puzzle"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Super Mario Bros",
+        "url": "https://jcw87.github.io/c2-smb1/",
+        "image": "/assets/imgs/games/supermariobros.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Adventure",
+            "Parkour",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Friday night Funkin",
+        "url": "https://uploads.ungrounded.net/alternate/1528000/1528775_alternate_113347_r112.zip/?NewgroundsAPI_PublisherID=1&NewgroundsAPI_SandboxID=6636730d4b7cd&NewgroundsAPI_SessionID=&NewgroundsAPI_UserName=%26lt%3Bdeleted%26gt%3B&NewgroundsAPI_UserID=0&ng_username=%26lt%3Bdeleted%26gt%3B",
+        "image": "/assets/imgs/games/fnf.png",
+        "tags": [
+            "Arcade",
+            "Action",
+            "2D"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Baldis Basics",
+        "url": "https://en.gameslol.net/data/baldis-basics/index.html",
+        "image": "/assets/imgs/games/baldisbasics.png",
+        "tags": [
+            "3D",
+            "Action",
+            "Adventure",
+            "Puzzle",
+            "Strategy"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Assessment Examination",
+        "url": "https://html-classic.itch.zone/html/5392404/Web5/index.html",
+        "image": "/assets/imgs/games/assessmentexamination.png",
+        "tags": [
+            "3D",
+            "Puzzle",
+            "Adventure"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Nightclub Showdown",
+        "url": "https://html-classic.itch.zone/html/3198875/index.html",
+        "image": "/assets/imgs/games/nightclubshowdown.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Shooting",
+            "Guns",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Goodnight Meowmie",
+        "url": "https://ddrkirbyisq.itch.io/goodnight-meowmie",
+        "image": "/assets/imgs/games/goodnightmeowmie.png",
+        "tags": [
+            "2D",
+            "Adventure",
+            "Puzzle"
         ],
         "special": [],
         "size": "s"
@@ -187,7 +950,9 @@
         "tags": [
             "Arcade",
             "Idle",
-            "Strategy"
+            "Strategy",
+            "Upgrade",
+            "2D"
         ],
         "special": [],
         "size": "s"
@@ -200,7 +965,9 @@
             "3D",
             "Strategy",
             "Action",
-            "Adventure"
+            "Adventure",
+            "Multiplayer",
+            "Upgrade"
         ],
         "special": [],
         "size": "s"
@@ -213,7 +980,9 @@
             "3D",
             "Strategy",
             "Action",
-            "Adventure"
+            "Adventure",
+            "Multiplayer",
+            "Upgrade"
         ],
         "special": [],
         "size": "s"
@@ -224,7 +993,11 @@
         "url": "https://htmlxm.github.io/h4/getaway-shootout/",
         "tags": [
             "2D",
-            "Action"
+            "Action",
+            "Multiplayer",
+            "Shooting",
+            "Guns",
+            "Arcade"
         ],
         "special": [],
         "size": "s"
@@ -235,7 +1008,11 @@
         "url": "https://htmlxm.github.io/h6/rooftop-snipers-2/",
         "tags": [
             "2D",
-            "Action"
+            "Action",
+            "Shooting",
+            "Guns",
+            "Multiplayer",
+            "Arcade"
         ],
         "special": [],
         "size": "s"
@@ -260,7 +1037,9 @@
         "url": "https://unblockeds-games.github.io/iframe/Polytrack/fork/",
         "tags": [
             "3D",
-            "Action"
+            "Action",
+            "Arcade",
+            "Parkour"
         ],
         "special": [],
         "size": "s"
@@ -286,7 +1065,8 @@
             "2D",
             "Strategy",
             "Action",
-            "Upgrade"
+            "Puzzle",
+            "Arcade"
         ],
         "special": [],
         "size": "s"
@@ -299,7 +1079,8 @@
             "2D",
             "Strategy",
             "Action",
-            "Upgrade"
+            "Upgrade",
+            "Adventure"
         ],
         "special": [],
         "size": "s"
@@ -310,9 +1091,10 @@
         "url": "https://game297093.konggames.com/gamez/0029/7093/live/index.html",
         "tags": [
             "Arcade",
-            "3D",
             "Strategy",
-            "Upgrade"
+            "Upgrade",
+            "Action",
+            "2D"
         ],
         "special": [],
         "size": "s",
@@ -325,7 +1107,8 @@
         "tags": [
             "Arcade",
             "3D",
-            "Parkour"
+            "Parkour",
+            "Action"
         ],
         "special": [],
         "size": "s"
@@ -339,7 +1122,8 @@
             "3D",
             "Strategy",
             "IO",
-            "Action"
+            "Action",
+            "Multiplayer"
         ],
         "special": [],
         "size": "s"
@@ -351,7 +1135,8 @@
         "tags": [
             "2D",
             "Action",
-            "Parkour"
+            "Parkour",
+            "Arcade"
         ],
         "special": [],
         "size": "s"
@@ -376,7 +1161,9 @@
         "tags": [
             "Arcade",
             "Strategy",
-            "2D"
+            "2D",
+            "IO",
+            "Multiplayer"
         ],
         "special": [],
         "size": "s",
@@ -392,7 +1179,9 @@
             "2D",
             "IO",
             "Upgrade",
-            "Guns"
+            "Guns",
+            "Action",
+            "Multiplayer"
         ],
         "special": [],
         "size": "s",
@@ -406,9 +1195,10 @@
             "Shooting",
             "Strategy",
             "2D",
-            "IO",
             "Upgrade",
-            "Guns"
+            "Guns",
+            "Idle",
+            "Action"
         ],
         "special": [
             "new"
@@ -422,7 +1212,8 @@
         "tags": [
             "Arcade",
             "Strategy",
-            "2D"
+            "2D",
+            "Puzzle"
         ],
         "special": [],
         "size": "s"
@@ -435,7 +1226,9 @@
             "Arcade",
             "Strategy",
             "3D",
-            "Parkour"
+            "Parkour",
+            "Action",
+            "Multiplayer"
         ],
         "special": [],
         "size": "s"
@@ -448,7 +1241,10 @@
             "Arcade",
             "Strategy",
             "3D",
-            "Parkour"
+            "Parkour",
+            "Action",
+            "IO",
+            "Multiplayer"
         ],
         "special": [],
         "size": "s"
@@ -461,7 +1257,7 @@
             "Arcade",
             "Strategy",
             "3D",
-            "Parkour"
+            "Action"
         ],
         "special": [
             "hot",
@@ -477,7 +1273,9 @@
             "Strategy",
             "IO",
             "3D",
-            "Multiplayer"
+            "Multiplayer",
+            "Action",
+            "Arcade"
         ],
         "special": [
             "hot",
@@ -494,7 +1292,8 @@
             "Action",
             "Adventure",
             "Guns",
-            "Upgrade"
+            "Upgrade",
+            "Shooting"
         ],
         "special": [
             "hot",
@@ -510,7 +1309,8 @@
             "2D",
             "Idle",
             "Strategy",
-            "Upgrade"
+            "Upgrade",
+            "Arcade"
         ],
         "special": [
             "hot",
@@ -543,7 +1343,9 @@
         "tags": [
             "2D",
             "Strategy",
-            "Parkour"
+            "Parkour",
+            "Arcade",
+            "Puzzle"
         ],
         "special": [
             "hot",
@@ -560,7 +1362,8 @@
             "2D",
             "Upgrade",
             "Shooting",
-            "Action"
+            "Action",
+            "Arcade"
         ],
         "special": [
             "hot",
@@ -577,7 +1380,8 @@
             "3D",
             "IO",
             "Multiplayer",
-            "Shooting"
+            "Shooting",
+            "Action"
         ],
         "special": [
             "hot",
@@ -595,7 +1399,8 @@
             "3D",
             "IO",
             "Multiplayer",
-            "Shooting"
+            "Shooting",
+            "Action"
         ],
         "special": [
             "hot",
@@ -613,7 +1418,9 @@
             "3D",
             "IO",
             "Multiplayer",
-            "Shooting"
+            "Shooting",
+            "Action",
+            "Parkour"
         ],
         "special": [
             "hot",
@@ -630,7 +1437,8 @@
             "Action",
             "2D",
             "Adventure",
-            "Strategy"
+            "Strategy",
+            "Upgrade"
         ],
         "special": [
             "hot",
@@ -647,7 +1455,8 @@
             "3D",
             "IO",
             "Multiplayer",
-            "Shooting"
+            "Shooting",
+            "Action"
         ],
         "special": [
             "hot",
@@ -664,7 +1473,9 @@
             "Strategy",
             "Parkour",
             "3D",
-            "Multiplayer"
+            "Multiplayer",
+            "Action",
+            "Arcade"
         ],
         "special": [
             "hot"
