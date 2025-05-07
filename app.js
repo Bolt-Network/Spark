@@ -37,7 +37,7 @@ server.on("upgrade", (req, socket, head) => {
     wisp.routeRequest(req, socket, head);
 });
 
-let port = parseInt(process.env.PORT || "8080");
+let port = parseInt(process.env.PORT || "3000");
 
 if (isNaN(port)) port = 3000;
 
