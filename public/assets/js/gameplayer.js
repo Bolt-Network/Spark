@@ -391,7 +391,7 @@ bugButton.addEventListener('click', () => {
       loadingDots.textContent = 'Sending' + '.'.repeat(dotCount);
     }, 300);
 
-    const webhookURL = 'https://discord.com/api/webhooks/1360759070042095718/fsrPZfwC5dcnDEcdC6fEbFTz8FXrkB2n7Sdb1-Td3VLzvx4yeFpgbVsuEVYtsjiD7zfQ';
+    const webhookURL = 'https://discord.com/api/webhooks/1369477924004167793/aLrgJZrr6t0rRoDUdDmud0yzI0UPZHq0QMEfEJLU_xZoCoGZrm88blov4Rq2Q_l47-YB';
     const message = {
       content: `**Bug Report for ${currentGame}**`,
       embeds: [{

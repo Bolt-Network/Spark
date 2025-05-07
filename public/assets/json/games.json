@@ -1,8 +1,8 @@
 [
     {
         "name": "Gunspin",
-        "image": "https://img.gamedistribution.com/917cce8c44c44638a8cdc2a1794b65c8-512x512.jpeg",
-        "url": "gunspin",
+        "image": "/assets/imgs/games/gunspin.jpeg",
+        "url": "https://coolmathsgames.github.io/c/gunspin/",
         "tags": [
             "Upgrade",
             "Guns",
@@ -19,7 +19,7 @@
     },
     {
         "name": "Happy Filled Glass",
-        "image": "https://img.gamedistribution.com/84b43aa584d44167aae8edbeaa26a58b-512x512.jpeg",
+        "image": "/assets/imgs/games/happyglass.jpeg",
         "url": "https://media.safekidgames.com/happy-filled-glass/index.html",
         "tags": [
             "Arcade",
@@ -299,21 +299,8 @@
         "size": "s"
     },
     {
-        "name": "Vex 3",
-        "url": "https://html5.gamedistribution.com/762c932b4db74c6da0c1d101b2da8be6/?timestamp=1713731401&countryCode=en&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fkizi.com%2Fgames%2Fvex-3",
-        "image": "/assets/imgs/games/vex3.png",
-        "tags": [
-            "2D",
-            "Action",
-            "Parkour",
-            "Arcade"
-        ],
-        "special": [],
-        "size": "s"
-    },
-    {
         "name": "Vex 4",
-        "url": "https://html5.gamedistribution.com/80e6a5ae477f4d4fbcd1ea293d10087d/?timestamp=1713731551&countryCode=en&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fkizi.com%2Fgames%2Fvex-4",
+        "url": "https://htmlxm.github.io/h9/vex-4/",
         "image": "/assets/imgs/games/vex4.png",
         "tags": [
             "2D",
@@ -326,7 +313,7 @@
     },
     {
         "name": "Vex 5",
-        "url": "https://html5.gamedistribution.com/f120262ab72743039fbce88c1f370df8/?timestamp=1713731604&countryCode=en&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fkizi.com%2Fgames%2Fvex-5",
+        "url": "https://lnahtml.github.io/a8/vex-5/",
         "image": "/assets/imgs/games/vex5.png",
         "tags": [
             "2D",
@@ -643,7 +630,7 @@
     },
     {
         "name": "Vex 8",
-        "url": "https://html5.gamedistribution.com/rvvASMiM/949009d40a2846f89f887de2285d6c28/index.html?gd_sdk_referrer_url=https%3A%2F%2Farcadespot.com%2Fgame%2Fvex-8&gd_zone_config=eyJwYXJlbnRVUkwiOiJodHRwczovL2FyY2FkZXNwb3QuY29tL2dhbWUvdmV4LTgiLCJwYXJlbnREb21haW4iOiJhcmNhZGVzcG90LmNvbSIsInRvcERvbWFpbiI6ImFyY2FkZXNwb3QuY29tIiwiaGFzSW1wcmVzc2lvbiI6dHJ1ZSwibG9hZGVyRW5hYmxlZCI6dHJ1ZSwiaG9zdCI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwidmVyc2lvbiI6IjEuNS4xNyJ9",
+        "url": "https://ubg98.github.io/Vex8/",
         "image": "/assets/imgs/games/vex8.png",
         "tags": [
             "2D",
@@ -914,18 +901,6 @@
             "Shooting",
             "Guns",
             "Arcade"
-        ],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Goodnight Meowmie",
-        "url": "https://ddrkirbyisq.itch.io/goodnight-meowmie",
-        "image": "/assets/imgs/games/goodnightmeowmie.png",
-        "tags": [
-            "2D",
-            "Adventure",
-            "Puzzle"
         ],
         "special": [],
         "size": "s"
@@ -1467,7 +1442,7 @@
     },
     {
         "name": "Disaster Arena",
-        "image": "https://img.poki-cdn.com/cdn-cgi/image/quality=78,width=314,height=314,fit=cover,f=auto/75d6183e398510939db2e4ad311e3de3.jfif",
+        "image": "/assets/imgs/games/disaster.avif",
         "url": "https://blockblastonline.com/disaster-arena.embed",
         "tags": [
             "Strategy",
