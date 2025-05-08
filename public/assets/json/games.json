@@ -1331,7 +1331,7 @@
     {
         "name": "Bloons Super Monkey",
         "image": "/assets/imgs/games/supermonkey.webp",
-        "url": "https://6games.eu/files/file/game.php?gid=10418&lns=eng&isb=0",
+        "url": "https://www.crazygames.com/embed/bloons-super-monkey",
         "tags": [
             "Strategy",
             "2D",
@@ -1344,7 +1344,8 @@
             "hot",
             "hr"
         ],
-        "size": "s"
+        "size": "s",
+        "unofficial": true
     },
     {
         "name": "Kirka.io",
