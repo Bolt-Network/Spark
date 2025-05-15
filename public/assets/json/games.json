@@ -299,8 +299,21 @@
         "size": "s"
     },
     {
+        "name": "Vex 3",
+        "url": "/assets/games/vex3",
+        "image": "/assets/imgs/games/vex3.png",
+        "tags": [
+            "2D",
+            "Action",
+            "Parkour",
+            "Arcade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
         "name": "Vex 4",
-        "url": "https://htmlxm.github.io/h9/vex-4/",
+        "url": "/assets/games/vex4",
         "image": "/assets/imgs/games/vex4.png",
         "tags": [
             "2D",
@@ -313,7 +326,7 @@
     },
     {
         "name": "Vex 5",
-        "url": "https://lnahtml.github.io/a8/vex-5/",
+        "url": "/assets/games/vex5",
         "image": "/assets/imgs/games/vex5.png",
         "tags": [
             "2D",
@@ -326,7 +339,7 @@
     },
     {
         "name": "Vex 6",
-        "url": "https://html5.gamedistribution.com/4925e12574364121a48c61c35f649c36/?timestamp=1713731635&countryCode=en&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fkizi.com%2Fgames%2Fvex-6",
+        "url": "/assets/games/vex6",
         "image": "/assets/imgs/games/vex6.png",
         "tags": [
             "2D",
@@ -339,7 +352,7 @@
     },
     {
         "name": "Vex 7",
-        "url": "https://html5.gamedistribution.com/0c454c9562d249d28ba3a2b50564042c/?timestamp=1713731659&countryCode=en&siteLocale=en&locale=en&gd_sdk_referrer_url=https%3A%2F%2Fkizi.com%2Fgames%2Fvex-7",
+        "url": "/assets/games/vex7",
         "image": "/assets/imgs/games/vex7.png",
         "tags": [
             "2D",
@@ -1348,6 +1361,37 @@
         "unofficial": true
     },
     {
+        "name": "FNAF",
+        "image": "/assets/imgs/games/fnaf1.png",
+        "url": "https://wellsousaaa.github.io/Five-Nights-at-Freddys-Web/",
+        "tags": [
+            "Strategy",
+            "3D",
+            "Action",
+            "Adventure"
+        ],
+        "special": [
+            "hot",
+            "hr"
+        ],
+        "size": "s"
+    },
+    {
+        "name": "Eggy Car",
+        "url": "https://assets.3kh0.net/eggycar/index.html",
+        "image": "https://assets.3kh0.net/eggycar/eggy-car.png"
+    },
+    {
+        "name": "Rocket League",
+        "url": "https://glcdn.githack.com/kaioxdev/legacy-assets/-/raw/main/Rocket-League/index.html",
+        "image": "https://www.softgozar.com/Image/Softwares/Thumbnail/Rocket_League_Anniversary_SoftGozar.com.png"
+    },
+    {
+        "name": "xx142",
+        "url": "/assets/games/xx142-b2exe",
+        "image": "/assets/imgs/games/xx.jpg"
+    },
+    {
         "name": "Kirka.io",
         "image": "/assets/imgs/games/kirka.jpg",
         "url": "https://kirka.io",
@@ -1384,6 +1428,20 @@
         ],
         "size": "s",
         "unofficial": true
+    },
+    {
+        "name": "Wordle",
+        "image": "/assets/imgs/games/wordle.png",
+        "url": "/assets/games/wordle/",
+        "tags": [
+            "2D",
+            "Strategy"
+        ],
+        "special": [
+            "hot",
+            "hr"
+        ],
+        "size": "s"
     },
     {
         "name": "Krunker.io",
