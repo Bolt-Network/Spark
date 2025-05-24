@@ -3,10 +3,10 @@ const tagsOpenImage = document.getElementById("tags-open-icon");
 const tagsContainer = document.getElementById("tags-container");
 const tagsSpace = document.getElementById("tags");
 let tagsOpen = false;
-// Make activeTags global so search.js can access it
+
 window.activeTags = [];
 
-// Function to collect all unique tags from games
+tagsContainer.style.pointerEvents = "none";
 function collectAllTags(games) {
     const allTags = new Set();
     games.forEach(game => {
@@ -17,7 +17,7 @@ function collectAllTags(games) {
     return Array.from(allTags).sort();
 }
 
-// Function to populate tags container
+
 function populateTagsContainer(tags) {
     tagsSpace.innerHTML = '';
     tags.forEach(tag => {
@@ -33,14 +33,13 @@ function populateTagsContainer(tags) {
                 window.activeTags = window.activeTags.filter(t => t !== tag);
             }
 
-            // Dispatch event after updating the tags
+
             document.dispatchEvent(new CustomEvent('tagFilterChange'));
         });
         tagsSpace.appendChild(tagElement);
     });
 }
 
-// Toggle tags container visibility
 tagsButton.addEventListener("click", function () {
     if (tagsOpen) {
         tagsOpen = false;
@@ -48,16 +47,18 @@ tagsButton.addEventListener("click", function () {
         tagsOpenImage.style.rotate = "0deg";
         tagsContainer.style.opacity = "0";
         tagsContainer.style.transform = "translateY(-20px)";
+        tagsContainer.style.pointerEvents = "none";
     } else {
         tagsOpen = true;
         tagsButton.setAttribute("data-tooltip", "Hide Tags");
         tagsOpenImage.style.rotate = "180deg";
         tagsContainer.style.opacity = "1";
         tagsContainer.style.transform = "translateY(0px)";
+        tagsContainer.style.pointerEvents = "auto";
     }
 });
 
-// Initialize tags when games are loaded
+
 document.addEventListener('DOMContentLoaded', () => {
     fetch('/assets/json/games.json')
         .then(response => response.json())

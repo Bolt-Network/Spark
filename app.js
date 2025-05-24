@@ -32,11 +32,6 @@ server.on("request", (req, res) => {
     res.setHeader('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
     app(req, res);
 });
-
-server.on("upgrade", (req, socket, head) => {
-    wisp.routeRequest(req, socket, head);
-});
-
 let port = parseInt(process.env.PORT || "3000");
 
 if (isNaN(port)) port = 3000;
@@ -44,8 +39,6 @@ if (isNaN(port)) port = 3000;
 server.on("listening", () => {
     const address = server.address();
 
-    // by default we are listening on 0.0.0.0 (every interface)
-    // we just need to list a few
     console.log("Listening on:");
     console.log(`\thttp://localhost:${address.port}`);
     console.log(`\thttp://${hostname()}:${address.port}`);
@@ -56,7 +49,7 @@ server.on("listening", () => {
 
 });
 
-// https://expressjs.com/en/advanced/healthcheck-graceful-shutdown.html
+
 process.on("SIGINT", shutdown);
 process.on("SIGTERM", shutdown);
 

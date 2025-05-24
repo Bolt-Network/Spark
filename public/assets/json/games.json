@@ -18,6 +18,86 @@
         "size": "m"
     },
     {
+        "name": "Zoom-Be 2",
+        "image": "/assets/imgs/games/zoombe.avif",
+        "url": "https://fivenightsatfreddysonline.github.io/g177/class-294",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Archer Master 3D",
+        "image": "/assets/imgs/games/archermaster.jpg",
+        "url": "https://fivenightsatfreddysonline.github.io/g177/class-340",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Stickman Army Team Battle",
+        "image": "/assets/imgs/games/stickmanarmyteam.avif",
+        "url": "https://fivenightsatfreddysonline.github.io/g2/class-738",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Moto Road Rash 3D",
+        "image": "/assets/imgs/games/roadrash.jpg",
+        "url": "https://fivenightsatfreddysonline.github.io/g97/class-464",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Earn To Die 2",
+        "image": "/assets/imgs/games/etd2.png",
+        "url": "https://fivenightsatfreddysonline.github.io/g26/class-523",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Cave Blast",
+        "image": "/assets/imgs/games/caveblast.avif",
+        "url": "https://fivenightsatfreddysonline.github.io/g74/class-268",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Offroader 5",
+        "image": "/assets/imgs/games/offroader.jpg",
+        "url": "https://fivenightsatfreddysonline.github.io/g72/class-751",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "The Little Giant",
+        "image": "/assets/imgs/games/thelittlegiant.jpg",
+        "url": "https://fivenightsatfreddysonline.github.io/g5/class-659",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "KiX Dream Soccer",
+        "image": "/assets/imgs/games/dreamsoccer.jpg",
+        "url": "https://fivenightsatfreddysonline.github.io/g72/class-683",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Rocketpult",
+        "image": "/assets/imgs/games/rocketpault.jpg",
+        "url": "https://fivenightsatfreddysonline.github.io/g/class-814",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
         "name": "Happy Filled Glass",
         "image": "/assets/imgs/games/happyglass.jpeg",
         "url": "https://media.safekidgames.com/happy-filled-glass/index.html",
@@ -46,6 +126,45 @@
         "name": "Idle Digging Tycoon",
         "image": "/assets/imgs/games/idledigging.jpg",
         "url": "https://subjectedu511.github.io/g72/class-581/",
+        "tags": [
+            "2D",
+            "Action",
+            "Idle",
+            "Upgrade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Sushi Unroll",
+        "image": "/assets/games/sushi-unroll/favicon.png",
+        "url": "/assets/games/sushi-unroll",
+        "tags": [
+            "2D",
+            "Action",
+            "Idle",
+            "Upgrade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Flip Runner",
+        "image": "/assets/imgs/games/fliprunner.png",
+        "url": "https://fivenightsatfreddysonline.github.io/g177/class-335/",
+        "tags": [
+            "3D",
+            "Action",
+            "Parkour",
+            "Upgrade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Temple Run 2",
+        "image": "/assets/games/temple-run-2/img/og-icon.png",
+        "url": "/assets/games/temple-run-2",
         "tags": [
             "2D",
             "Action",
