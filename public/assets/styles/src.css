@@ -1,0 +1,24 @@
+:root {
+    --primary: #ffed9e;
+    --secondary: #2f2300;
+    --accent: #ffa600;
+    --card-radius: 10px;
+    --card-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    --card-shadow-hover: 0 8px 16px rgba(0, 0, 0, 0.2);
+    --title-bg: rgba(47, 35, 0, 0.9);
+}
+
+
+@font-face {
+    font-family: 'font';
+    src: url("/assets/fonts/font.ttf");
+}
+
+body {
+    background-color: var(--primary);
+    font-family: 'font';
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+    position: relative;
+}

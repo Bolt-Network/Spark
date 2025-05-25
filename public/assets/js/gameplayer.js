@@ -19,6 +19,9 @@ document.addEventListener('DOMContentLoaded', function () {
       if (window.location.href.includes("/~/")) {
 
         gameNameUrl = decodeURIComponent(window.location.href.split("/~/")[1]);
+        if (gameNameUrl.includes('/')) {
+          gameNameUrl = gameNameUrl.split('/')[0];
+        }
         document.title = gameNameUrl + " - Play Games Online for Free on Spark";
 
 

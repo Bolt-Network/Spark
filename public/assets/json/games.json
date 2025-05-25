@@ -18,6 +18,78 @@
         "size": "m"
     },
     {
+        "name": "Merge Cakes",
+        "image": "/assets/imgs/games/mergecakes.jpg",
+        "url": "https://fivenightsatfreddysonline.github.io/g72/class-600",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Jet Boy",
+        "image": "/assets/imgs/games/jetboy.jpg",
+        "url": "https://fivenightsatfreddysonline.github.io/g5/class-796",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Coffee Shop",
+        "image": "/assets/imgs/games/coffeeshop.avif",
+        "url": "https://fivenightsatfreddysonline.github.io/g5/class-558",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Google Snake",
+        "image": "/assets/imgs/games/snake.webp",
+        "url": "https://fivenightsatfreddysonline.github.io/g26/class-454",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Snake 3D",
+        "image": "/assets/imgs/games/snake3d.jpg",
+        "url": "https://snake-3d.com/",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Grindcraft",
+        "image": "/assets/imgs/games/grindcraft.avif",
+        "url": "https://fivenightsatfreddysonline.github.io/g5/class-794",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Eliza Mall Mania",
+        "image": "/assets/imgs/games/emm.avif",
+        "url": "https://fivenightsatfreddysonline.github.io/g9/class-637",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Papa's Donuteria",
+        "image": "/assets/imgs/games/papasdonut.jpg",
+        "url": "https://fivenightsatfreddysonline.github.io/g77/class-37",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Papa's Taco Mia",
+        "image": "/assets/imgs/games/ptm.jpg",
+        "url": "https://fivenightsatfreddysonline.github.io/g77/class-40",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
         "name": "Zoom-Be 2",
         "image": "/assets/imgs/games/zoombe.avif",
         "url": "https://fivenightsatfreddysonline.github.io/g177/class-294",
