@@ -26,6 +26,78 @@
         "size": "s"
     },
     {
+        "name": "Squish Run",
+        "image": "/assets/imgs/games/squishrun.avif",
+        "url": "https://fivenightsatfreddysonline.github.io/g2/class-664",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Red Ball 4",
+        "image": "/assets/imgs/games/redball4.avif",
+        "url": "https://fivenightsatfreddysonline.github.io/g22/class-491",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "True Love Calculator",
+        "image": "/assets/imgs/games/tlc.avif",
+        "url": "https://fivenightsatfreddysonline.github.io/g8/class-118",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Tumble Wrestling",
+        "image": "/assets/imgs/games/tumblewrestling.avif",
+        "url": "https://fivenightsatfreddysonline.github.io/g4/class-172",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Cooking Fast",
+        "image": "/assets/imgs/games/cookingfast.avif",
+        "url": "https://fivenightsatfreddysonline.github.io/g8/class-113",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "SWAT vs Terrorists",
+        "image": "/assets/imgs/games/svt.jpg",
+        "url": "https://fivenightsatfreddysonline.github.io/g69/class-729",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Jungle Bubble Shooter",
+        "image": "/assets/imgs/games/jbs.avif",
+        "url": "https://fivenightsatfreddysonline.github.io/g4/class-211",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Rio Rex",
+        "image": "/assets/imgs/games/riorex.png",
+        "url": "https://fivenightsatfreddysonline.github.io/g2/class-771",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Ice Cream Please",
+        "image": "/assets/imgs/games/icp.avif",
+        "url": "https://fivenightsatfreddysonline.github.io/g8/class-108",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
         "name": "Archer Master 3D",
         "image": "/assets/imgs/games/archermaster.jpg",
         "url": "https://fivenightsatfreddysonline.github.io/g177/class-340",
