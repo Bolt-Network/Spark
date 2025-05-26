@@ -947,6 +947,20 @@
         "size": "s"
     },
     {
+        "name": "N (The Way of the Ninja)",
+        "url": "/assets/games/n/www.thewayoftheninja.org/nv2.html",
+        "image": "/assets/imgs/games/ngame.png",
+        "tags": [
+            "Idle",
+            "Arcade",
+            "Upgrade",
+            "2D",
+            "Strategy"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
         "name": "Burrito Bison",
         "url": "https://f.silvergames.com/awayfl/index.html?swf=burrito-bison.swf",
         "image": "/assets/imgs/games/burritobison.png",
