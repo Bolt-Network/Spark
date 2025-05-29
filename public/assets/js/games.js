@@ -62,7 +62,7 @@ document.addEventListener('DOMContentLoaded', function () {
                 gameCard.appendChild(titleContainer);
 
                 gameCard.addEventListener('click', () => {
-                    if (game.url.includes('play.geforcenow.com')) {
+                    if (game.url.includes('play.geforcenow.com') || game.url.includes('https://play-cs.com')) {
                         window.open(game.url, '_blank');
                         return;
                     }
