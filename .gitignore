@@ -128,3 +128,11 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# devs only
+
+fetch-images.py
+tsconfig.json
+"/Alex's Stuff"
+requirements.txt
+start.bat
