@@ -39,4 +39,4 @@ Welcome to **Spark**—your lightning‑fast destination for web games! Think ab
 
 ---
 
--# join our community for Bolt Proxy, the best proxy ever here: https://discord.gg/8rwFwZMej9 
+<sub><sup>join our community for Bolt Proxy, the best proxy ever here: https://discord.gg/8rwFwZMej9</sup></sub>
