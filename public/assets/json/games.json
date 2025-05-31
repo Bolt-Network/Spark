@@ -1,15 +1,7 @@
 [
     {
-        "name": "1",
-        "image": "/assets/imgs/games/1-2048.png",
-        "url": "1",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
         "name": "10 Minutes Till Dawn",
-        "image": "/assets/imgs/games/10-Minutes-Til-Dawn.png",
+        "image": "https://howlongtobeat.com/games/107778_10_Minutes_Till_Dawn.jpg",
         "url": "10-minutes-till-dawn",
         "tags": [],
         "special": [],
@@ -33,7 +25,7 @@
     },
     {
         "name": "2020 Game",
-        "image": "/assets/imgs/games/2020_game.png",
+        "image": "https://2020game.io/logo/200x200.png",
         "url": "2020-game",
         "tags": [],
         "special": [],
@@ -48,25 +40,9 @@
         "size": "s"
     },
     {
-        "name": "2048 Multitask",
-        "image": "/assets/imgs/games/2048-multitask.png",
-        "url": "2048-multitask",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
         "name": "8 Ball Billards Classic",
         "image": "/assets/imgs/games/8_ball_billards_classic.png",
         "url": "8ball-billards-classic",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "9007199254740992",
-        "image": "/assets/imgs/games/9007199254740992.png",
-        "url": "9007199254740992",
         "tags": [],
         "special": [],
         "size": "s"
@@ -225,7 +201,7 @@
     },
     {
         "name": "Backrooms",
-        "image": "/assets/imgs/games/backrooms.png",
+        "image": "/https://img.itch.zone/aW1nLzIxNTk2MjEuanBn/original/1i6rgK.jpg",
         "url": "backrooms",
         "tags": [],
         "special": [],
@@ -272,7 +248,7 @@
         "size": "s"
     },
     {
-        "name": "Basketball .io",
+        "name": "Basketball.io",
         "image": "/assets/imgs/games/basketballio.jpg",
         "url": "basketball-io",
         "tags": [],
@@ -289,7 +265,7 @@
     },
     {
         "name": "Basketball Stars",
-        "image": "/assets/imgs/games/basketballstars.png",
+        "image": "https://imgs.crazygames.com/games/basketball-stars-2019/cover-1583231506155.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
         "url": "basketball-stars",
         "tags": [],
         "special": [],
@@ -313,7 +289,7 @@
     },
     {
         "name": "Binding Of Isaac",
-        "image": "/assets/imgs/games/",
+        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvqpEUco0nGnsgAlt0FKWj8oHwu3kofECHHnoWEMa25yHJx1tSnqUuj1Zwo4kRhsY_0epQDg",
         "url": "binding-of-isaac",
         "tags": [],
         "special": [],
@@ -321,23 +297,15 @@
     },
     {
         "name": "Bitlife",
-        "image": "/assets/imgs/games/bitlife.png",
+        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMWgIRmr1_PK-JOKBAbLveo1O-zfgcyrw2ncdJ006Vte91uo47Jc9uqU5ce3_V53nxsyzZ",
         "url": "bitlife",
         "tags": [],
         "special": [],
         "size": "s"
     },
     {
-        "name": "Blacholesquare",
-        "image": "/assets/imgs/games/blacholesquare.png",
-        "url": "blacholesquare",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Blackholesquare",
-        "image": "/assets/imgs/games/blackholesquare.png",
+        "name": "Black Hole Square",
+        "image": "https://supernapie.com/media/black-hole-square-poster.jpg",
         "url": "blackholesquare",
         "tags": [],
         "special": [],
@@ -393,7 +361,7 @@
     },
     {
         "name": "Boxel Rebound",
-        "image": "/assets/imgs/games/boxel_rebound.svg",
+        "image": "https://slopeonline.online/upload/imgs/boxel-rebound.jpg",
         "url": "boxel-rebound",
         "tags": [],
         "special": [],
@@ -409,14 +377,14 @@
     },
     {
         "name": "Brave Explorers",
-        "image": "/assets/imgs/games/",
+        "image": "https://cdn.pomu.com/files/game/img_mobile/17533/Brave-Explorers.webp",
         "url": "brave-explorers",
         "tags": [],
         "special": [],
         "size": "s"
     },
     {
-        "name": "Breakingthebank",
+        "name": "Breaking The Bank",
         "image": "/assets/imgs/games/breakingthebank.png",
         "url": "breakingthebank",
         "tags": [],
@@ -425,7 +393,7 @@
     },
     {
         "name": "Breaklock",
-        "image": "/assets/imgs/games/",
+        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/1e/34/bc/1e34bc43-53fb-4d00-aed1-4349c81181dc/source/512x512bb.jpg",
         "url": "breaklock",
         "tags": [],
         "special": [],
@@ -433,7 +401,7 @@
     },
     {
         "name": "Breakout",
-        "image": "/assets/imgs/games/idlebreakout.png",
+        "image": "https://www.coolmathgames.com/sites/default/files/Breakout_OG-logo.jpg",
         "url": "breakout",
         "tags": [],
         "special": [],
@@ -441,15 +409,15 @@
     },
     {
         "name": "Bloons TD 4",
-        "image": "/assets/imgs/games/",
+        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXfSMGDpYNOkhJCepqydK7P2AtDIlLoPl5eymvl4jqzgmGjcyJnNnRyWeb23XDi4XPRHjn",
         "url": "btd4",
         "tags": [],
         "special": [],
         "size": "s"
     },
     {
-        "name": "Btts",
-        "image": "/assets/imgs/games/btts.png",
+        "name": "Big Tower Tiny Square",
+        "image": "https://www.coolmathgames.com/sites/default/files/BigTowerTinySquare_OG-logo.jpg",
         "url": "btts",
         "tags": [],
         "special": [],
@@ -481,7 +449,7 @@
     },
     {
         "name": "Captaincallisto",
-        "image": "/assets/imgs/games/",
+        "image": "https://i.ytimg.com/vi/G3bolrQfgQU/maxresdefault.jpg",
         "url": "captaincallisto",
         "tags": [],
         "special": [],
@@ -513,7 +481,7 @@
     },
     {
         "name": "Chess",
-        "image": "/assets/imgs/games/chess.png",
+        "image": "https://digital-game-technology-2021.imgix.net/media/Headers/dgt-electronic-plastic-chess-pieces.jpg?auto=format&crop=focalpoint&domain=digital-game-technology-2021.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=630&ixlib=php-3.3.1&q=82&w=1200",
         "url": "chess",
         "tags": [],
         "special": [],
@@ -529,7 +497,7 @@
     },
     {
         "name": "Chromaincident",
-        "image": "/assets/imgs/games/",
+        "image": "https://www.html5gamedevs.com/uploads/monthly_2018_09/180911_165009_Proof.PNG.019124c29c3ae06586c9649bab825ab2.PNG",
         "url": "chromaincident",
         "tags": [],
         "special": [],
@@ -539,14 +507,6 @@
         "name": "Chrome Dino",
         "image": "/assets/imgs/games/chrome_dino.png",
         "url": "chrome-dino",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Chromedino",
-        "image": "/assets/imgs/games/",
-        "url": "chromedino",
         "tags": [],
         "special": [],
         "size": "s"
@@ -601,23 +561,15 @@
     },
     {
         "name": "Cookie Clicker",
-        "image": "/assets/imgs/games/cookieclicker.png",
+        "image": "https://super142.wordpress.com/wp-content/uploads/2022/07/cookie-clicker.jpg",
         "url": "cookie-clicker",
         "tags": [],
         "special": [],
         "size": "s"
     },
     {
-        "name": "Cookieclicker",
-        "image": "/assets/imgs/games/cookieclicker.png",
-        "url": "cookieclicker",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
         "name": "Core Ball",
-        "image": "/assets/imgs/games/",
+        "image": "https://iogames.onl/upload/imgs/coreball.jpg",
         "url": "core-ball",
         "tags": [],
         "special": [],
@@ -625,14 +577,14 @@
     },
     {
         "name": "Craftmine",
-        "image": "/assets/imgs/games/craftmine.jpeg",
+        "image": "https://static.keygames.com/8/114868/100733/1200x630/craftmine.webp",
         "url": "craftmine",
         "tags": [],
         "special": [],
         "size": "s"
     },
     {
-        "name": "Creativekillchamber",
+        "name": "Creative Kill Chamber",
         "image": "/assets/imgs/games/creativekillchamber.jpg",
         "url": "creativekillchamber",
         "tags": [],
@@ -640,8 +592,8 @@
         "size": "s"
     },
     {
-        "name": "Crossyroad",
-        "image": "/assets/imgs/games/crossyroad.png",
+        "name": "Crossy Road",
+        "image": "https://images5.alphacoders.com/112/1127400.png",
         "url": "crossyroad",
         "tags": [],
         "special": [],
@@ -656,7 +608,7 @@
         "size": "s"
     },
     {
-        "name": "Csgo Clicker",
+        "name": "CSGO Clicker",
         "image": "/assets/imgs/games/csgo_clicker.png",
         "url": "csgo-clicker",
         "tags": [],
@@ -664,32 +616,8 @@
         "size": "s"
     },
     {
-        "name": "Ctr",
-        "image": "/assets/imgs/games/spectralslash.png",
-        "url": "ctr",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Ctr Holiday",
-        "image": "/assets/imgs/games/ctr_holiday.png",
-        "url": "ctr-holiday",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Ctr Tr",
-        "image": "/assets/imgs/games/ctr_tr.png",
-        "url": "ctr-tr",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
         "name": "Cubefield",
-        "image": "/assets/imgs/games/cubefield.png",
+        "image": "https://assets.funnygames.org/2/4172/57072/1200x630/cubefield.webp",
         "url": "cubefield",
         "tags": [],
         "special": [],
@@ -697,48 +625,16 @@
     },
     {
         "name": "Cupcake 2048",
-        "image": "/assets/imgs/games/",
+        "image": "https://play-lh.googleusercontent.com/tPr661utQmQBG4c2uqY2KcgvQ9a_s36iMg8E0aCtYERKgR7ptV9x30tdqU0dj6pocA",
         "url": "cupcake2048",
         "tags": [],
         "special": [],
         "size": "s"
     },
     {
-        "name": "Cuttherope",
-        "image": "/assets/imgs/games/",
-        "url": "cuttherope",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Cuttherope 2",
-        "image": "/assets/imgs/games/",
-        "url": "cuttherope2",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Dadish",
-        "image": "/assets/imgs/games/",
-        "url": "dadish",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Dadish 3",
-        "image": "/assets/imgs/games/",
-        "url": "dadish3",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Dadishtwo",
-        "image": "/assets/imgs/games/",
-        "url": "dadishtwo",
+        "name": "Cut The Rope",
+        "image": "https://upload.wikimedia.org/wikipedia/en/6/66/Cut_the_Rope_%28App_icon%29.png",
+        "url": "ctr",
         "tags": [],
         "special": [],
         "size": "s"
@@ -1800,7 +1696,7 @@
     },
     {
         "name": "Bloons TD Battles 2",
-        "image": "/assets/imgs/games/btdb2.webp",
+        "image": "https://static.wikia.nocookie.net/b__/images/d/d2/EFCC59hR_400x400.png/revision/latest/scale-to-width/360?cb=20210424001124&path-prefix=bloonsp",
         "url": "https://play.geforcenow.com/games?game-id=d3b8fd6f-cad3-4779-94c3-b4617714de0c&lang=en_US&asset-id=01_4ec603c9-981d-494f-8837-491c23acfd51",
         "tags": [
             "3D",
@@ -1816,7 +1712,7 @@
     },
     {
         "name": "Counter-Strike",
-        "image": "/assets/imgs/games/cs.jpg",
+        "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/11/cs-2-valve.jpg",
         "url": "https://play-cs.com/",
         "tags": [
             "3D",
