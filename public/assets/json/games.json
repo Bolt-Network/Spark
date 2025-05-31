@@ -1,7 +1,7 @@
 [
     {
         "name": "10 Minutes Till Dawn",
-        "image": "https://howlongtobeat.com/games/107778_10_Minutes_Till_Dawn.jpg",
+        "image": "/assets/imgs/games/10minutestilldawn.jpg",
         "url": "10-minutes-till-dawn",
         "tags": [],
         "special": [],
@@ -25,7 +25,7 @@
     },
     {
         "name": "2020 Game",
-        "image": "https://2020game.io/logo/200x200.png",
+        "image": "/assets/imgs/games/2020game.png",
         "url": "2020-game",
         "tags": [],
         "special": [],
@@ -265,7 +265,7 @@
     },
     {
         "name": "Basketball Stars",
-        "image": "https://imgs.crazygames.com/games/basketball-stars-2019/cover-1583231506155.png?metadata=none&quality=40&width=1200&height=630&fit=crop",
+        "image": "/assets/imgs/games/basketballstars.png",
         "url": "basketball-stars",
         "tags": [],
         "special": [],
@@ -289,7 +289,7 @@
     },
     {
         "name": "Binding Of Isaac",
-        "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTvqpEUco0nGnsgAlt0FKWj8oHwu3kofECHHnoWEMa25yHJx1tSnqUuj1Zwo4kRhsY_0epQDg",
+        "image": "/assets/imgs/games/bindingofisaac.jpg",
         "url": "binding-of-isaac",
         "tags": [],
         "special": [],
@@ -297,7 +297,7 @@
     },
     {
         "name": "Bitlife",
-        "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQMWgIRmr1_PK-JOKBAbLveo1O-zfgcyrw2ncdJ006Vte91uo47Jc9uqU5ce3_V53nxsyzZ",
+        "image": "/assets/imgs/games/bitlife.jpg",
         "url": "bitlife",
         "tags": [],
         "special": [],
@@ -305,7 +305,7 @@
     },
     {
         "name": "Black Hole Square",
-        "image": "https://supernapie.com/media/black-hole-square-poster.jpg",
+        "image": "/assets/imgs/games/blackholesquare.jpg",
         "url": "blackholesquare",
         "tags": [],
         "special": [],
@@ -361,7 +361,7 @@
     },
     {
         "name": "Boxel Rebound",
-        "image": "https://slopeonline.online/upload/imgs/boxel-rebound.jpg",
+        "image": "/assets/imgs/games/boxelrebound.jpg",
         "url": "boxel-rebound",
         "tags": [],
         "special": [],
@@ -377,7 +377,7 @@
     },
     {
         "name": "Brave Explorers",
-        "image": "https://cdn.pomu.com/files/game/img_mobile/17533/Brave-Explorers.webp",
+        "image": "/assets/imgs/games/braveexplorers.webp",
         "url": "brave-explorers",
         "tags": [],
         "special": [],
@@ -393,7 +393,7 @@
     },
     {
         "name": "Breaklock",
-        "image": "https://is1-ssl.mzstatic.com/image/thumb/Purple127/v4/1e/34/bc/1e34bc43-53fb-4d00-aed1-4349c81181dc/source/512x512bb.jpg",
+        "image": "/assets/imgs/games/breaklock.jpg",
         "url": "breaklock",
         "tags": [],
         "special": [],
@@ -401,7 +401,7 @@
     },
     {
         "name": "Breakout",
-        "image": "https://www.coolmathgames.com/sites/default/files/Breakout_OG-logo.jpg",
+        "image": "/assets/imgs/games/breakout.jpg",
         "url": "breakout",
         "tags": [],
         "special": [],
@@ -409,7 +409,7 @@
     },
     {
         "name": "Bloons TD 4",
-        "image": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTXfSMGDpYNOkhJCepqydK7P2AtDIlLoPl5eymvl4jqzgmGjcyJnNnRyWeb23XDi4XPRHjn",
+        "image": "/assets/imgs/games/bloonstd4.jpg",
         "url": "btd4",
         "tags": [],
         "special": [],
@@ -417,7 +417,7 @@
     },
     {
         "name": "Big Tower Tiny Square",
-        "image": "https://www.coolmathgames.com/sites/default/files/BigTowerTinySquare_OG-logo.jpg",
+        "image": "/assets/imgs/games/bigtowertinysquare.jpg",
         "url": "btts",
         "tags": [],
         "special": [],
@@ -449,7 +449,7 @@
     },
     {
         "name": "Captaincallisto",
-        "image": "https://i.ytimg.com/vi/G3bolrQfgQU/maxresdefault.jpg",
+        "image": "/assets/imgs/games/captaincallisto.jpg",
         "url": "captaincallisto",
         "tags": [],
         "special": [],
@@ -481,7 +481,7 @@
     },
     {
         "name": "Chess",
-        "image": "https://digital-game-technology-2021.imgix.net/media/Headers/dgt-electronic-plastic-chess-pieces.jpg?auto=format&crop=focalpoint&domain=digital-game-technology-2021.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=630&ixlib=php-3.3.1&q=82&w=1200",
+        "image": "/assets/imgs/games/chess.jpg",
         "url": "chess",
         "tags": [],
         "special": [],
@@ -497,7 +497,7 @@
     },
     {
         "name": "Chromaincident",
-        "image": "https://www.html5gamedevs.com/uploads/monthly_2018_09/180911_165009_Proof.PNG.019124c29c3ae06586c9649bab825ab2.PNG",
+        "image": "/assets/imgs/games/chromaincident.PNG",
         "url": "chromaincident",
         "tags": [],
         "special": [],
@@ -505,7 +505,7 @@
     },
     {
         "name": "Chrome Dino",
-        "image": "/assets/imgs/games/chrome_dino.png",
+        "image": "/assets/imgs/games/chromedino.jpg",
         "url": "chrome-dino",
         "tags": [],
         "special": [],
@@ -561,7 +561,7 @@
     },
     {
         "name": "Cookie Clicker",
-        "image": "https://super142.wordpress.com/wp-content/uploads/2022/07/cookie-clicker.jpg",
+        "image": "/assets/imgs/games/cookieclicker.jpg",
         "url": "cookie-clicker",
         "tags": [],
         "special": [],
@@ -569,7 +569,7 @@
     },
     {
         "name": "Core Ball",
-        "image": "https://iogames.onl/upload/imgs/coreball.jpg",
+        "image": "/assets/imgs/games/coreball.jpg",
         "url": "core-ball",
         "tags": [],
         "special": [],
@@ -577,7 +577,7 @@
     },
     {
         "name": "Craftmine",
-        "image": "https://static.keygames.com/8/114868/100733/1200x630/craftmine.webp",
+        "image": "/assets/imgs/games/craftmine.webp",
         "url": "craftmine",
         "tags": [],
         "special": [],
@@ -593,7 +593,7 @@
     },
     {
         "name": "Crossy Road",
-        "image": "https://images5.alphacoders.com/112/1127400.png",
+        "image": "/assets/imgs/games/crossyroad.png",
         "url": "crossyroad",
         "tags": [],
         "special": [],
@@ -617,7 +617,7 @@
     },
     {
         "name": "Cubefield",
-        "image": "https://assets.funnygames.org/2/4172/57072/1200x630/cubefield.webp",
+        "image": "/assets/imgs/games/cubefield.webp",
         "url": "cubefield",
         "tags": [],
         "special": [],
@@ -625,7 +625,7 @@
     },
     {
         "name": "Cupcake 2048",
-        "image": "https://play-lh.googleusercontent.com/tPr661utQmQBG4c2uqY2KcgvQ9a_s36iMg8E0aCtYERKgR7ptV9x30tdqU0dj6pocA",
+        "image": "/assets/imgs/games/cupcake2048.jpg",
         "url": "cupcake2048",
         "tags": [],
         "special": [],
@@ -633,7 +633,7 @@
     },
     {
         "name": "Cut The Rope",
-        "image": "https://upload.wikimedia.org/wikipedia/en/6/66/Cut_the_Rope_%28App_icon%29.png",
+        "image": "/assets/imgs/games/cuttherope_1.png",
         "url": "ctr",
         "tags": [],
         "special": [],
@@ -649,7 +649,7 @@
     },
     {
         "name": "Deal Or No Deal",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/dealornodeal.jpg",
         "url": "deal-or-no-deal",
         "tags": [],
         "special": [],
@@ -657,7 +657,7 @@
     },
     {
         "name": "Death Run 3D",
-        "image": "/assets/imgs/games/deathrun3d.png",
+        "image": "/assets/imgs/games/deathrun3d.jpg",
         "url": "death-run-3d",
         "tags": [],
         "special": [],
@@ -665,7 +665,7 @@
     },
     {
         "name": "Death Soul",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/deathsoul.jpg",
         "url": "death-soul",
         "tags": [],
         "special": [],
@@ -675,14 +675,6 @@
         "name": "Defend The Tank",
         "image": "/assets/imgs/games/defend_the_tank.jpg",
         "url": "defend-the-tank",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Dino",
-        "image": "/assets/imgs/games/3ddinogame.png",
-        "url": "dino",
         "tags": [],
         "special": [],
         "size": "s"
@@ -721,7 +713,7 @@
     },
     {
         "name": "Doge 2048",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/doge2048.jpg",
         "url": "doge2048",
         "tags": [],
         "special": [],
@@ -761,7 +753,7 @@
     },
     {
         "name": "Douchebag Workout 2",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/douchebagworkout2.jpg",
         "url": "douchebag-workout-2",
         "tags": [],
         "special": [],
@@ -777,7 +769,7 @@
     },
     {
         "name": "Draw The Hill",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/drawthehill.jpg",
         "url": "draw-the-hill",
         "tags": [],
         "special": [],
@@ -792,23 +784,23 @@
         "size": "s"
     },
     {
-        "name": "Duck Life Treasurehunt",
-        "image": "/assets/imgs/games/",
+        "name": "Duck Life Treasure Hunt",
+        "image": "/assets/imgs/games/ducklifetreasurehunt.jpg",
         "url": "duck-life-treasurehunt",
         "tags": [],
         "special": [],
         "size": "s"
     },
     {
-        "name": "Ducklife",
-        "image": "/assets/imgs/games/",
+        "name": "Duck Life",
+        "image": "/assets/imgs/games/ducklife.jpg",
         "url": "ducklife",
         "tags": [],
         "special": [],
         "size": "s"
     },
     {
-        "name": "Ducklife 1",
+        "name": "Duck Life 1",
         "image": "/assets/imgs/games/ducklife_1.jpg",
         "url": "ducklife1",
         "tags": [],
@@ -816,7 +808,7 @@
         "size": "s"
     },
     {
-        "name": "Ducklife 2",
+        "name": "Duck Life 2",
         "image": "/assets/imgs/games/ducklife_2.png",
         "url": "ducklife2",
         "tags": [],
@@ -824,15 +816,15 @@
         "size": "s"
     },
     {
-        "name": "Ducklife 3",
-        "image": "/assets/imgs/games/ducklife_3.png",
+        "name": "Duck Life 3",
+        "image": "/assets/imgs/games/ducklife3.png",
         "url": "ducklife3",
         "tags": [],
         "special": [],
         "size": "s"
     },
     {
-        "name": "Ducklife 4",
+        "name": "Duck Life 4",
         "image": "/assets/imgs/games/ducklife_4.jpg",
         "url": "ducklife4",
         "tags": [],
@@ -1600,14 +1592,6 @@
         "size": "s"
     },
     {
-        "name": "Make it meme",
-        "image": "/assets/imgs/games/",
-        "url": "makeitmeme",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
         "name": "Mario",
         "image": "/assets/imgs/games/mariokart64.png",
         "url": "mario",
@@ -1616,7 +1600,7 @@
         "size": "s"
     },
     {
-        "name": "Marvinspectrum",
+        "name": "Marvin Spectrum",
         "image": "/assets/imgs/games/marvinspectrum.png",
         "url": "marvinspectrum",
         "tags": [],
@@ -1624,7 +1608,7 @@
         "size": "s"
     },
     {
-        "name": "Matrixrampage",
+        "name": "Matrix Rampage",
         "image": "/assets/imgs/games/matrixrampage.jpg",
         "url": "matrixrampage",
         "tags": [],
@@ -1633,7 +1617,7 @@
     },
     {
         "name": "Meat Boy",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/meatboy.png",
         "url": "meat-boy",
         "tags": [],
         "special": [],
@@ -1712,7 +1696,7 @@
     },
     {
         "name": "Counter-Strike",
-        "image": "https://static1.cbrimages.com/wordpress/wp-content/uploads/2023/11/cs-2-valve.jpg",
+        "image": "/assets/imgs/games/counter-strike.jpg",
         "url": "https://play-cs.com/",
         "tags": [
             "3D",
