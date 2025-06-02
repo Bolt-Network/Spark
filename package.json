@@ -1,16 +1,20 @@
 {
   "name": "spark",
   "version": "1.0.0",
-  "description": "The #1 Game Site",
-  "main": "index.js",
+  "description": "Spark Games - The #1 Game Site",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "start": "node app.js",
+    "dev": "node --watch app.js",
+    "optimize-images": "node image-optimizer.js"
   },
   "dependencies": {
-    "@fastify/static": "^8.2.0",
+    "@fastify/compress": "^6.5.0",
+    "@fastify/static": "^6.12.0",
     "axios": "^1.9.0",
-    "fastify": "^5.3.3"
+    "fastify": "^4.24.3",
+    "sharp": "^0.33.2"
   },
   "keywords": [],
   "author": "",
