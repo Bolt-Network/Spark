@@ -1,16 +1,31 @@
 import fastify from "fastify";
 import fastifyStatic from "@fastify/static";
+import fastifyCompress from "@fastify/compress";
 import { join } from "node:path";
 import { hostname } from "node:os";
 
 const __dirname = process.cwd();
-const app = fastify({ logger: false });
+const app = fastify({ 
+    logger: true
+});
 
 const publicPath = join(__dirname, "public");
+
+await app.register(fastifyCompress, {
+    threshold: 1024,
+    encodings: ['gzip', 'deflate']
+});
 
 await app.register(fastifyStatic, {
     root: publicPath,
     prefix: '/',
+    setHeaders: (res, path) => {
+        if (path.endsWith('.html')) {
+            res.setHeader('Cache-Control', 'no-cache');
+        } else if (path.match(/\.(js|css|png|jpg|jpeg|gif|ico|svg|webp)$/)) {
+            res.setHeader('Cache-Control', 'public, max-age=31536000'); // 1 year
+        }
+    }
 });
 
 app.addHook('onSend', async (request, reply) => {
@@ -18,8 +33,12 @@ app.addHook('onSend', async (request, reply) => {
     reply.header("Cross-Origin-Embedder-Policy", "anonymous");
     reply.header('Access-Control-Allow-Origin', '*');
     reply.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+    
+    reply.header('X-Content-Type-Options', 'nosniff');
+    reply.header('X-Frame-Options', 'SAMEORIGIN');
+    reply.header('X-XSS-Protection', '1; mode=block');
+    reply.header('Referrer-Policy', 'strict-origin-when-cross-origin');
 });
-
 
 app.get("/", async (request, reply) => {
     return reply.sendFile("index.html");
@@ -47,7 +66,10 @@ process.on("SIGINT", shutdown);
 process.on("SIGTERM", shutdown);
 
 try {
-    await app.listen({ port, host: '0.0.0.0' });
+    await app.listen({ 
+        port, 
+        host: '0.0.0.0'
+    });
 
     console.log("Listening on:");
     console.log(`\thttp://localhost:${port}`);

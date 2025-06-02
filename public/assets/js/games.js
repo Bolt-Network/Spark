@@ -17,6 +17,19 @@ document.addEventListener('DOMContentLoaded', function () {
                 gameImage.src = game.image;
                 gameImage.alt = game.name;
                 gameImage.className = 'game-image';
+                gameImage.loading = 'lazy';
+                gameImage.decoding = 'async';
+                
+                if (game.size === 's') {
+                    gameImage.width = 100;
+                    gameImage.height = 100;
+                } else if (game.size === 'm') {
+                    gameImage.width = 220;
+                    gameImage.height = 220;
+                } else if (game.size === 'l') {
+                    gameImage.width = 340;
+                    gameImage.height = 340;
+                }
 
                 const specialContainer = document.createElement('div');
                 specialContainer.className = 'special-container';
@@ -27,6 +40,8 @@ document.addEventListener('DOMContentLoaded', function () {
                         hotIcon.src = "/assets/imgs/svg/flame.svg";
                         hotIcon.alt = "hot";
                         hotIcon.className = 'hot-icon';
+                        hotIcon.width = 20;
+                        hotIcon.height = 20;
                         specialElement.appendChild(hotIcon);
                     }
                     if (special === 'new') {
@@ -34,6 +49,8 @@ document.addEventListener('DOMContentLoaded', function () {
                         newIcon.src = "/assets/imgs/svg/new.svg";
                         newIcon.alt = "new";
                         newIcon.className = 'new-icon';
+                        newIcon.width = 20;
+                        newIcon.height = 20;
                         specialElement.appendChild(newIcon);
                     }
                     if (special === 'hr') {
@@ -41,6 +58,8 @@ document.addEventListener('DOMContentLoaded', function () {
                         newIcon.src = "/assets/imgs/svg/hr.svg";
                         newIcon.alt = "hr";
                         newIcon.className = 'hr-icon';
+                        newIcon.width = 20;
+                        newIcon.height = 20;
                         specialElement.appendChild(newIcon);
                     }
 
