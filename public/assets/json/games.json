@@ -5,7 +5,8 @@
         "url": "10-minutes-till-dawn",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "s",
+        "important": true
     },
     {
         "name": "100 Ng",
@@ -61,7 +62,8 @@
         "url": "adarkroom",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "s",
+        "important": true
     },
     {
         "name": "Adrenaline Challenge",

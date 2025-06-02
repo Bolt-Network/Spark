@@ -5,7 +5,7 @@ import { join } from "node:path";
 import { hostname } from "node:os";
 
 const __dirname = process.cwd();
-const app = fastify({ 
+const app = fastify({
     logger: true
 });
 
@@ -33,7 +33,7 @@ app.addHook('onSend', async (request, reply) => {
     reply.header("Cross-Origin-Embedder-Policy", "anonymous");
     reply.header('Access-Control-Allow-Origin', '*');
     reply.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
-    
+
     reply.header('X-Content-Type-Options', 'nosniff');
     reply.header('X-Frame-Options', 'SAMEORIGIN');
     reply.header('X-XSS-Protection', '1; mode=block');
@@ -66,8 +66,8 @@ process.on("SIGINT", shutdown);
 process.on("SIGTERM", shutdown);
 
 try {
-    await app.listen({ 
-        port, 
+    await app.listen({
+        port,
         host: '0.0.0.0'
     });
 

@@ -2,7 +2,11 @@ document.addEventListener('DOMContentLoaded', function () {
     fetch('/assets/json/games.json')
         .then(response => response.json())
         .then(games => {
-            games.sort((a, b) => a.name.localeCompare(b.name));
+            games.sort((a, b) => {
+                if (a.important && !b.important) return -1;
+                if (b.important && !a.important) return 1;
+                return a.name.localeCompare(b.name);
+            });
             games.forEach(game => {
                 var special = [];
                 if (game.special) {
