@@ -6,19 +6,28 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Spark | The #1 Game Site</title>
-    <link rel="stylesheet" href="/assets/styles/main.css">
-    <link rel="stylesheet" href="/assets/styles/tooltip.css">
+    <link rel="preload" href="/assets/fonts/font.ttf" as="font" type="font/ttf" crossorigin>
+    <link rel="preload" href="/assets/fonts/big.otf" as="font" type="font/otf" crossorigin>
+    <link rel="preload" href="/assets/styles/main.css" as="style">
+    <link rel="preload" href="/assets/styles/tooltip.css" as="style">
+    <link rel="stylesheet" href="/assets/styles/main.css" media="print" onload="this.media='all'">
+    <link rel="stylesheet" href="/assets/styles/tooltip.css" media="print" onload="this.media='all'">
+    <noscript>
+        <link rel="stylesheet" href="/assets/styles/main.css">
+        <link rel="stylesheet" href="/assets/styles/tooltip.css">
+    </noscript>
+    
     <link rel="icon" href="/assets/imgs/logos/sparklogo.ico">
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-N9036VPDME"></script>
+    
+    <!-- Defer analytics -->
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
         gtag('js', new Date());
-
         gtag('config', 'G-N9036VPDME');
     </script>
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4658606329491518"
+    <script defer src="https://www.googletagmanager.com/gtag/js?id=G-N9036VPDME"></script>
+    <script defer src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4658606329491518"
         crossorigin="anonymous"></script>
 </head>
 
@@ -92,11 +101,11 @@
             no in-game
             ads that take away from the gamer experience. Other game sites, unlike Spark games, spam ads upon their
             users as an act
-            of greed. Spark games does not do that. We are a small team of developers, and we always put our users’
+            of greed. Spark games does not do that. We are a small team of developers, and we always put our users'
             needs first.
             Spark games has a ton of fun games, and more online games are added often! Make sure to visit Spark games
             whenever
-            you’re bored! Spark games is the best boredom-buster there is online. Furthermore, Spark games has games,
+            you're bored! Spark games is the best boredom-buster there is online. Furthermore, Spark games has games,
             snake game,
             google snake game, games snake game, free games, and more awesome free games! Play on!
         </p>
