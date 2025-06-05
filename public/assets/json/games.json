@@ -802,14 +802,6 @@
         "size": "s"
     },
     {
-        "name": "Duck Life 1",
-        "image": "/assets/imgs/games/duck_life_1.avif",
-        "url": "ducklife1",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
         "name": "Duck Life 2",
         "image": "/assets/imgs/games/duck_life_2.avif",
         "url": "ducklife2",
@@ -834,7 +826,7 @@
         "size": "s"
     },
     {
-        "name": "Duke Dashington Remastered",
+        "name": "Duke Dashington",
         "image": "/assets/imgs/games/duke_dashington_remastered.avif",
         "url": "duke-dashington-remastered",
         "tags": [],
@@ -858,8 +850,8 @@
         "size": "s"
     },
     {
-        "name": "Edgenotfound",
-        "image": "/assets/imgs/games/",
+        "name": "Edge Not Found",
+        "image": "/assets/imgs/games/edge_not_found.avif",
         "url": "edgenotfound",
         "tags": [],
         "special": [],
@@ -867,16 +859,8 @@
     },
     {
         "name": "Elastic Face",
-        "image": "/assets/imgs/games/elastic_face.avif",
-        "url": "elastic-face",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Elasticman",
         "image": "/assets/imgs/games/elasticman.avif",
-        "url": "elasticman",
+        "url": "elastic-face",
         "tags": [],
         "special": [],
         "size": "s"
@@ -890,7 +874,7 @@
         "size": "s"
     },
     {
-        "name": "Endlesswar 3",
+        "name": "Endless War 3",
         "image": "/assets/imgs/games/endlesswar_3.avif",
         "url": "endlesswar3",
         "tags": [],
@@ -898,7 +882,7 @@
         "size": "s"
     },
     {
-        "name": "Escapingtheprison",
+        "name": "Escaping The Prison",
         "image": "/assets/imgs/games/escapingtheprison.avif",
         "url": "escapingtheprison",
         "tags": [],
@@ -909,14 +893,6 @@
         "name": "Evil Glitch",
         "image": "/assets/imgs/games/evil_glitch.avif",
         "url": "evil-glitch",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Evilglitch",
-        "image": "/assets/imgs/games/",
-        "url": "evilglitch",
         "tags": [],
         "special": [],
         "size": "s"
@@ -946,17 +922,9 @@
         "size": "s"
     },
     {
-        "name": "Factoryballs",
+        "name": "Factory Balls",
         "image": "/assets/imgs/games/factoryballs.avif",
         "url": "factoryballs",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Factoryballsforever",
-        "image": "/assets/imgs/games/",
-        "url": "factoryballsforever",
         "tags": [],
         "special": [],
         "size": "s"
@@ -970,7 +938,7 @@
         "size": "s"
     },
     {
-        "name": "Fancypantsadventures",
+        "name": "Fancypants Adventures",
         "image": "/assets/imgs/games/fancypantsadventures.avif",
         "url": "fancypantsadventures",
         "tags": [],
@@ -978,7 +946,7 @@
         "size": "s"
     },
     {
-        "name": "Fbwg",
+        "name": "Fire Boy Water Girl",
         "image": "/assets/imgs/games/fbwg.avif",
         "url": "fbwg",
         "tags": [],
@@ -994,25 +962,9 @@
         "size": "s"
     },
     {
-        "name": "Fireboywatergirlforesttemple",
-        "image": "/assets/imgs/games/fireboywatergirlforesttemple.avif",
-        "url": "fireboywatergirlforesttemple",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Fireice",
-        "image": "/assets/imgs/games/",
+        "name": "Fire and Ice",
+        "image": "/assets/imgs/games/fireice.avif",
         "url": "fireice",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Firewater",
-        "image": "/assets/imgs/games/firewater.avif",
-        "url": "firewater",
         "tags": [],
         "special": [],
         "size": "s"
@@ -1042,15 +994,7 @@
         "size": "s"
     },
     {
-        "name": "Flappybird",
-        "image": "/assets/imgs/games/flappybird.avif",
-        "url": "flappybird",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Flashtetris",
+        "name": "Tetris",
         "image": "/assets/imgs/games/flashtetris.avif",
         "url": "flashtetris",
         "tags": [],
@@ -1059,7 +1003,7 @@
     },
     {
         "name": "Flippy Fish",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/flippy_fish.avif",
         "url": "flippy-fish",
         "tags": [],
         "special": [],
@@ -1074,7 +1018,7 @@
         "size": "s"
     },
     {
-        "name": "Fridaynightfunkin",
+        "name": "Friday Night Funkin",
         "image": "/assets/imgs/games/fridaynightfunkin.avif",
         "url": "fridaynightfunkin",
         "tags": [],
@@ -1082,15 +1026,15 @@
         "size": "s"
     },
     {
-        "name": "Friendlyfire",
-        "image": "/assets/imgs/games/",
+        "name": "Friendly Fire",
+        "image": "/assets/imgs/games/friendly_fire.avif",
         "url": "friendlyfire",
         "tags": [],
         "special": [],
         "size": "s"
     },
     {
-        "name": "Froggys Battle",
+        "name": "Froggy's Battle",
         "image": "/assets/imgs/games/froggys_battle.avif",
         "url": "froggys-battle",
         "tags": [],
@@ -1098,8 +1042,8 @@
         "size": "s"
     },
     {
-        "name": "Fruitninja",
-        "image": "/assets/imgs/games/",
+        "name": "Fruit Ninja",
+        "image": "/assets/imgs/games/fruit_ninja.avif",
         "url": "fruitninja",
         "tags": [],
         "special": [],
@@ -1109,14 +1053,6 @@
         "name": "Frying Nemo",
         "image": "/assets/imgs/games/frying_nemo.avif",
         "url": "frying-nemo",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Fullscreenmar.io",
-        "image": "/assets/imgs/games/",
-        "url": "FullScreenMario",
         "tags": [],
         "special": [],
         "size": "s"
@@ -1139,7 +1075,7 @@
     },
     {
         "name": "Geodash",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/geodash.avif",
         "url": "geodash",
         "tags": [],
         "special": [],
@@ -1154,23 +1090,7 @@
         "size": "s"
     },
     {
-        "name": "Geometrydash",
-        "image": "/assets/imgs/games/",
-        "url": "geometrydash",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Geometry_Jump_Sketchy",
-        "image": "/assets/imgs/games/geometry_jump_sketchy.avif",
-        "url": "geometry_jump_sketchy",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Georgeandtheprinter",
+        "name": "George and the Printer",
         "image": "/assets/imgs/games/georgeandtheprinter.avif",
         "url": "georgeandtheprinter",
         "tags": [],
@@ -1250,7 +1170,7 @@
         "size": "s"
     },
     {
-        "name": "Gopher",
+        "name": "Gopher Kart",
         "image": "/assets/imgs/games/gopher.avif",
         "url": "gopher",
         "tags": [],
@@ -1323,15 +1243,15 @@
     },
     {
         "name": "Gunspin",
-        "image": "/assets/imgs/games/gunspin.png",
+        "image": "/assets/imgs/games/gunspin.avif",
         "url": "gunspin",
         "tags": [],
         "special": [],
         "size": "s"
     },
     {
-        "name": "Hackertype",
-        "image": "/assets/imgs/games/hackertyper.png",
+        "name": "Hackertyper",
+        "image": "/assets/imgs/games/hackertyper.avif",
         "url": "hackertype",
         "tags": [],
         "special": [],
@@ -1354,8 +1274,8 @@
         "size": "s"
     },
     {
-        "name": "Hba",
-        "image": "/assets/imgs/games/",
+        "name": "Hoverbot Arena",
+        "image": "/assets/imgs/games/hba.avif",
         "url": "hba",
         "tags": [],
         "special": [],
@@ -1371,7 +1291,7 @@
     },
     {
         "name": "Helios",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/helios.avif",
         "url": "helios",
         "tags": [],
         "special": [],
@@ -1395,7 +1315,7 @@
     },
     {
         "name": "Hextris",
-        "image": "/assets/imgs/games/hextris.svg",
+        "image": "/assets/imgs/games/hextris.avif",
         "url": "hextris",
         "tags": [],
         "special": [],
@@ -1410,7 +1330,7 @@
         "size": "s"
     },
     {
-        "name": "Icys Purple Head",
+        "name": "Icy Purple Head",
         "image": "/assets/imgs/games/icys_purple_head.avif",
         "url": "icys-purple-head",
         "tags": [],
@@ -1434,7 +1354,7 @@
         "size": "s"
     },
     {
-        "name": "Impossiblequiz",
+        "name": "Impossible Quiz",
         "image": "/assets/imgs/games/impossiblequiz.avif",
         "url": "impossiblequiz",
         "tags": [],
@@ -1442,17 +1362,9 @@
         "size": "s"
     },
     {
-        "name": "Interactivebuddy",
-        "image": "/assets/imgs/games/interactivebuddy.png",
+        "name": "Interactive Buddy",
+        "image": "/assets/imgs/games/interactive_buddy.avif",
         "url": "interactivebuddy",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Iscribble .io",
-        "image": "/assets/imgs/games/iscribble_io.avif",
-        "url": "iscribble-io",
         "tags": [],
         "special": [],
         "size": "s"
@@ -1466,7 +1378,7 @@
         "size": "s"
     },
     {
-        "name": "Jetpack",
+        "name": "Jetpack Joyride",
         "image": "/assets/imgs/games/jetpack.avif",
         "url": "jetpack",
         "tags": [],
@@ -1475,7 +1387,7 @@
     },
     {
         "name": "Jimothy Piggerton",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/jimothy.avif",
         "url": "jimothy-piggerton",
         "tags": [],
         "special": [],
@@ -1531,7 +1443,7 @@
     },
     {
         "name": "Konnekt",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/konnekt.avif",
         "url": "konnekt",
         "tags": [],
         "special": [],
@@ -1627,7 +1539,7 @@
     },
     {
         "name": "Meme 2048",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/meme_2048.avif",
         "url": "meme2048",
         "tags": [],
         "special": [],
@@ -1778,8 +1690,8 @@
         "size": "s"
     },
     {
-        "name": "Motox3M Spooky",
-        "image": "/assets/imgs/games/",
+        "name": "Motox3M Spookyland",
+        "image": "/assets/imgs/games/motox3m_spooky.avif",
         "url": "motox3m-spooky",
         "tags": [],
         "special": [],
@@ -1787,24 +1699,8 @@
     },
     {
         "name": "Motox3M Winter",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/motox3m_winter.avif",
         "url": "motox3m-winter",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Motox3M 2",
-        "image": "/assets/imgs/games/",
-        "url": "motox3m2",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Motox3Mwinter",
-        "image": "/assets/imgs/games/",
-        "url": "motox3mwinter",
         "tags": [],
         "special": [],
         "size": "s"
@@ -1826,15 +1722,7 @@
         "size": "s"
     },
     {
-        "name": "Ninja",
-        "image": "/assets/imgs/games/ninja.avif",
-        "url": "ninja",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Ninjavsevilcorp",
+        "name": "Ninja vs Evil Corp",
         "image": "/assets/imgs/games/ninjavsevilcorp.avif",
         "url": "ninjavsevilcorp",
         "tags": [],
@@ -1842,7 +1730,7 @@
         "size": "s"
     },
     {
-        "name": "Ns Shaft",
+        "name": "NS Shaft",
         "image": "/assets/imgs/games/ns_shaft.avif",
         "url": "ns-shaft",
         "tags": [],
@@ -1850,8 +1738,8 @@
         "size": "s"
     },
     {
-        "name": "Offlineparadise",
-        "image": "/assets/imgs/games/",
+        "name": "Offline Paradise",
+        "image": "/assets/imgs/games/offline_paradise.avif",
         "url": "OfflineParadise",
         "tags": [],
         "special": [],
@@ -1890,7 +1778,7 @@
         "size": "s"
     },
     {
-        "name": "Ovo",
+        "name": "OVO",
         "image": "/assets/imgs/games/ovo.avif",
         "url": "ovo",
         "tags": [],
@@ -1899,7 +1787,7 @@
     },
     {
         "name": "Packabunchas",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/packabunchas.avif",
         "url": "packabunchas",
         "tags": [],
         "special": [],
@@ -1914,7 +1802,7 @@
         "size": "s"
     },
     {
-        "name": "Pacman Fps",
+        "name": "Pacman FPS",
         "image": "/assets/imgs/games/pacman_fps.avif",
         "url": "pacman-fps",
         "tags": [],
@@ -1994,22 +1882,6 @@
         "size": "s"
     },
     {
-        "name": "Papa's Burgeria",
-        "image": "/assets/imgs/games/papa's_burgeria.png",
-        "url": "papasburgeria",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Papa's Pizzaria",
-        "image": "/assets/imgs/games/papas_pizzaria.avif",
-        "url": "papaspizzaria",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
         "name": "Paper.io 2",
         "image": "/assets/imgs/games/paper.io_2.avif",
         "url": "paperio2",
@@ -2029,14 +1901,6 @@
         "name": "Particle Clicker",
         "image": "/assets/imgs/games/particle_clicker.avif",
         "url": "particle-clicker",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Particleclicker",
-        "image": "/assets/imgs/games/particleclicker.avif",
-        "url": "particleclicker",
         "tags": [],
         "special": [],
         "size": "s"
@@ -2091,7 +1955,7 @@
     },
     {
         "name": "Popcat Classic",
-        "image": "/assets/imgs/games/popcat_classic.svg",
+        "image": "/assets/imgs/games/popcat_classic.avif",
         "url": "popcat-classic",
         "tags": [],
         "special": [],
@@ -2099,7 +1963,7 @@
     },
     {
         "name": "Portalflash",
-        "image": "/assets/imgs/games/portalflash.png",
+        "image": "/assets/imgs/games/portal_flash.avif",
         "url": "portalflash",
         "tags": [],
         "special": [],
@@ -2154,7 +2018,7 @@
         "size": "s"
     },
     {
-        "name": "Pvz 2",
+        "name": "PVZ 2",
         "image": "/assets/imgs/games/pvz_2.avif",
         "url": "pvz-2",
         "tags": [],
@@ -2178,8 +2042,8 @@
         "size": "s"
     },
     {
-        "name": "Radiusraid",
-        "image": "/assets/imgs/games/",
+        "name": "Radius Raid",
+        "image": "/assets/imgs/games/radius_raid.avif",
         "url": "radiusraid",
         "tags": [],
         "special": [],
@@ -2194,16 +2058,8 @@
         "size": "s"
     },
     {
-        "name": "Retrobowl",
-        "image": "/assets/imgs/games/retrobowl.png",
-        "url": "retrobowl",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
         "name": "Retrohaunt",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/retrohaunt.avif",
         "url": "retrohaunt",
         "tags": [],
         "special": [],
@@ -2291,7 +2147,7 @@
     },
     {
         "name": "Scrapmetal",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/scrapmetal.avif",
         "url": "scrapmetal",
         "tags": [],
         "special": [],
