@@ -9,7 +9,7 @@
         "important": true
     },
     {
-        "name": "100 Ng",
+        "name": "100 NG",
         "image": "/assets/imgs/games/100_ng.avif",
         "url": "100ng",
         "tags": [],
@@ -30,7 +30,7 @@
         "url": "2020-game",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "m"
     },
     {
         "name": "2048",
@@ -135,7 +135,7 @@
         "url": "arcade-wizard",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "m"
     },
     {
         "name": "Ascii Space",
@@ -327,7 +327,7 @@
         "url": "blocky-snakes",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "m"
     },
     {
         "name": "Bloons TD",
@@ -535,7 +535,8 @@
         "url": "clean-up-io",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "s",
+        "important": true
     },
     {
         "name": "Cluster Rush",
@@ -567,7 +568,8 @@
         "url": "cookie-clicker",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "s",
+        "important": true
     },
     {
         "name": "Core Ball",
@@ -639,7 +641,7 @@
         "url": "ctr",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "m"
     },
     {
         "name": "Dante",
@@ -767,7 +769,7 @@
         "url": "dragon-vs-bricks",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "m"
     },
     {
         "name": "Draw The Hill",
@@ -783,7 +785,8 @@
         "url": "drive-mad",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "m",
+        "important": true
     },
     {
         "name": "Duck Life Treasure Hunt",
@@ -975,7 +978,8 @@
         "url": "flappy-2048",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "s",
+        "important": true
     },
     {
         "name": "Flappy Bird",
@@ -1207,7 +1211,8 @@
         "url": "grindcraft",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "s",
+        "important": true
     },
     {
         "name": "Grow In The Hole",
@@ -1383,7 +1388,7 @@
         "url": "jetpack",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "m"
     },
     {
         "name": "Jimothy Piggerton",
@@ -1562,7 +1567,7 @@
     },
     {
         "name": "Starlike Client",
-        "image": "/assets/imgs/games/starlike.png",
+        "image": "/assets/imgs/games/starlike.avif",
         "url": "/assets/games/minecraft1.17.html",
         "tags": [
             "3D",
@@ -1663,7 +1668,7 @@
         "url": "moto-x3m-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "m"
     },
     {
         "name": "Moto X3M Pool Party",
@@ -1746,12 +1751,13 @@
         "size": "s"
     },
     {
-        "name": "Om Bounce",
+        "name": "Om Nom Bounce",
         "image": "/assets/imgs/games/om_bounce.avif",
         "url": "om-bounce",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "s",
+        "important": true
     },
     {
         "name": "One Screen Run",
@@ -2055,7 +2061,7 @@
         "url": "retro-bowl",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "m"
     },
     {
         "name": "Retrohaunt",
@@ -2119,7 +2125,8 @@
         "url": "run-3",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "s",
+        "important": true
     },
     {
         "name": "Sand Game",
@@ -2127,7 +2134,8 @@
         "url": "sand-game",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "s",
+        "important": true
     },
     {
         "name": "Sandboxels",
@@ -2157,14 +2165,6 @@
         "name": "Senya And Oscar 2",
         "image": "/assets/imgs/games/senya_and_oscar_2.avif",
         "url": "senya-and-oscar-2",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Sg",
-        "image": "/assets/imgs/games/",
-        "url": "sg",
         "tags": [],
         "special": [],
         "size": "s"
@@ -2207,7 +2207,8 @@
         "url": "short-life-2",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "s",
+        "important": true
     },
     {
         "name": "Short Ride",
@@ -2215,10 +2216,11 @@
         "url": "short-ride",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "s",
+        "important": true
     },
     {
-        "name": "Shuttledeck",
+        "name": "Shuttle Deck",
         "image": "/assets/imgs/games/shuttledeck.avif",
         "url": "shuttledeck",
         "tags": [],
@@ -2234,7 +2236,7 @@
         "size": "s"
     },
     {
-        "name": "Sleepingbeauty",
+        "name": "Sleeping Beauty",
         "image": "/assets/imgs/games/sleepingbeauty.avif",
         "url": "sleepingbeauty",
         "tags": [],
@@ -2245,14 +2247,6 @@
         "name": "Slice Of Sasha",
         "image": "/assets/imgs/games/slice_of_sasha.avif",
         "url": "slice-of-sasha",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Slither",
-        "image": "/assets/imgs/games/slither.avif",
-        "url": "slither",
         "tags": [],
         "special": [],
         "size": "s"
@@ -2290,7 +2284,7 @@
         "size": "s"
     },
     {
-        "name": "Sm 63",
+        "name": "Super Mario 63",
         "image": "/assets/imgs/games/sm_63.avif",
         "url": "sm63",
         "tags": [],
@@ -2298,7 +2292,7 @@
         "size": "s"
     },
     {
-        "name": "Sm 64",
+        "name": "Super Mario 64",
         "image": "/assets/imgs/games/sm_64.avif",
         "url": "sm64",
         "tags": [],
@@ -2347,7 +2341,7 @@
     },
     {
         "name": "Solitaire",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/solitaire.avif",
         "url": "solitaire",
         "tags": [],
         "special": [],
@@ -2386,24 +2380,16 @@
         "size": "s"
     },
     {
-        "name": "Spacecompany",
-        "image": "/assets/imgs/games/spacecompany.avif",
-        "url": "spacecompany",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Spacegarden",
-        "image": "/assets/imgs/games/",
+        "name": "Space Garden",
+        "image": "/assets/imgs/games/space_garden.avif",
         "url": "spacegarden",
         "tags": [],
         "special": [],
         "size": "s"
     },
     {
-        "name": "Spacehuggers",
-        "image": "/assets/imgs/games/",
+        "name": "Space Huggers",
+        "image": "/assets/imgs/games/space_huggers.avif",
         "url": "spacehuggers",
         "tags": [],
         "special": [],
@@ -2418,15 +2404,7 @@
         "size": "s"
     },
     {
-        "name": "Squid Gun Fest",
-        "image": "/assets/imgs/games/squid_gun_fest.avif",
-        "url": "Squid Gun Fest",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Ssf",
+        "name": "Super Smash Flash",
         "image": "/assets/imgs/games/ssf.avif",
         "url": "ssf",
         "tags": [],
@@ -2458,7 +2436,7 @@
         "size": "s"
     },
     {
-        "name": "Stealingthediamond",
+        "name": "Stealing The Diamond",
         "image": "/assets/imgs/games/stealingthediamond.avif",
         "url": "stealingthediamond",
         "tags": [],
@@ -2467,16 +2445,8 @@
     },
     {
         "name": "Stick Archers Battle",
-        "image": "/assets/imgs/games/stickarchersbattle.png",
+        "image": "/assets/imgs/games/stick_archer_battle.avif",
         "url": "stick-archers-battle",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Stickclimb",
-        "image": "/assets/imgs/games/",
-        "url": "stickclimb",
         "tags": [],
         "special": [],
         "size": "s"
@@ -2511,7 +2481,8 @@
         "url": "stickman-epic-battle",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "s",
+        "important": true
     },
     {
         "name": "Stickman Golf",
@@ -2538,7 +2509,7 @@
         "size": "s"
     },
     {
-        "name": "Stormthehouse 2",
+        "name": "Storm The House 2",
         "image": "/assets/imgs/games/stormthehouse_2.avif",
         "url": "stormthehouse2",
         "tags": [],
@@ -2551,7 +2522,7 @@
         "url": "subway-surfers",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "m"
     },
     {
         "name": "Subway Surfers Bali",
@@ -2594,20 +2565,13 @@
         "size": "s"
     },
     {
-        "name": "Supermarioconstruct",
-        "image": "/assets/imgs/games/",
-        "url": "supermarioconstruct",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
         "name": "Swerve",
         "image": "/assets/imgs/games/swerve.avif",
         "url": "swerve",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "s",
+        "important": true
     },
     {
         "name": "Synesthesia",
@@ -2618,16 +2582,8 @@
         "size": "s"
     },
     {
-        "name": "Tactical Weapon Pack 2",
+        "name": "Tactical Assasin 2",
         "image": "/assets/imgs/games/tactical_weapon_pack_2.avif",
-        "url": "tactical-weapon-pack-2",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Tacticalassasin 2",
-        "image": "/assets/imgs/games/",
         "url": "tacticalassasin2",
         "tags": [],
         "special": [],
@@ -2639,10 +2595,11 @@
         "url": "tail-of-the-dragon",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "s",
+        "important": true
     },
     {
-        "name": "Tam Indian Truck Simulator 3D",
+        "name": "Indian Truck Simulator",
         "image": "/assets/imgs/games/tam_indian_truck_simulator_3d.avif",
         "url": "tam-indian-truck-simulator-3d",
         "tags": [],
@@ -2669,14 +2626,6 @@
         "name": "Temple Run 2",
         "image": "/assets/imgs/games/temple_run_2.avif",
         "url": "temple-run-2",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Tetris",
-        "image": "/assets/imgs/games/tetris.avif",
-        "url": "tetris",
         "tags": [],
         "special": [],
         "size": "s"
@@ -2715,7 +2664,7 @@
     },
     {
         "name": "The Little Giant",
-        "image": "/assets/imgs/games/thelittlegiant.jpg",
+        "image": "/assets/imgs/games/the_little_giant.avif",
         "url": "the-little-giant",
         "tags": [],
         "special": [],
@@ -2754,7 +2703,7 @@
         "size": "s"
     },
     {
-        "name": "Thisistheonlylevel",
+        "name": "The Only Level",
         "image": "/assets/imgs/games/thisistheonlylevel.avif",
         "url": "thisistheonlylevel",
         "tags": [],
@@ -2775,7 +2724,7 @@
         "url": "tiny-fishing",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "m"
     },
     {
         "name": "Tiny Fragments",
@@ -2802,8 +2751,8 @@
         "size": "s"
     },
     {
-        "name": "Tosstheturtle",
-        "image": "/assets/imgs/games/tosstheturtle.png",
+        "name": "Toss The Turtle",
+        "image": "/assets/imgs/games/toss_the_turtle.avif",
         "url": "tosstheturtle",
         "tags": [],
         "special": [],
@@ -2823,7 +2772,8 @@
         "url": "towermaster",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "s",
+        "important": true
     },
     {
         "name": "Townscaper",
@@ -2859,14 +2809,14 @@
     },
     {
         "name": "Tunnelz",
-        "image": "/assets/imgs/games/",
+        "image": "/assets/imgs/games/tunnelz.avif",
         "url": "tunnelz",
         "tags": [],
         "special": [],
         "size": "s"
     },
     {
-        "name": "Tv Static",
+        "name": "TV Static",
         "image": "/assets/imgs/games/tv_static.avif",
         "url": "tv-static",
         "tags": [],
@@ -2885,14 +2835,6 @@
         "name": "Underrun",
         "image": "/assets/imgs/games/underrun.avif",
         "url": "underrun",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Unfold 2",
-        "image": "/assets/imgs/games/unfold_2.avif",
-        "url": "unfold-2",
         "tags": [],
         "special": [],
         "size": "s"
@@ -2939,7 +2881,7 @@
     },
     {
         "name": "Vex 6",
-        "image": "/assets/games/vex6/assets/images/logo.png",
+        "image": "/assets/imgs/games/vex_6.avif",
         "url": "vex6",
         "tags": [],
         "special": [],
@@ -2947,7 +2889,7 @@
     },
     {
         "name": "Vex 7",
-        "image": "/assets/games/vex7/assets/images/logo.png",
+        "image": "/assets/imgs/games/vex_7.avif",
         "url": "vex7",
         "tags": [],
         "special": [],
@@ -2978,15 +2920,7 @@
         "size": "s"
     },
     {
-        "name": "Wipo",
-        "image": "/assets/imgs/games/",
-        "url": "wipo",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Wolf3D",
+        "name": "Wolfenstein 3D",
         "image": "/assets/imgs/games/wolf3d.avif",
         "url": "wolf3d",
         "tags": [],
@@ -3026,17 +2960,9 @@
         "size": "s"
     },
     {
-        "name": "Xx142 B2Exe",
+        "name": "XX142B2 exe",
         "image": "/assets/imgs/games/xx142_b2exe.avif",
         "url": "xx142-b2exe",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Yoshifabrication",
-        "image": "/assets/imgs/games/",
-        "url": "yoshifabrication",
         "tags": [],
         "special": [],
         "size": "s"
@@ -3050,25 +2976,9 @@
         "size": "s"
     },
     {
-        "name": "Zig Zag",
-        "image": "/assets/imgs/games/zig_zag.avif",
-        "url": "zig-zag",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
         "name": "Zombocalypse",
         "image": "/assets/imgs/games/zombocalypse.avif",
         "url": "zombocalypse",
-        "tags": [],
-        "special": [],
-        "size": "s"
-    },
-    {
-        "name": "Zombs Royale",
-        "image": "/assets/imgs/games/zombs_royale.avif",
-        "url": "zombs-royale",
         "tags": [],
         "special": [],
         "size": "s"
