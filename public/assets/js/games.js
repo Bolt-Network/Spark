@@ -1,3 +1,5 @@
+const homeButton = document.getElementById('logo');
+
 document.addEventListener('DOMContentLoaded', function () {
     fetch('/assets/json/games.json')
         .then(response => response.json())
@@ -93,3 +95,6 @@ document.addEventListener('DOMContentLoaded', function () {
         });
 });
 
+homeButton.addEventListener('click', () => {
+    window.location.href = '/';
+});

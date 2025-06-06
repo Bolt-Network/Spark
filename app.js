@@ -44,6 +44,10 @@ app.get("/", async (request, reply) => {
     return reply.sendFile("index.html");
 });
 
+app.get("/games", async (request, reply) => {
+    return reply.sendFile("games.html");
+});
+
 app.get('/~/*', async (request, reply) => {
     return reply.sendFile("game.html");
 });

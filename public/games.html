@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spark | The #1 Game Site</title>
+    <link rel="stylesheet" href="/assets/styles/main.css">
+    <link rel="stylesheet" href="/assets/styles/tooltip.css">
+    <link rel="icon" href="/assets/imgs/logos/sparklogo.ico">
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-N9036VPDME"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-N9036VPDME');
+    </script>
+
+</head>
+
+<body>
+
+    <div id="header">
+        <div id="logo" data-tooltip="Return to Home" data-tooltip-position="right">
+            <img src="/assets/imgs/logos/sparklogo.png" alt="Logo" id="logo-img">
+        </div>
+        <div id="searchbox">
+            <input type="text" id="search" placeholder="Search for games...">
+            <div id="tagsbutton" data-tooltip="Show Tags" data-tooltip-position="bottom">
+                <img src="/assets/imgs/svg/down.svg" alt="Expand" id="tags-open-icon">
+            </div>
+            <div id="tags-container">
+                <div id="tags">
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="games-container">
+        <div id="games">
+
+        </div>
+    </div>
+    </div>
+    <script src="/assets/js/games.js"></script>
+    <script src="/assets/js/tags.js"></script>
+    <script src="/assets/js/search.js"></script>
+</body>
+
+</html>

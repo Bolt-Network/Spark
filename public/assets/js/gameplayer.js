@@ -561,5 +561,5 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 toolbox.addEventListener('click', () => {
-  window.location.href = "/";
+  window.location.href = "/games";
 });
