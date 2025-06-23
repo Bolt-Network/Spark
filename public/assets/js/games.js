@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     else {
                         localStorage.removeItem('unofficial');
                     }
-                    window.location.href = "/~/" + localStorage.getItem('name');
+                    window.location.href = "/play/" + localStorage.getItem('name');
                 });
 
                 const gamesContainer = document.getElementById('games');

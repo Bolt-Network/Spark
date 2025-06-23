@@ -16,12 +16,14 @@ document.addEventListener('DOMContentLoaded', function () {
   fetch('/assets/json/games.json')
     .then(response => response.json())
     .then(games => {
-      if (window.location.href.includes("/~/")) {
+      if (window.location.href.includes("/play/")) {
 
-        gameNameUrl = decodeURIComponent(window.location.href.split("/~/")[1]);
+        gameNameUrl = decodeURIComponent(window.location.href.split("/play/")[1]);
+
         if (gameNameUrl.includes('/')) {
           gameNameUrl = gameNameUrl.split('/')[0];
         }
+        console.log("Game Name URL: " + gameNameUrl);
         document.title = gameNameUrl + " - Play Games Online for Free on Spark";
 
 
@@ -137,7 +139,7 @@ document.addEventListener('DOMContentLoaded', function () {
           else {
             localStorage.removeItem('unofficial');
           }
-          window.location.href = "/~/" + localStorage.getItem('name');
+          window.location.href = "/play/" + localStorage.getItem('name');
         });
 
         const gamesContainer = document.getElementById('more-games');

@@ -498,8 +498,8 @@
         "size": "s"
     },
     {
-        "name": "Chromaincident",
-        "image": "/assets/imgs/games/chromaincident.png",
+        "name": "The Chroma Incident",
+        "image": "/assets/imgs/games/chroma.avif",
         "url": "chromaincident",
         "tags": [],
         "special": [],
@@ -2711,6 +2711,14 @@
         "size": "s"
     },
     {
+        "name": "Level Devil",
+        "image": "/assets/imgs/games/level_devil.avif",
+        "url": "/assets/games/leveldevil/",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
         "name": "Time Shooter 3",
         "image": "/assets/imgs/games/time_shooter_3.avif",
         "url": "time-shooter-3",
@@ -2777,7 +2785,7 @@
     },
     {
         "name": "Townscaper",
-        "image": "/assets/games/townscaper/img/cover.jpg",
+        "image": "/assets/imgs/games/townscraper.avif",
         "url": "townscaper",
         "tags": [],
         "special": [],

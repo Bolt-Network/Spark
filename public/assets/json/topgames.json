@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Toss The Turtle",
+        "image": "/assets/imgs/games/toss_the_turtle.avif",
+        "url": "tosstheturtle",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Death Run 3D",
+        "image": "/assets/imgs/games/death_run_3d.avif",
+        "url": "death-run-3d",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    }
+]
