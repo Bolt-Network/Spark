@@ -315,13 +315,24 @@ a:hover::after {
     text-shadow: #ff5e00be 0px 0px 10px, rgba(255, 174, 0, 0.466) 0px 0px 2px;
 }
 
-/* Games Grid */
 #top-games-grid,
 #hot-games-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 20px;
     margin-bottom: 40px;
+    min-height: 440px;
+
+}
+
+/* For mobile */
+@media (max-width: 768px) {
+
+    #top-games-grid,
+    #hot-games-grid {
+        min-height: 830px;
+
+    }
 }
 
 /* Game Card */
@@ -346,7 +357,6 @@ a:hover::after {
     border: #ff5e00 3px solid;
 }
 
-/* Game Link */
 .game-link {
     display: flex;
     align-items: center;
@@ -362,7 +372,7 @@ a:hover::after {
     background: rgba(0, 0, 0, 0.7);
 }
 
-/* Game Name */
+
 .game-name {
     color: white;
     font-size: 24px;
