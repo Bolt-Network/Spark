@@ -1,7 +1,7 @@
 [
     {
         "name": "10 Minutes Till Dawn",
-        "image": "/assets/imgs/games/10_minutes_till_dawn.avif",
+        "image": "/assets/imgs/games/10_minutes_till_dawn.webp",
         "url": "10-minutes-till-dawn",
         "tags": [],
         "special": [],
@@ -10,7 +10,7 @@
     },
     {
         "name": "100 NG",
-        "image": "/assets/imgs/games/100_ng.avif",
+        "image": "/assets/imgs/games/100_ng.webp",
         "url": "100ng",
         "tags": [],
         "special": [],
@@ -18,7 +18,7 @@
     },
     {
         "name": "1V1 Space",
-        "image": "/assets/imgs/games/1v1_space.avif",
+        "image": "/assets/imgs/games/1v1_space.webp",
         "url": "1v1space",
         "tags": [],
         "special": [],
@@ -26,7 +26,7 @@
     },
     {
         "name": "2020 Game",
-        "image": "/assets/imgs/games/2020_game.avif",
+        "image": "/assets/imgs/games/2020_game.webp",
         "url": "2020-game",
         "tags": [],
         "special": [],
@@ -34,7 +34,7 @@
     },
     {
         "name": "2048",
-        "image": "/assets/imgs/games/2048.avif",
+        "image": "/assets/imgs/games/2048.webp",
         "url": "2048",
         "tags": [],
         "special": [],
@@ -42,7 +42,7 @@
     },
     {
         "name": "8 Ball Billards Classic",
-        "image": "/assets/imgs/games/8_ball_billards_classic.avif",
+        "image": "/assets/imgs/games/8_ball_billards_classic.webp",
         "url": "8ball-billards-classic",
         "tags": [],
         "special": [],
@@ -50,7 +50,7 @@
     },
     {
         "name": "Achievement Unlocked",
-        "image": "/assets/imgs/games/achievement_unlocked.avif",
+        "image": "/assets/imgs/games/achievement_unlocked.webp",
         "url": "achievementunlocked",
         "tags": [],
         "special": [],
@@ -58,7 +58,7 @@
     },
     {
         "name": "A Dark Room",
-        "image": "/assets/imgs/games/a_dark_room.avif",
+        "image": "/assets/imgs/games/a_dark_room.webp",
         "url": "adarkroom",
         "tags": [],
         "special": [],
@@ -67,7 +67,7 @@
     },
     {
         "name": "Adrenaline Challenge",
-        "image": "/assets/imgs/games/adrenaline_challenge.avif",
+        "image": "/assets/imgs/games/adrenaline_challenge.webp",
         "url": "adrenalinechallenge",
         "tags": [],
         "special": [],
@@ -75,7 +75,7 @@
     },
     {
         "name": "Age Of War",
-        "image": "/assets/imgs/games/age_of_war.avif",
+        "image": "/assets/imgs/games/age_of_war.webp",
         "url": "age-of-war",
         "tags": [],
         "special": [],
@@ -83,7 +83,7 @@
     },
     {
         "name": "Alien Invaders.io",
-        "image": "/assets/imgs/games/alien_invaders.io.avif",
+        "image": "/assets/imgs/games/alien_invaders.io.webp",
         "url": "alien-invaders-io",
         "tags": [],
         "special": [],
@@ -91,7 +91,7 @@
     },
     {
         "name": "Alien Hominid",
-        "image": "/assets/imgs/games/alien_hominid.avif",
+        "image": "/assets/imgs/games/alien_hominid.webp",
         "url": "alienhominid",
         "tags": [],
         "special": [],
@@ -99,7 +99,7 @@
     },
     {
         "name": "Align 4",
-        "image": "/assets/imgs/games/align_4.avif",
+        "image": "/assets/imgs/games/align_4.webp",
         "url": "align-4",
         "tags": [],
         "special": [],
@@ -107,7 +107,7 @@
     },
     {
         "name": "Among Us",
-        "image": "/assets/imgs/games/among_us.avif",
+        "image": "/assets/imgs/games/among_us.webp",
         "url": "among-us",
         "tags": [],
         "special": [],
@@ -115,7 +115,7 @@
     },
     {
         "name": "Angry Birds",
-        "image": "/assets/imgs/games/angry_birds.avif",
+        "image": "/assets/imgs/games/angry_birds.webp",
         "url": "angry-birds",
         "tags": [],
         "special": [],
@@ -123,7 +123,7 @@
     },
     {
         "name": "Anti-Terrorist Rush",
-        "image": "/assets/imgs/games/anti-terrorist_rush.avif",
+        "image": "/assets/imgs/games/anti-terrorist_rush.webp",
         "url": "anti-terrorist-rush",
         "tags": [],
         "special": [],
@@ -131,7 +131,7 @@
     },
     {
         "name": "Arcade Wizard",
-        "image": "/assets/imgs/games/arcade_wizard.avif",
+        "image": "/assets/imgs/games/arcade_wizard.webp",
         "url": "arcade-wizard",
         "tags": [],
         "special": [],
@@ -139,7 +139,7 @@
     },
     {
         "name": "Ascii Space",
-        "image": "/assets/imgs/games/asciispace.avif",
+        "image": "/assets/imgs/games/asciispace.webp",
         "url": "asciispace",
         "tags": [],
         "special": [],
@@ -147,7 +147,7 @@
     },
     {
         "name": "Aspiring Artist",
-        "image": "/assets/imgs/games/aspiring_artist.avif",
+        "image": "/assets/imgs/games/aspiring_artist.webp",
         "url": "aspiring-artist",
         "tags": [],
         "special": [],
@@ -155,7 +155,7 @@
     },
     {
         "name": "Asteroids",
-        "image": "/assets/imgs/games/asteroids.avif",
+        "image": "/assets/imgs/games/asteroids.webp",
         "url": "asteroids",
         "tags": [],
         "special": [],
@@ -163,7 +163,7 @@
     },
     {
         "name": "Astray",
-        "image": "/assets/imgs/games/astray.avif",
+        "image": "/assets/imgs/games/astray.webp",
         "url": "astray",
         "tags": [],
         "special": [],
@@ -171,7 +171,7 @@
     },
     {
         "name": "Avalanche",
-        "image": "/assets/imgs/games/avalanche.avif",
+        "image": "/assets/imgs/games/avalanche.webp",
         "url": "avalanche",
         "tags": [],
         "special": [],
@@ -179,7 +179,7 @@
     },
     {
         "name": "Awesome Tanks 2",
-        "image": "/assets/imgs/games/awesome_tanks_2.avif",
+        "image": "/assets/imgs/games/awesome_tanks_2.webp",
         "url": "awesome-tanks-2",
         "tags": [],
         "special": [],
@@ -187,7 +187,7 @@
     },
     {
         "name": "Zombie Derby: Pixel Survival",
-        "image": "/assets/imgs/games/zombie-derby.avif",
+        "image": "/assets/imgs/games/zombie-derby.webp",
         "url": "/assets/games/zombie-derby/",
         "tags": [],
         "special": [],
@@ -195,7 +195,7 @@
     },
     {
         "name": "Super Liquid Soccer",
-        "image": "/assets/imgs/games/super_liquid_soccer.avif",
+        "image": "/assets/imgs/games/super_liquid_soccer.webp",
         "url": "/assets/games/liquidsoccer/",
         "tags": [],
         "special": [],
@@ -203,7 +203,7 @@
     },
     {
         "name": "Backcountry",
-        "image": "/assets/imgs/games/backcountry.avif",
+        "image": "/assets/imgs/games/backcountry.webp",
         "url": "backcountry",
         "tags": [],
         "special": [],
@@ -211,7 +211,7 @@
     },
     {
         "name": "Backflip Dive 3D",
-        "image": "/assets/imgs/games/backflip_dive_3d.avif",
+        "image": "/assets/imgs/games/backflip_dive_3d.webp",
         "url": "backflip-dive-3d",
         "tags": [],
         "special": [],
@@ -219,7 +219,7 @@
     },
     {
         "name": "Backrooms",
-        "image": "/assets/imgs/games/backrooms.avif",
+        "image": "/assets/imgs/games/backrooms.webp",
         "url": "backrooms",
         "tags": [],
         "special": [],
@@ -227,7 +227,7 @@
     },
     {
         "name": "Bad Ice Cream",
-        "image": "/assets/imgs/games/bad_ice_cream.avif",
+        "image": "/assets/imgs/games/bad_ice_cream.webp",
         "url": "bad-ice-cream",
         "tags": [],
         "special": [],
@@ -235,7 +235,7 @@
     },
     {
         "name": "Bad Ice Cream 2",
-        "image": "/assets/imgs/games/bad_ice_cream_2.avif",
+        "image": "/assets/imgs/games/bad_ice_cream_2.webp",
         "url": "bad-ice-cream-2",
         "tags": [],
         "special": [],
@@ -243,7 +243,7 @@
     },
     {
         "name": "Bad Ice Cream 3",
-        "image": "/assets/imgs/games/bad_ice_cream_3.avif",
+        "image": "/assets/imgs/games/bad_ice_cream_3.webp",
         "url": "bad-ice-cream-3",
         "tags": [],
         "special": [],
@@ -251,7 +251,7 @@
     },
     {
         "name": "Baldis Basics",
-        "image": "/assets/imgs/games/baldis_basics.avif",
+        "image": "/assets/imgs/games/baldis_basics.webp",
         "url": "baldis-basics",
         "tags": [],
         "special": [],
@@ -259,7 +259,7 @@
     },
     {
         "name": "Basket Bros.io",
-        "image": "/assets/imgs/games/basket_bros_.io.avif",
+        "image": "/assets/imgs/games/basket_bros_.io.webp",
         "url": "basket-bros-io",
         "tags": [],
         "special": [],
@@ -267,7 +267,7 @@
     },
     {
         "name": "Basketball.io",
-        "image": "/assets/imgs/games/basketballio.avif",
+        "image": "/assets/imgs/games/basketballio.webp",
         "url": "basketball-io",
         "tags": [],
         "special": [],
@@ -275,7 +275,7 @@
     },
     {
         "name": "Basketball Legends 2020",
-        "image": "/assets/imgs/games/basketball_legends_2020.avif",
+        "image": "/assets/imgs/games/basketball_legends_2020.webp",
         "url": "basketball-legends-2020",
         "tags": [],
         "special": [],
@@ -283,7 +283,7 @@
     },
     {
         "name": "Basketball Stars",
-        "image": "/assets/imgs/games/basketball_stars.avif",
+        "image": "/assets/imgs/games/basketball_stars.webp",
         "url": "basketball-stars",
         "tags": [],
         "special": [],
@@ -291,7 +291,7 @@
     },
     {
         "name": "Battle For Gondor",
-        "image": "/assets/imgs/games/battleforgondor.avif",
+        "image": "/assets/imgs/games/battleforgondor.webp",
         "url": "battleforgondor",
         "tags": [],
         "special": [],
@@ -299,7 +299,7 @@
     },
     {
         "name": "Big Red Button",
-        "image": "/assets/imgs/games/bigredbutton.avif",
+        "image": "/assets/imgs/games/bigredbutton.webp",
         "url": "bigredbutton",
         "tags": [],
         "special": [],
@@ -307,7 +307,7 @@
     },
     {
         "name": "Binding Of Isaac",
-        "image": "/assets/imgs/games/binding_of_isaac.avif",
+        "image": "/assets/imgs/games/binding_of_isaac.webp",
         "url": "binding-of-isaac",
         "tags": [],
         "special": [],
@@ -315,7 +315,7 @@
     },
     {
         "name": "Bitlife",
-        "image": "/assets/imgs/games/bitlife.avif",
+        "image": "/assets/imgs/games/bitlife.webp",
         "url": "bitlife",
         "tags": [],
         "special": [],
@@ -323,7 +323,7 @@
     },
     {
         "name": "Black Hole Square",
-        "image": "/assets/imgs/games/black_hole_square.avif",
+        "image": "/assets/imgs/games/black_hole_square.webp",
         "url": "blackholesquare",
         "tags": [],
         "special": [],
@@ -331,7 +331,7 @@
     },
     {
         "name": "Blackknight",
-        "image": "/assets/imgs/games/blackknight.avif",
+        "image": "/assets/imgs/games/blackknight.webp",
         "url": "blackknight",
         "tags": [],
         "special": [],
@@ -339,7 +339,7 @@
     },
     {
         "name": "Blocky Snakes",
-        "image": "/assets/imgs/games/blocky_snakes.avif",
+        "image": "/assets/imgs/games/blocky_snakes.webp",
         "url": "/assets/games/blockysnakes/",
         "tags": [],
         "special": [],
@@ -347,7 +347,7 @@
     },
     {
         "name": "Bloons TD",
-        "image": "/assets/imgs/games/bloons_td.avif",
+        "image": "/assets/imgs/games/bloons_td.webp",
         "url": "bloonstd",
         "tags": [],
         "special": [],
@@ -355,7 +355,7 @@
     },
     {
         "name": "Bloons TD 2",
-        "image": "/assets/imgs/games/bloons_td_2.avif",
+        "image": "/assets/imgs/games/bloons_td_2.webp",
         "url": "bloonstd2",
         "tags": [],
         "special": [],
@@ -363,7 +363,7 @@
     },
     {
         "name": "Bloxors",
-        "image": "/assets/imgs/games/bloxors.avif",
+        "image": "/assets/imgs/games/bloxors.webp",
         "url": "bloxors",
         "tags": [],
         "special": [],
@@ -371,7 +371,7 @@
     },
     {
         "name": "Bounceback",
-        "image": "/assets/imgs/games/bounceback.avif",
+        "image": "/assets/imgs/games/bounceback.webp",
         "url": "bounceback",
         "tags": [],
         "special": [],
@@ -379,7 +379,7 @@
     },
     {
         "name": "Boxel Rebound",
-        "image": "/assets/imgs/games/boxel_rebound.avif",
+        "image": "/assets/imgs/games/boxel_rebound.webp",
         "url": "boxel-rebound",
         "tags": [],
         "special": [],
@@ -387,7 +387,7 @@
     },
     {
         "name": "Boxhead2Play",
-        "image": "/assets/imgs/games/boxhead2play.avif",
+        "image": "/assets/imgs/games/boxhead2play.webp",
         "url": "boxhead2play",
         "tags": [],
         "special": [],
@@ -395,7 +395,7 @@
     },
     {
         "name": "Brave Explorers",
-        "image": "/assets/imgs/games/brave_explorers.avif",
+        "image": "/assets/imgs/games/brave_explorers.webp",
         "url": "brave-explorers",
         "tags": [],
         "special": [],
@@ -403,7 +403,7 @@
     },
     {
         "name": "Breaking The Bank",
-        "image": "/assets/imgs/games/breaking_the_bank.avif",
+        "image": "/assets/imgs/games/breaking_the_bank.webp",
         "url": "breakingthebank",
         "tags": [],
         "special": [],
@@ -411,7 +411,7 @@
     },
     {
         "name": "Breaklock",
-        "image": "/assets/imgs/games/breaklock.avif",
+        "image": "/assets/imgs/games/breaklock.webp",
         "url": "breaklock",
         "tags": [],
         "special": [],
@@ -419,7 +419,7 @@
     },
     {
         "name": "Breakout",
-        "image": "/assets/imgs/games/breakout.avif",
+        "image": "/assets/imgs/games/breakout.webp",
         "url": "breakout",
         "tags": [],
         "special": [],
@@ -427,7 +427,7 @@
     },
     {
         "name": "Bloons TD 4",
-        "image": "/assets/imgs/games/bloons_td_4.avif",
+        "image": "/assets/imgs/games/bloons_td_4.webp",
         "url": "btd4",
         "tags": [],
         "special": [],
@@ -435,7 +435,7 @@
     },
     {
         "name": "Big Tower Tiny Square",
-        "image": "/assets/imgs/games/big_tower_tiny_square.avif",
+        "image": "/assets/imgs/games/big_tower_tiny_square.webp",
         "url": "btts",
         "tags": [],
         "special": [],
@@ -443,7 +443,7 @@
     },
     {
         "name": "Burning Man 2",
-        "image": "/assets/imgs/games/burning_man_2.avif",
+        "image": "/assets/imgs/games/burning_man_2.webp",
         "url": "burning-man-2",
         "tags": [],
         "special": [],
@@ -451,7 +451,7 @@
     },
     {
         "name": "Cannon Basketball 4",
-        "image": "/assets/imgs/games/cannon_basketball_4.avif",
+        "image": "/assets/imgs/games/cannon_basketball_4.webp",
         "url": "cannon-basketball-4",
         "tags": [],
         "special": [],
@@ -459,7 +459,7 @@
     },
     {
         "name": "Canyondefense",
-        "image": "/assets/imgs/games/canyondefense.avif",
+        "image": "/assets/imgs/games/canyondefense.webp",
         "url": "canyondefense",
         "tags": [],
         "special": [],
@@ -467,7 +467,7 @@
     },
     {
         "name": "Captaincallisto",
-        "image": "/assets/imgs/games/captaincallisto.avif",
+        "image": "/assets/imgs/games/captaincallisto.webp",
         "url": "captaincallisto",
         "tags": [],
         "special": [],
@@ -475,7 +475,7 @@
     },
     {
         "name": "Cars Simulator",
-        "image": "/assets/imgs/games/cars_simulator.avif",
+        "image": "/assets/imgs/games/cars_simulator.webp",
         "url": "cars-simulator",
         "tags": [],
         "special": [],
@@ -483,7 +483,7 @@
     },
     {
         "name": "Cell Machine",
-        "image": "/assets/imgs/games/cell_machine.avif",
+        "image": "/assets/imgs/games/cell_machine.webp",
         "url": "cell-machine",
         "tags": [],
         "special": [],
@@ -491,7 +491,7 @@
     },
     {
         "name": "Champion Archer",
-        "image": "/assets/imgs/games/championarcher.avif",
+        "image": "/assets/imgs/games/championarcher.webp",
         "url": "championarcher",
         "tags": [],
         "special": [],
@@ -499,7 +499,7 @@
     },
     {
         "name": "Chess",
-        "image": "/assets/imgs/games/chess.avif",
+        "image": "/assets/imgs/games/chess.webp",
         "url": "chess",
         "tags": [],
         "special": [],
@@ -507,7 +507,7 @@
     },
     {
         "name": "Chill Rad.io",
-        "image": "/assets/imgs/games/chill_radio.avif",
+        "image": "/assets/imgs/games/chill_radio.webp",
         "url": "chill-radio",
         "tags": [],
         "special": [],
@@ -515,7 +515,7 @@
     },
     {
         "name": "The Chroma Incident",
-        "image": "/assets/imgs/games/chroma.avif",
+        "image": "/assets/imgs/games/chroma.webp",
         "url": "chromaincident",
         "tags": [],
         "special": [],
@@ -523,7 +523,7 @@
     },
     {
         "name": "Chrome Dino",
-        "image": "/assets/imgs/games/chrome_dino.avif",
+        "image": "/assets/imgs/games/chrome_dino.webp",
         "url": "chrome-dino",
         "tags": [],
         "special": [],
@@ -531,7 +531,7 @@
     },
     {
         "name": "Circlo",
-        "image": "/assets/imgs/games/circlo.avif",
+        "image": "/assets/imgs/games/circlo.webp",
         "url": "circlo",
         "tags": [],
         "special": [],
@@ -539,7 +539,7 @@
     },
     {
         "name": "City Blocks 2",
-        "image": "/assets/imgs/games/city_blocks_2.avif",
+        "image": "/assets/imgs/games/city_blocks_2.webp",
         "url": "city-blocks-2",
         "tags": [],
         "special": [],
@@ -547,7 +547,7 @@
     },
     {
         "name": "Clean Up .io",
-        "image": "/assets/imgs/games/clean_up_.io.avif",
+        "image": "/assets/imgs/games/clean_up_.io.webp",
         "url": "clean-up-io",
         "tags": [],
         "special": [],
@@ -556,7 +556,7 @@
     },
     {
         "name": "Cluster Rush",
-        "image": "/assets/imgs/games/cluster_rush.avif",
+        "image": "/assets/imgs/games/cluster_rush.webp",
         "url": "cluster-rush",
         "tags": [],
         "special": [],
@@ -564,7 +564,7 @@
     },
     {
         "name": "Color Switch 2 Challenges",
-        "image": "/assets/imgs/games/color_switch_2_challenges.avif",
+        "image": "/assets/imgs/games/color_switch_2_challenges.webp",
         "url": "color-switch-2-challenges",
         "tags": [],
         "special": [],
@@ -572,7 +572,7 @@
     },
     {
         "name": "Connect 3",
-        "image": "/assets/imgs/games/connect_3.avif",
+        "image": "/assets/imgs/games/connect_3.webp",
         "url": "connect3",
         "tags": [],
         "special": [],
@@ -580,7 +580,7 @@
     },
     {
         "name": "Cookie Clicker",
-        "image": "/assets/imgs/games/cookie_clicker.avif",
+        "image": "/assets/imgs/games/cookie_clicker.webp",
         "url": "cookie-clicker",
         "tags": [],
         "special": [],
@@ -589,7 +589,7 @@
     },
     {
         "name": "Core Ball",
-        "image": "/assets/imgs/games/core_ball.avif",
+        "image": "/assets/imgs/games/core_ball.webp",
         "url": "core-ball",
         "tags": [],
         "special": [],
@@ -597,7 +597,7 @@
     },
     {
         "name": "Craftmine",
-        "image": "/assets/imgs/games/craftmine.avif",
+        "image": "/assets/imgs/games/craftmine.webp",
         "url": "craftmine",
         "tags": [],
         "special": [],
@@ -605,7 +605,7 @@
     },
     {
         "name": "Creative Kill Chamber",
-        "image": "/assets/imgs/games/creative_kill_chamber.avif",
+        "image": "/assets/imgs/games/creative_kill_chamber.webp",
         "url": "creativekillchamber",
         "tags": [],
         "special": [],
@@ -613,7 +613,7 @@
     },
     {
         "name": "Crossy Road",
-        "image": "/assets/imgs/games/crossy_road.avif",
+        "image": "/assets/imgs/games/crossy_road.webp",
         "url": "crossyroad",
         "tags": [],
         "special": [],
@@ -621,7 +621,7 @@
     },
     {
         "name": "Crowd City 2",
-        "image": "/assets/imgs/games/crowd_city_2.avif",
+        "image": "/assets/imgs/games/crowd_city_2.webp",
         "url": "crowd city 2",
         "tags": [],
         "special": [],
@@ -629,7 +629,7 @@
     },
     {
         "name": "CSGO Clicker",
-        "image": "/assets/imgs/games/csgo_clicker.avif",
+        "image": "/assets/imgs/games/csgo_clicker.webp",
         "url": "csgo-clicker",
         "tags": [],
         "special": [],
@@ -637,7 +637,7 @@
     },
     {
         "name": "Cubefield",
-        "image": "/assets/imgs/games/cubefield.avif",
+        "image": "/assets/imgs/games/cubefield.webp",
         "url": "cubefield",
         "tags": [],
         "special": [],
@@ -645,7 +645,7 @@
     },
     {
         "name": "Cupcake 2048",
-        "image": "/assets/imgs/games/cupcake_2048.avif",
+        "image": "/assets/imgs/games/cupcake_2048.webp",
         "url": "cupcake2048",
         "tags": [],
         "special": [],
@@ -653,7 +653,7 @@
     },
     {
         "name": "Cut The Rope",
-        "image": "/assets/imgs/games/cut_the_rope.avif",
+        "image": "/assets/imgs/games/cut_the_rope.webp",
         "url": "ctr",
         "tags": [],
         "special": [],
@@ -661,7 +661,7 @@
     },
     {
         "name": "Dante",
-        "image": "/assets/imgs/games/dante.avif",
+        "image": "/assets/imgs/games/dante.webp",
         "url": "dante",
         "tags": [],
         "special": [],
@@ -669,7 +669,7 @@
     },
     {
         "name": "Deal Or No Deal",
-        "image": "/assets/imgs/games/deal_or_no_deal.avif",
+        "image": "/assets/imgs/games/deal_or_no_deal.webp",
         "url": "deal-or-no-deal",
         "tags": [],
         "special": [],
@@ -677,7 +677,7 @@
     },
     {
         "name": "Death Run 3D",
-        "image": "/assets/imgs/games/death_run_3d.avif",
+        "image": "/assets/imgs/games/death_run_3d.webp",
         "url": "death-run-3d",
         "tags": [],
         "special": [],
@@ -685,7 +685,7 @@
     },
     {
         "name": "Death Soul",
-        "image": "/assets/imgs/games/death_soul.avif",
+        "image": "/assets/imgs/games/death_soul.webp",
         "url": "death-soul",
         "tags": [],
         "special": [],
@@ -693,7 +693,7 @@
     },
     {
         "name": "Defend The Tank",
-        "image": "/assets/imgs/games/defend_the_tank.avif",
+        "image": "/assets/imgs/games/defend_the_tank.webp",
         "url": "defend-the-tank",
         "tags": [],
         "special": [],
@@ -701,7 +701,7 @@
     },
     {
         "name": "Doctor Acorn 2",
-        "image": "/assets/imgs/games/doctor_acorn_2.avif",
+        "image": "/assets/imgs/games/doctor_acorn_2.webp",
         "url": "doctor-acorn2",
         "tags": [],
         "special": [],
@@ -709,7 +709,7 @@
     },
     {
         "name": "Dodge",
-        "image": "/assets/imgs/games/dodge.avif",
+        "image": "/assets/imgs/games/dodge.webp",
         "url": "dodge",
         "tags": [],
         "special": [],
@@ -717,7 +717,7 @@
     },
     {
         "name": "Doge Miner 2",
-        "image": "/assets/imgs/games/doge_miner_2.avif",
+        "image": "/assets/imgs/games/doge_miner_2.webp",
         "url": "doge-miner-2",
         "tags": [],
         "special": [],
@@ -725,7 +725,7 @@
     },
     {
         "name": "Doge Mining Simulator",
-        "image": "/assets/imgs/games/doge_mining_simulator.avif",
+        "image": "/assets/imgs/games/doge_mining_simulator.webp",
         "url": "doge-mining-simulator",
         "tags": [],
         "special": [],
@@ -733,7 +733,7 @@
     },
     {
         "name": "Doge 2048",
-        "image": "/assets/imgs/games/doge_2048.avif",
+        "image": "/assets/imgs/games/doge_2048.webp",
         "url": "doge2048",
         "tags": [],
         "special": [],
@@ -741,7 +741,7 @@
     },
     {
         "name": "Dogeminer",
-        "image": "/assets/imgs/games/dogeminer.avif",
+        "image": "/assets/imgs/games/dogeminer.webp",
         "url": "DogeMiner",
         "tags": [],
         "special": [],
@@ -749,7 +749,7 @@
     },
     {
         "name": "Dont Drop The White Ball 2",
-        "image": "/assets/imgs/games/dont_drop_the_white_ball_2.avif",
+        "image": "/assets/imgs/games/dont_drop_the_white_ball_2.webp",
         "url": "dont-drop-the-white-ball-2",
         "tags": [],
         "special": [],
@@ -757,7 +757,7 @@
     },
     {
         "name": "Doodle Jump",
-        "image": "/assets/imgs/games/doodle_jump.avif",
+        "image": "/assets/imgs/games/doodle_jump.webp",
         "url": "doodle-jump",
         "tags": [],
         "special": [],
@@ -765,7 +765,7 @@
     },
     {
         "name": "Doublewires",
-        "image": "/assets/imgs/games/doublewires.avif",
+        "image": "/assets/imgs/games/doublewires.webp",
         "url": "doublewires",
         "tags": [],
         "special": [],
@@ -773,7 +773,7 @@
     },
     {
         "name": "Douchebag Workout 2",
-        "image": "/assets/imgs/games/douchebag_workout_2.avif",
+        "image": "/assets/imgs/games/douchebag_workout_2.webp",
         "url": "douchebag-workout-2",
         "tags": [],
         "special": [],
@@ -781,7 +781,7 @@
     },
     {
         "name": "Dragon Vs Bricks",
-        "image": "/assets/imgs/games/dragon_vs_bricks.avif",
+        "image": "/assets/imgs/games/dragon_vs_bricks.webp",
         "url": "dragon-vs-bricks",
         "tags": [],
         "special": [],
@@ -789,7 +789,7 @@
     },
     {
         "name": "Draw The Hill",
-        "image": "/assets/imgs/games/draw_the_hill.avif",
+        "image": "/assets/imgs/games/draw_the_hill.webp",
         "url": "draw-the-hill",
         "tags": [],
         "special": [],
@@ -797,7 +797,7 @@
     },
     {
         "name": "Drive Mad",
-        "image": "/assets/imgs/games/drive_mad.avif",
+        "image": "/assets/imgs/games/drive_mad.webp",
         "url": "drive-mad",
         "tags": [],
         "special": [],
@@ -806,7 +806,7 @@
     },
     {
         "name": "Duck Life Treasure Hunt",
-        "image": "/assets/imgs/games/duck_life_treasure_hunt.avif",
+        "image": "/assets/imgs/games/duck_life_treasure_hunt.webp",
         "url": "duck-life-treasurehunt",
         "tags": [],
         "special": [],
@@ -814,7 +814,7 @@
     },
     {
         "name": "Duck Life",
-        "image": "/assets/imgs/games/duck_life.avif",
+        "image": "/assets/imgs/games/duck_life.webp",
         "url": "ducklife",
         "tags": [],
         "special": [],
@@ -822,7 +822,7 @@
     },
     {
         "name": "Duck Life 2",
-        "image": "/assets/imgs/games/duck_life_2.avif",
+        "image": "/assets/imgs/games/duck_life_2.webp",
         "url": "ducklife2",
         "tags": [],
         "special": [],
@@ -830,7 +830,7 @@
     },
     {
         "name": "Duck Life 3",
-        "image": "/assets/imgs/games/duck_life_3.avif",
+        "image": "/assets/imgs/games/duck_life_3.webp",
         "url": "ducklife3",
         "tags": [],
         "special": [],
@@ -838,7 +838,7 @@
     },
     {
         "name": "Duck Life 4",
-        "image": "/assets/imgs/games/duck_life_4.avif",
+        "image": "/assets/imgs/games/duck_life_4.webp",
         "url": "ducklife4",
         "tags": [],
         "special": [],
@@ -846,7 +846,7 @@
     },
     {
         "name": "Duke Dashington",
-        "image": "/assets/imgs/games/duke_dashington_remastered.avif",
+        "image": "/assets/imgs/games/duke_dashington_remastered.webp",
         "url": "duke-dashington-remastered",
         "tags": [],
         "special": [],
@@ -854,7 +854,7 @@
     },
     {
         "name": "Dungeon Craft",
-        "image": "/assets/imgs/games/dungeon_craft.avif",
+        "image": "/assets/imgs/games/dungeon_craft.webp",
         "url": "dungeon-craft",
         "tags": [],
         "special": [],
@@ -862,7 +862,7 @@
     },
     {
         "name": "Edge Surf",
-        "image": "/assets/imgs/games/edge_surf.avif",
+        "image": "/assets/imgs/games/edge_surf.webp",
         "url": "edge-surf",
         "tags": [],
         "special": [],
@@ -870,7 +870,7 @@
     },
     {
         "name": "Edge Not Found",
-        "image": "/assets/imgs/games/edge_not_found.avif",
+        "image": "/assets/imgs/games/edge_not_found.webp",
         "url": "edgenotfound",
         "tags": [],
         "special": [],
@@ -878,7 +878,7 @@
     },
     {
         "name": "Elastic Face",
-        "image": "/assets/imgs/games/elasticman.avif",
+        "image": "/assets/imgs/games/elasticman.webp",
         "url": "elastic-face",
         "tags": [],
         "special": [],
@@ -886,7 +886,7 @@
     },
     {
         "name": "Emulator Js",
-        "image": "/assets/imgs/games/emulator_js.avif",
+        "image": "/assets/imgs/games/emulator_js.webp",
         "url": "emulator-js",
         "tags": [],
         "special": [],
@@ -894,7 +894,7 @@
     },
     {
         "name": "Endless War 3",
-        "image": "/assets/imgs/games/endlesswar_3.avif",
+        "image": "/assets/imgs/games/endlesswar_3.webp",
         "url": "endlesswar3",
         "tags": [],
         "special": [],
@@ -902,7 +902,7 @@
     },
     {
         "name": "Escaping The Prison",
-        "image": "/assets/imgs/games/escapingtheprison.avif",
+        "image": "/assets/imgs/games/escapingtheprison.webp",
         "url": "escapingtheprison",
         "tags": [],
         "special": [],
@@ -910,7 +910,7 @@
     },
     {
         "name": "Evil Glitch",
-        "image": "/assets/imgs/games/evil_glitch.avif",
+        "image": "/assets/imgs/games/evil_glitch.webp",
         "url": "evil-glitch",
         "tags": [],
         "special": [],
@@ -918,7 +918,7 @@
     },
     {
         "name": "Evolution",
-        "image": "/assets/imgs/games/evolution.avif",
+        "image": "/assets/imgs/games/evolution.webp",
         "url": "evolution",
         "tags": [],
         "special": [],
@@ -926,7 +926,7 @@
     },
     {
         "name": "Exo",
-        "image": "/assets/imgs/games/exo.avif",
+        "image": "/assets/imgs/games/exo.webp",
         "url": "exo",
         "tags": [],
         "special": [],
@@ -934,7 +934,7 @@
     },
     {
         "name": "Factory Balls Forever",
-        "image": "/assets/imgs/games/factory_balls_forever.avif",
+        "image": "/assets/imgs/games/factory_balls_forever.webp",
         "url": "factory-balls-forever",
         "tags": [],
         "special": [],
@@ -942,7 +942,7 @@
     },
     {
         "name": "Factory Balls",
-        "image": "/assets/imgs/games/factoryballs.avif",
+        "image": "/assets/imgs/games/factoryballs.webp",
         "url": "factoryballs",
         "tags": [],
         "special": [],
@@ -950,7 +950,7 @@
     },
     {
         "name": "Fake Virus",
-        "image": "/assets/imgs/games/fake_virus.avif",
+        "image": "/assets/imgs/games/fake_virus.webp",
         "url": "fake-virus",
         "tags": [],
         "special": [],
@@ -958,7 +958,7 @@
     },
     {
         "name": "Fancypants Adventures",
-        "image": "/assets/imgs/games/fancypantsadventures.avif",
+        "image": "/assets/imgs/games/fancypantsadventures.webp",
         "url": "fancypantsadventures",
         "tags": [],
         "special": [],
@@ -966,7 +966,7 @@
     },
     {
         "name": "Fire Boy Water Girl",
-        "image": "/assets/imgs/games/fbwg.avif",
+        "image": "/assets/imgs/games/fbwg.webp",
         "url": "fbwg",
         "tags": [],
         "special": [],
@@ -974,7 +974,7 @@
     },
     {
         "name": "Finns Fantastic Food Machine",
-        "image": "/assets/imgs/games/finns_fantastic_food_machine.avif",
+        "image": "/assets/imgs/games/finns_fantastic_food_machine.webp",
         "url": "finns-fantastic-food-machine",
         "tags": [],
         "special": [],
@@ -982,7 +982,7 @@
     },
     {
         "name": "Fire and Ice",
-        "image": "/assets/imgs/games/fireice.avif",
+        "image": "/assets/imgs/games/fireice.webp",
         "url": "fireice",
         "tags": [],
         "special": [],
@@ -990,7 +990,7 @@
     },
     {
         "name": "Flappy 2048",
-        "image": "/assets/imgs/games/flappy_2048.avif",
+        "image": "/assets/imgs/games/flappy_2048.webp",
         "url": "flappy-2048",
         "tags": [],
         "special": [],
@@ -999,7 +999,7 @@
     },
     {
         "name": "Flappy Bird",
-        "image": "/assets/imgs/games/flappy_bird.avif",
+        "image": "/assets/imgs/games/flappy_bird.webp",
         "url": "flappy-bird",
         "tags": [],
         "special": [],
@@ -1007,7 +1007,7 @@
     },
     {
         "name": "Flappy Defense",
-        "image": "/assets/imgs/games/flappy_defense.avif",
+        "image": "/assets/imgs/games/flappy_defense.webp",
         "url": "flappy-defense",
         "tags": [],
         "special": [],
@@ -1015,7 +1015,7 @@
     },
     {
         "name": "Tetris",
-        "image": "/assets/imgs/games/flashtetris.avif",
+        "image": "/assets/imgs/games/flashtetris.webp",
         "url": "flashtetris",
         "tags": [],
         "special": [],
@@ -1023,7 +1023,7 @@
     },
     {
         "name": "Flippy Fish",
-        "image": "/assets/imgs/games/flippy_fish.avif",
+        "image": "/assets/imgs/games/flippy_fish.webp",
         "url": "flippy-fish",
         "tags": [],
         "special": [],
@@ -1031,7 +1031,7 @@
     },
     {
         "name": "Flood Runner 2",
-        "image": "/assets/imgs/games/flood_runner_2.avif",
+        "image": "/assets/imgs/games/flood_runner_2.webp",
         "url": "flood-runner-2",
         "tags": [],
         "special": [],
@@ -1039,7 +1039,7 @@
     },
     {
         "name": "Friday Night Funkin",
-        "image": "/assets/imgs/games/fridaynightfunkin.avif",
+        "image": "/assets/imgs/games/fridaynightfunkin.webp",
         "url": "fridaynightfunkin",
         "tags": [],
         "special": [],
@@ -1047,7 +1047,7 @@
     },
     {
         "name": "Friendly Fire",
-        "image": "/assets/imgs/games/friendly_fire.avif",
+        "image": "/assets/imgs/games/friendly_fire.webp",
         "url": "friendlyfire",
         "tags": [],
         "special": [],
@@ -1055,7 +1055,7 @@
     },
     {
         "name": "Froggy's Battle",
-        "image": "/assets/imgs/games/froggys_battle.avif",
+        "image": "/assets/imgs/games/froggys_battle.webp",
         "url": "froggys-battle",
         "tags": [],
         "special": [],
@@ -1063,7 +1063,7 @@
     },
     {
         "name": "Fruit Ninja",
-        "image": "/assets/imgs/games/fruit_ninja.avif",
+        "image": "/assets/imgs/games/fruit_ninja.webp",
         "url": "fruitninja",
         "tags": [],
         "special": [],
@@ -1071,7 +1071,7 @@
     },
     {
         "name": "Frying Nemo",
-        "image": "/assets/imgs/games/frying_nemo.avif",
+        "image": "/assets/imgs/games/frying_nemo.webp",
         "url": "frying-nemo",
         "tags": [],
         "special": [],
@@ -1079,7 +1079,7 @@
     },
     {
         "name": "Game Inside",
-        "image": "/assets/imgs/games/game_inside.avif",
+        "image": "/assets/imgs/games/game_inside.webp",
         "url": "game-inside",
         "tags": [],
         "special": [],
@@ -1087,7 +1087,7 @@
     },
     {
         "name": "Generic Fishing Game",
-        "image": "/assets/imgs/games/generic_fishing_game.avif",
+        "image": "/assets/imgs/games/generic_fishing_game.webp",
         "url": "generic-fishing-game",
         "tags": [],
         "special": [],
@@ -1095,7 +1095,7 @@
     },
     {
         "name": "Geodash",
-        "image": "/assets/imgs/games/geodash.avif",
+        "image": "/assets/imgs/games/geodash.webp",
         "url": "geodash",
         "tags": [],
         "special": [],
@@ -1103,7 +1103,7 @@
     },
     {
         "name": "Geodash 2",
-        "image": "/assets/imgs/games/geodash_2.avif",
+        "image": "/assets/imgs/games/geodash_2.webp",
         "url": "geodash-2",
         "tags": [],
         "special": [],
@@ -1111,7 +1111,7 @@
     },
     {
         "name": "George and the Printer",
-        "image": "/assets/imgs/games/georgeandtheprinter.avif",
+        "image": "/assets/imgs/games/georgeandtheprinter.webp",
         "url": "georgeandtheprinter",
         "tags": [],
         "special": [],
@@ -1119,7 +1119,7 @@
     },
     {
         "name": "Getaway Shootout",
-        "image": "/assets/imgs/games/getaway_shootout.avif",
+        "image": "/assets/imgs/games/getaway_shootout.webp",
         "url": "getaway-shootout",
         "tags": [],
         "special": [],
@@ -1127,7 +1127,7 @@
     },
     {
         "name": "Getting Over It",
-        "image": "/assets/imgs/games/getting_over_it.avif",
+        "image": "/assets/imgs/games/getting_over_it.webp",
         "url": "getting-over-it",
         "tags": [],
         "special": [],
@@ -1135,7 +1135,7 @@
     },
     {
         "name": "Gimme The Airpod",
-        "image": "/assets/imgs/games/gimme_the_airpod.avif",
+        "image": "/assets/imgs/games/gimme_the_airpod.webp",
         "url": "gimme-the-airpod",
         "tags": [],
         "special": [],
@@ -1143,7 +1143,7 @@
     },
     {
         "name": "Glass City",
-        "image": "/assets/imgs/games/glass_city.avif",
+        "image": "/assets/imgs/games/glass_city.webp",
         "url": "glass-city",
         "tags": [],
         "special": [],
@@ -1151,7 +1151,7 @@
     },
     {
         "name": "Go Ball",
-        "image": "/assets/imgs/games/go_ball.avif",
+        "image": "/assets/imgs/games/go_ball.webp",
         "url": "go-ball",
         "tags": [],
         "special": [],
@@ -1159,7 +1159,7 @@
     },
     {
         "name": "Golf",
-        "image": "/assets/imgs/games/golf.avif",
+        "image": "/assets/imgs/games/golf.webp",
         "url": "golf",
         "tags": [],
         "special": [],
@@ -1167,7 +1167,7 @@
     },
     {
         "name": "Goodnight",
-        "image": "/assets/imgs/games/goodnight.avif",
+        "image": "/assets/imgs/games/goodnight.webp",
         "url": "goodnight",
         "tags": [],
         "special": [],
@@ -1175,7 +1175,7 @@
     },
     {
         "name": "Google Snake",
-        "image": "/assets/imgs/games/google_snake.avif",
+        "image": "/assets/imgs/games/google_snake.webp",
         "url": "google-snake",
         "tags": [],
         "special": [],
@@ -1183,7 +1183,7 @@
     },
     {
         "name": "Google Solitaire",
-        "image": "/assets/imgs/games/google_solitaire.avif",
+        "image": "/assets/imgs/games/google_solitaire.webp",
         "url": "google-solitaire",
         "tags": [],
         "special": [],
@@ -1191,7 +1191,7 @@
     },
     {
         "name": "Gopher Kart",
-        "image": "/assets/imgs/games/gopher.avif",
+        "image": "/assets/imgs/games/gopher.webp",
         "url": "gopher",
         "tags": [],
         "special": [],
@@ -1199,7 +1199,7 @@
     },
     {
         "name": "Gravity Soccer",
-        "image": "/assets/imgs/games/gravity_soccer.avif",
+        "image": "/assets/imgs/games/gravity_soccer.webp",
         "url": "gravity-soccer",
         "tags": [],
         "special": [],
@@ -1207,7 +1207,7 @@
     },
     {
         "name": "Green",
-        "image": "/assets/imgs/games/green.avif",
+        "image": "/assets/imgs/games/green.webp",
         "url": "green",
         "tags": [],
         "special": [],
@@ -1215,7 +1215,7 @@
     },
     {
         "name": "Greybox",
-        "image": "/assets/imgs/games/greybox.avif",
+        "image": "/assets/imgs/games/greybox.webp",
         "url": "greybox",
         "tags": [],
         "special": [],
@@ -1223,7 +1223,7 @@
     },
     {
         "name": "Grindcraft",
-        "image": "/assets/imgs/games/grindcraft.avif",
+        "image": "/assets/imgs/games/grindcraft.webp",
         "url": "grindcraft",
         "tags": [],
         "special": [],
@@ -1232,7 +1232,7 @@
     },
     {
         "name": "Grow In The Hole",
-        "image": "/assets/imgs/games/grow_in_the_hole.avif",
+        "image": "/assets/imgs/games/grow_in_the_hole.webp",
         "url": "grow-in-the-hole",
         "tags": [],
         "special": [],
@@ -1240,7 +1240,7 @@
     },
     {
         "name": "Gun Mayhem",
-        "image": "/assets/imgs/games/gun_mayhem.avif",
+        "image": "/assets/imgs/games/gun_mayhem.webp",
         "url": "gun-mayhem",
         "tags": [],
         "special": [],
@@ -1248,7 +1248,7 @@
     },
     {
         "name": "Gun Mayhem 2",
-        "image": "/assets/imgs/games/gun_mayhem_2.avif",
+        "image": "/assets/imgs/games/gun_mayhem_2.webp",
         "url": "gun-mayhem-2",
         "tags": [],
         "special": [],
@@ -1256,7 +1256,7 @@
     },
     {
         "name": "Gun Mayhem Redux",
-        "image": "/assets/imgs/games/gun_mayhem_redux.avif",
+        "image": "/assets/imgs/games/gun_mayhem_redux.webp",
         "url": "gun-mayhem-redux",
         "tags": [],
         "special": [],
@@ -1264,7 +1264,7 @@
     },
     {
         "name": "Gunspin",
-        "image": "/assets/imgs/games/gunspin.avif",
+        "image": "/assets/imgs/games/gunspin.webp",
         "url": "/assets/games/gunspin/",
         "tags": [],
         "special": [],
@@ -1272,7 +1272,7 @@
     },
     {
         "name": "Hackertyper",
-        "image": "/assets/imgs/games/hackertyper.avif",
+        "image": "/assets/imgs/games/hackertyper.webp",
         "url": "hackertype",
         "tags": [],
         "special": [],
@@ -1280,7 +1280,7 @@
     },
     {
         "name": "Happy Hop",
-        "image": "/assets/imgs/games/happy_hop.avif",
+        "image": "/assets/imgs/games/happy_hop.webp",
         "url": "happy-hop",
         "tags": [],
         "special": [],
@@ -1288,7 +1288,7 @@
     },
     {
         "name": "Happy Wheels",
-        "image": "/assets/imgs/games/happy_wheels.avif",
+        "image": "/assets/imgs/games/happy_wheels.webp",
         "url": "happy-wheels",
         "tags": [],
         "special": [],
@@ -1296,7 +1296,7 @@
     },
     {
         "name": "Hoverbot Arena",
-        "image": "/assets/imgs/games/hba.avif",
+        "image": "/assets/imgs/games/hba.webp",
         "url": "hba",
         "tags": [],
         "special": [],
@@ -1304,7 +1304,7 @@
     },
     {
         "name": "Helicopter",
-        "image": "/assets/imgs/games/helicopter.avif",
+        "image": "/assets/imgs/games/helicopter.webp",
         "url": "helicopter",
         "tags": [],
         "special": [],
@@ -1312,7 +1312,7 @@
     },
     {
         "name": "Helios",
-        "image": "/assets/imgs/games/helios.avif",
+        "image": "/assets/imgs/games/helios.webp",
         "url": "helios",
         "tags": [],
         "special": [],
@@ -1320,7 +1320,7 @@
     },
     {
         "name": "Hexempire",
-        "image": "/assets/imgs/games/hexempire.avif",
+        "image": "/assets/imgs/games/hexempire.webp",
         "url": "hexempire",
         "tags": [],
         "special": [],
@@ -1328,7 +1328,7 @@
     },
     {
         "name": "Hexgl",
-        "image": "/assets/imgs/games/hexgl.avif",
+        "image": "/assets/imgs/games/hexgl.webp",
         "url": "HexGL",
         "tags": [],
         "special": [],
@@ -1336,7 +1336,7 @@
     },
     {
         "name": "Hextris",
-        "image": "/assets/imgs/games/hextris.avif",
+        "image": "/assets/imgs/games/hextris.webp",
         "url": "hextris",
         "tags": [],
         "special": [],
@@ -1344,7 +1344,7 @@
     },
     {
         "name": "House Of Hazards",
-        "image": "/assets/imgs/games/house_of_hazards.avif",
+        "image": "/assets/imgs/games/house_of_hazards.webp",
         "url": "house-of-hazards",
         "tags": [],
         "special": [],
@@ -1352,7 +1352,7 @@
     },
     {
         "name": "Icy Purple Head",
-        "image": "/assets/imgs/games/icys_purple_head.avif",
+        "image": "/assets/imgs/games/icys_purple_head.webp",
         "url": "icys-purple-head",
         "tags": [],
         "special": [],
@@ -1360,7 +1360,7 @@
     },
     {
         "name": "Idle Breakout",
-        "image": "/assets/imgs/games/idle_breakout.avif",
+        "image": "/assets/imgs/games/idle_breakout.webp",
         "url": "idle-breakout",
         "tags": [],
         "special": [],
@@ -1368,7 +1368,7 @@
     },
     {
         "name": "Idle Shark",
-        "image": "/assets/imgs/games/idle_shark.avif",
+        "image": "/assets/imgs/games/idle_shark.webp",
         "url": "idle-shark",
         "tags": [],
         "special": [],
@@ -1376,7 +1376,7 @@
     },
     {
         "name": "Impossible Quiz",
-        "image": "/assets/imgs/games/impossiblequiz.avif",
+        "image": "/assets/imgs/games/impossiblequiz.webp",
         "url": "impossiblequiz",
         "tags": [],
         "special": [],
@@ -1384,7 +1384,7 @@
     },
     {
         "name": "Interactive Buddy",
-        "image": "/assets/imgs/games/interactive_buddy.avif",
+        "image": "/assets/imgs/games/interactive_buddy.webp",
         "url": "interactivebuddy",
         "tags": [],
         "special": [],
@@ -1392,7 +1392,7 @@
     },
     {
         "name": "Jelly Truck",
-        "image": "/assets/imgs/games/jelly_truck.avif",
+        "image": "/assets/imgs/games/jelly_truck.webp",
         "url": "jelly-truck",
         "tags": [],
         "special": [],
@@ -1400,7 +1400,7 @@
     },
     {
         "name": "Jetpack Joyride",
-        "image": "/assets/imgs/games/jetpack.avif",
+        "image": "/assets/imgs/games/jetpack.webp",
         "url": "jetpack",
         "tags": [],
         "special": [],
@@ -1408,7 +1408,7 @@
     },
     {
         "name": "Jimothy Piggerton",
-        "image": "/assets/imgs/games/jimothy.avif",
+        "image": "/assets/imgs/games/jimothy.webp",
         "url": "jimothy-piggerton",
         "tags": [],
         "special": [],
@@ -1416,7 +1416,7 @@
     },
     {
         "name": "Just One Boss",
-        "image": "/assets/imgs/games/just_one_boss.avif",
+        "image": "/assets/imgs/games/just_one_boss.webp",
         "url": "just-one-boss",
         "tags": [],
         "special": [],
@@ -1424,7 +1424,7 @@
     },
     {
         "name": "Justfall",
-        "image": "/assets/imgs/games/justfall.avif",
+        "image": "/assets/imgs/games/justfall.webp",
         "url": "justfall",
         "tags": [],
         "special": [],
@@ -1432,7 +1432,7 @@
     },
     {
         "name": "Kart Fight .io",
-        "image": "/assets/imgs/games/kart_fight_.io.avif",
+        "image": "/assets/imgs/games/kart_fight_.io.webp",
         "url": "kart-fight-io",
         "tags": [],
         "special": [],
@@ -1440,7 +1440,7 @@
     },
     {
         "name": "Kitchen Gun Game",
-        "image": "/assets/imgs/games/kitchen_gun_game.avif",
+        "image": "/assets/imgs/games/kitchen_gun_game.webp",
         "url": "kitchen-gun-game",
         "tags": [],
         "special": [],
@@ -1448,7 +1448,7 @@
     },
     {
         "name": "Kitten Cannon",
-        "image": "/assets/imgs/games/kitten_cannon.avif",
+        "image": "/assets/imgs/games/kitten_cannon.webp",
         "url": "kittencannon",
         "tags": [],
         "special": [],
@@ -1456,7 +1456,7 @@
     },
     {
         "name": "Klocki",
-        "image": "/assets/imgs/games/klocki.avif",
+        "image": "/assets/imgs/games/klocki.webp",
         "url": "klocki",
         "tags": [],
         "special": [],
@@ -1464,7 +1464,7 @@
     },
     {
         "name": "Konnekt",
-        "image": "/assets/imgs/games/konnekt.avif",
+        "image": "/assets/imgs/games/konnekt.webp",
         "url": "konnekt",
         "tags": [],
         "special": [],
@@ -1472,7 +1472,7 @@
     },
     {
         "name": "Krunker",
-        "image": "/assets/imgs/games/krunker.avif",
+        "image": "/assets/imgs/games/krunker.webp",
         "url": "krunker",
         "tags": [],
         "special": [],
@@ -1480,7 +1480,7 @@
     },
     {
         "name": "Learn to fly",
-        "image": "/assets/imgs/games/learn_to_fly.avif",
+        "image": "/assets/imgs/games/learn_to_fly.webp",
         "url": "learntofly",
         "tags": [],
         "special": [],
@@ -1488,7 +1488,7 @@
     },
     {
         "name": "Learn to fly 2",
-        "image": "/assets/imgs/games/learn_to_fly_2.avif",
+        "image": "/assets/imgs/games/learn_to_fly_2.webp",
         "url": "learntofly2",
         "tags": [],
         "special": [],
@@ -1496,7 +1496,7 @@
     },
     {
         "name": "Line Rider",
-        "image": "/assets/imgs/games/line_rider.avif",
+        "image": "/assets/imgs/games/line_rider.webp",
         "url": "line-rider",
         "tags": [],
         "special": [],
@@ -1504,7 +1504,7 @@
     },
     {
         "name": "Linquest",
-        "image": "/assets/imgs/games/linquest.avif",
+        "image": "/assets/imgs/games/linquest.webp",
         "url": "linquest",
         "tags": [],
         "special": [],
@@ -1512,7 +1512,7 @@
     },
     {
         "name": "Madalin Stunt Cars 2",
-        "image": "/assets/imgs/games/madalin_stunt_cars_2.avif",
+        "image": "/assets/imgs/games/madalin_stunt_cars_2.webp",
         "url": "madalin-stunt-cars-2",
         "tags": [],
         "special": [],
@@ -1520,7 +1520,7 @@
     },
     {
         "name": "Madalin Stunt Cars 3",
-        "image": "/assets/imgs/games/madalin_stunt_cars_3.avif",
+        "image": "/assets/imgs/games/madalin_stunt_cars_3.webp",
         "url": "madalin-stunt-cars-3",
         "tags": [],
         "special": [],
@@ -1528,7 +1528,7 @@
     },
     {
         "name": "Mario",
-        "image": "/assets/imgs/games/mario.avif",
+        "image": "/assets/imgs/games/mario.webp",
         "url": "mario",
         "tags": [],
         "special": [],
@@ -1536,7 +1536,7 @@
     },
     {
         "name": "Marvin Spectrum",
-        "image": "/assets/imgs/games/marvin_spectrum.avif",
+        "image": "/assets/imgs/games/marvin_spectrum.webp",
         "url": "marvinspectrum",
         "tags": [],
         "special": [],
@@ -1544,7 +1544,7 @@
     },
     {
         "name": "Matrix Rampage",
-        "image": "/assets/imgs/games/matrixrampage.avif",
+        "image": "/assets/imgs/games/matrixrampage.webp",
         "url": "matrixrampage",
         "tags": [],
         "special": [],
@@ -1552,7 +1552,7 @@
     },
     {
         "name": "Meat Boy",
-        "image": "/assets/imgs/games/meat_boy.avif",
+        "image": "/assets/imgs/games/meat_boy.webp",
         "url": "meat-boy",
         "tags": [],
         "special": [],
@@ -1560,7 +1560,7 @@
     },
     {
         "name": "Meme 2048",
-        "image": "/assets/imgs/games/meme_2048.avif",
+        "image": "/assets/imgs/games/meme_2048.webp",
         "url": "meme2048",
         "tags": [],
         "special": [],
@@ -1568,7 +1568,7 @@
     },
     {
         "name": "Minecraft 1.12",
-        "image": "/assets/imgs/games/minecraft_1.12.avif",
+        "image": "/assets/imgs/games/minecraft_1.12.webp",
         "url": "minecraft1.12",
         "tags": [
             "3D",
@@ -1583,7 +1583,7 @@
     },
     {
         "name": "Starlike Client",
-        "image": "/assets/imgs/games/starlike.avif",
+        "image": "/assets/imgs/games/starlike.webp",
         "url": "/assets/games/minecraft1.17.html",
         "tags": [
             "3D",
@@ -1598,7 +1598,7 @@
     },
     {
         "name": "Fortnite",
-        "image": "/assets/imgs/games/fortnite.avif",
+        "image": "/assets/imgs/games/fortnite.webp",
         "url": "https://play.geforcenow.com/games?game-id=46bfab06-d864-465d-9e56-2d9e45cdee0a&lang=en_US&asset-id=01_7446f58d-0d32-44f0-b4d0-cfec543a5621",
         "tags": [
             "3D",
@@ -1615,7 +1615,7 @@
     },
     {
         "name": "Bloons TD Battles 2",
-        "image": "/assets/imgs/games/bloons_td_battles_2.avif",
+        "image": "/assets/imgs/games/bloons_td_battles_2.webp",
         "url": "https://play.geforcenow.com/games?game-id=d3b8fd6f-cad3-4779-94c3-b4617714de0c&lang=en_US&asset-id=01_4ec603c9-981d-494f-8837-491c23acfd51",
         "tags": [
             "3D",
@@ -1631,7 +1631,7 @@
     },
     {
         "name": "Counter-Strike",
-        "image": "/assets/imgs/games/counter-strike.avif",
+        "image": "/assets/imgs/games/counter-strike.webp",
         "url": "https://play-cs.com/",
         "tags": [
             "3D",
@@ -1648,7 +1648,7 @@
     },
     {
         "name": "Minesweeper",
-        "image": "/assets/imgs/games/minesweeper.avif",
+        "image": "/assets/imgs/games/minesweeper.webp",
         "url": "minesweeper",
         "tags": [],
         "special": [],
@@ -1656,7 +1656,7 @@
     },
     {
         "name": "Mini Stilts",
-        "image": "/assets/imgs/games/mini_stilts.avif",
+        "image": "/assets/imgs/games/mini_stilts.webp",
         "url": "mini-stilts",
         "tags": [],
         "special": [],
@@ -1664,7 +1664,7 @@
     },
     {
         "name": "Miniputt",
-        "image": "/assets/imgs/games/miniputt.avif",
+        "image": "/assets/imgs/games/miniputt.webp",
         "url": "miniputt",
         "tags": [],
         "special": [],
@@ -1672,7 +1672,7 @@
     },
     {
         "name": "Missiles",
-        "image": "/assets/imgs/games/missiles.avif",
+        "image": "/assets/imgs/games/missiles.webp",
         "url": "missiles",
         "tags": [],
         "special": [],
@@ -1680,7 +1680,7 @@
     },
     {
         "name": "Moto X3M 2",
-        "image": "/assets/imgs/games/moto_x3m_2.avif",
+        "image": "/assets/imgs/games/moto_x3m_2.webp",
         "url": "moto-x3m-2",
         "tags": [],
         "special": [],
@@ -1688,7 +1688,7 @@
     },
     {
         "name": "Moto X3M Pool Party",
-        "image": "/assets/imgs/games/moto_x3m_pool_party.avif",
+        "image": "/assets/imgs/games/moto_x3m_pool_party.webp",
         "url": "moto-x3m-pool-party",
         "tags": [],
         "special": [],
@@ -1696,7 +1696,7 @@
     },
     {
         "name": "Motox3M",
-        "image": "/assets/imgs/games/motox3m.avif",
+        "image": "/assets/imgs/games/motox3m.webp",
         "url": "motox3m",
         "tags": [],
         "special": [],
@@ -1704,7 +1704,7 @@
     },
     {
         "name": "Motox3M Pool",
-        "image": "/assets/imgs/games/motox3m_pool.avif",
+        "image": "/assets/imgs/games/motox3m_pool.webp",
         "url": "motox3m-pool",
         "tags": [],
         "special": [],
@@ -1712,7 +1712,7 @@
     },
     {
         "name": "Motox3M Spookyland",
-        "image": "/assets/imgs/games/motox3m_spooky.avif",
+        "image": "/assets/imgs/games/motox3m_spooky.webp",
         "url": "motox3m-spooky",
         "tags": [],
         "special": [],
@@ -1720,7 +1720,7 @@
     },
     {
         "name": "Motox3M Winter",
-        "image": "/assets/imgs/games/motox3m_winter.avif",
+        "image": "/assets/imgs/games/motox3m_winter.webp",
         "url": "motox3m-winter",
         "tags": [],
         "special": [],
@@ -1728,7 +1728,7 @@
     },
     {
         "name": "My Friend Pedro",
-        "image": "/assets/imgs/games/my_friend_pedro.avif",
+        "image": "/assets/imgs/games/my_friend_pedro.webp",
         "url": "my-friend-pedro",
         "tags": [],
         "special": [],
@@ -1736,7 +1736,7 @@
     },
     {
         "name": "N Gon",
-        "image": "/assets/imgs/games/n_gon.avif",
+        "image": "/assets/imgs/games/n_gon.webp",
         "url": "n-gon",
         "tags": [],
         "special": [],
@@ -1744,7 +1744,7 @@
     },
     {
         "name": "Ninja vs Evil Corp",
-        "image": "/assets/imgs/games/ninjavsevilcorp.avif",
+        "image": "/assets/imgs/games/ninjavsevilcorp.webp",
         "url": "ninjavsevilcorp",
         "tags": [],
         "special": [],
@@ -1752,7 +1752,7 @@
     },
     {
         "name": "NS Shaft",
-        "image": "/assets/imgs/games/ns_shaft.avif",
+        "image": "/assets/imgs/games/ns_shaft.webp",
         "url": "ns-shaft",
         "tags": [],
         "special": [],
@@ -1760,7 +1760,7 @@
     },
     {
         "name": "Offline Paradise",
-        "image": "/assets/imgs/games/offline_paradise.avif",
+        "image": "/assets/imgs/games/offline_paradise.webp",
         "url": "OfflineParadise",
         "tags": [],
         "special": [],
@@ -1768,7 +1768,7 @@
     },
     {
         "name": "Om Nom Bounce",
-        "image": "/assets/imgs/games/om_bounce.avif",
+        "image": "/assets/imgs/games/om_bounce.webp",
         "url": "om-bounce",
         "tags": [],
         "special": [],
@@ -1777,7 +1777,7 @@
     },
     {
         "name": "One Screen Run",
-        "image": "/assets/imgs/games/one_screen_run.avif",
+        "image": "/assets/imgs/games/one_screen_run.webp",
         "url": "one-screen-run",
         "tags": [],
         "special": [],
@@ -1785,7 +1785,7 @@
     },
     {
         "name": "One Screen Run 2",
-        "image": "/assets/imgs/games/one_screen_run_2.avif",
+        "image": "/assets/imgs/games/one_screen_run_2.webp",
         "url": "one-screen-run-2",
         "tags": [],
         "special": [],
@@ -1793,7 +1793,7 @@
     },
     {
         "name": "Osu",
-        "image": "/assets/imgs/games/osu.avif",
+        "image": "/assets/imgs/games/osu.webp",
         "url": "osu",
         "tags": [],
         "special": [],
@@ -1801,7 +1801,7 @@
     },
     {
         "name": "OVO",
-        "image": "/assets/imgs/games/ovo.avif",
+        "image": "/assets/imgs/games/ovo.webp",
         "url": "ovo",
         "tags": [],
         "special": [],
@@ -1809,7 +1809,7 @@
     },
     {
         "name": "Packabunchas",
-        "image": "/assets/imgs/games/packabunchas.avif",
+        "image": "/assets/imgs/games/packabunchas.webp",
         "url": "packabunchas",
         "tags": [],
         "special": [],
@@ -1817,7 +1817,7 @@
     },
     {
         "name": "Pacman",
-        "image": "/assets/imgs/games/pacman.avif",
+        "image": "/assets/imgs/games/pacman.webp",
         "url": "pacman",
         "tags": [],
         "special": [],
@@ -1825,7 +1825,7 @@
     },
     {
         "name": "Pacman FPS",
-        "image": "/assets/imgs/games/pacman_fps.avif",
+        "image": "/assets/imgs/games/pacman_fps.webp",
         "url": "pacman-fps",
         "tags": [],
         "special": [],
@@ -1833,7 +1833,7 @@
     },
     {
         "name": "Pandemic 2",
-        "image": "/assets/imgs/games/pandemic_2.avif",
+        "image": "/assets/imgs/games/pandemic_2.webp",
         "url": "pandemic2",
         "tags": [],
         "special": [],
@@ -1841,7 +1841,7 @@
     },
     {
         "name": "Papa Louie",
-        "image": "/assets/imgs/games/papa_louie.avif",
+        "image": "/assets/imgs/games/papa_louie.webp",
         "url": "papa-louie",
         "tags": [],
         "special": [],
@@ -1849,7 +1849,7 @@
     },
     {
         "name": "Papa's Burgeria",
-        "image": "/assets/imgs/games/papa's_burgeria.avif",
+        "image": "/assets/imgs/games/papa's_burgeria.webp",
         "url": "papas-burgeria",
         "tags": [],
         "special": [],
@@ -1857,7 +1857,7 @@
     },
     {
         "name": "Papa's Freezeria",
-        "image": "/assets/imgs/games/papa's_freezeria.avif",
+        "image": "/assets/imgs/games/papa's_freezeria.webp",
         "url": "papas-freezeria",
         "tags": [],
         "special": [],
@@ -1865,7 +1865,7 @@
     },
     {
         "name": "Papas Hot Doggeria",
-        "image": "/assets/imgs/games/papas_hot_doggeria.avif",
+        "image": "/assets/imgs/games/papas_hot_doggeria.webp",
         "url": "papas-hot-doggeria",
         "tags": [],
         "special": [],
@@ -1873,7 +1873,7 @@
     },
     {
         "name": "Papa's Pancakeria",
-        "image": "/assets/imgs/games/papa's_pancakeria.avif",
+        "image": "/assets/imgs/games/papa's_pancakeria.webp",
         "url": "papas-pancakeria",
         "tags": [],
         "special": [],
@@ -1881,7 +1881,7 @@
     },
     {
         "name": "Papas Pizzeria",
-        "image": "/assets/imgs/games/papas_pizzeria.avif",
+        "image": "/assets/imgs/games/papas_pizzeria.webp",
         "url": "papas-pizzeria",
         "tags": [],
         "special": [],
@@ -1889,7 +1889,7 @@
     },
     {
         "name": "Papa's Sushiria",
-        "image": "/assets/imgs/games/papa's_sushiria.avif",
+        "image": "/assets/imgs/games/papa's_sushiria.webp",
         "url": "papas-sushiria",
         "tags": [],
         "special": [],
@@ -1897,7 +1897,7 @@
     },
     {
         "name": "Papa's Wingeria",
-        "image": "/assets/imgs/games/papa's_wingeria.avif",
+        "image": "/assets/imgs/games/papa's_wingeria.webp",
         "url": "papas-wingeria",
         "tags": [],
         "special": [],
@@ -1905,7 +1905,7 @@
     },
     {
         "name": "Paper.io 2",
-        "image": "/assets/imgs/games/paper.io_2.avif",
+        "image": "/assets/imgs/games/paper.io_2.webp",
         "url": "paperio2",
         "tags": [],
         "special": [],
@@ -1913,7 +1913,7 @@
     },
     {
         "name": "Papery Planes",
-        "image": "/assets/imgs/games/papery_planes.avif",
+        "image": "/assets/imgs/games/papery_planes.webp",
         "url": "papery-planes",
         "tags": [],
         "special": [],
@@ -1921,7 +1921,7 @@
     },
     {
         "name": "Particle Clicker",
-        "image": "/assets/imgs/games/particle_clicker.avif",
+        "image": "/assets/imgs/games/particle_clicker.webp",
         "url": "particle-clicker",
         "tags": [],
         "special": [],
@@ -1929,7 +1929,7 @@
     },
     {
         "name": "Path Finder",
-        "image": "/assets/imgs/games/path_finder.avif",
+        "image": "/assets/imgs/games/path_finder.webp",
         "url": "path-finder",
         "tags": [],
         "special": [],
@@ -1937,7 +1937,7 @@
     },
     {
         "name": "Pe Noire",
-        "image": "/assets/imgs/games/pe_noire.avif",
+        "image": "/assets/imgs/games/pe_noire.webp",
         "url": "pe-noire",
         "tags": [],
         "special": [],
@@ -1945,7 +1945,7 @@
     },
     {
         "name": "Pikwip",
-        "image": "/assets/imgs/games/pikwip.avif",
+        "image": "/assets/imgs/games/pikwip.webp",
         "url": "pikwip",
         "tags": [],
         "special": [],
@@ -1953,7 +1953,7 @@
     },
     {
         "name": "Pixel Cave",
-        "image": "/assets/imgs/games/pixel_cave.avif",
+        "image": "/assets/imgs/games/pixel_cave.webp",
         "url": "pixel-cave",
         "tags": [],
         "special": [],
@@ -1961,7 +1961,7 @@
     },
     {
         "name": "Pizzeria Simulator",
-        "image": "/assets/imgs/games/pizzeria_simulator.avif",
+        "image": "/assets/imgs/games/pizzeria_simulator.webp",
         "url": "pizzeria-simulator",
         "tags": [],
         "special": [],
@@ -1969,7 +1969,7 @@
     },
     {
         "name": "Polybranch",
-        "image": "/assets/imgs/games/polybranch.avif",
+        "image": "/assets/imgs/games/polybranch.webp",
         "url": "polybranch",
         "tags": [],
         "special": [],
@@ -1977,7 +1977,7 @@
     },
     {
         "name": "Popcat Classic",
-        "image": "/assets/imgs/games/popcat_classic.avif",
+        "image": "/assets/imgs/games/popcat_classic.webp",
         "url": "popcat-classic",
         "tags": [],
         "special": [],
@@ -1985,7 +1985,7 @@
     },
     {
         "name": "Portalflash",
-        "image": "/assets/imgs/games/portal_flash.avif",
+        "image": "/assets/imgs/games/portal_flash.webp",
         "url": "portalflash",
         "tags": [],
         "special": [],
@@ -1993,7 +1993,7 @@
     },
     {
         "name": "Precision Client",
-        "image": "/assets/imgs/games/precision_client.avif",
+        "image": "/assets/imgs/games/precision_client.webp",
         "url": "precision-client",
         "tags": [],
         "special": [],
@@ -2001,7 +2001,7 @@
     },
     {
         "name": "Protektor",
-        "image": "/assets/imgs/games/protektor.avif",
+        "image": "/assets/imgs/games/protektor.webp",
         "url": "protektor",
         "tags": [],
         "special": [],
@@ -2009,7 +2009,7 @@
     },
     {
         "name": "Push The Square",
-        "image": "/assets/imgs/games/push_the_square.avif",
+        "image": "/assets/imgs/games/push_the_square.webp",
         "url": "push-the-square",
         "tags": [],
         "special": [],
@@ -2017,7 +2017,7 @@
     },
     {
         "name": "Push Your Luck",
-        "image": "/assets/imgs/games/push_your_luck.avif",
+        "image": "/assets/imgs/games/push_your_luck.webp",
         "url": "push-your-luck",
         "tags": [],
         "special": [],
@@ -2025,7 +2025,7 @@
     },
     {
         "name": "Pushback",
-        "image": "/assets/imgs/games/pushback.avif",
+        "image": "/assets/imgs/games/pushback.webp",
         "url": "pushback",
         "tags": [],
         "special": [],
@@ -2033,7 +2033,7 @@
     },
     {
         "name": "Puzzle Ball",
-        "image": "/assets/imgs/games/puzzle_ball.avif",
+        "image": "/assets/imgs/games/puzzle_ball.webp",
         "url": "puzzle-ball",
         "tags": [],
         "special": [],
@@ -2041,7 +2041,7 @@
     },
     {
         "name": "PVZ 2",
-        "image": "/assets/imgs/games/pvz_2.avif",
+        "image": "/assets/imgs/games/pvz_2.webp",
         "url": "pvz-2",
         "tags": [],
         "special": [],
@@ -2049,7 +2049,7 @@
     },
     {
         "name": "Q1K 3",
-        "image": "/assets/imgs/games/q1k_3.avif",
+        "image": "/assets/imgs/games/q1k_3.webp",
         "url": "q1k3",
         "tags": [],
         "special": [],
@@ -2057,7 +2057,7 @@
     },
     {
         "name": "Racer",
-        "image": "/assets/imgs/games/racer.avif",
+        "image": "/assets/imgs/games/racer.webp",
         "url": "racer",
         "tags": [],
         "special": [],
@@ -2065,7 +2065,7 @@
     },
     {
         "name": "Radius Raid",
-        "image": "/assets/imgs/games/radius_raid.avif",
+        "image": "/assets/imgs/games/radius_raid.webp",
         "url": "radiusraid",
         "tags": [],
         "special": [],
@@ -2073,7 +2073,7 @@
     },
     {
         "name": "Retro Bowl",
-        "image": "/assets/imgs/games/retro_bowl.avif",
+        "image": "/assets/imgs/games/retro_bowl.webp",
         "url": "retro-bowl",
         "tags": [],
         "special": [],
@@ -2081,7 +2081,7 @@
     },
     {
         "name": "Retrohaunt",
-        "image": "/assets/imgs/games/retrohaunt.avif",
+        "image": "/assets/imgs/games/retrohaunt.webp",
         "url": "retrohaunt",
         "tags": [],
         "special": [],
@@ -2089,7 +2089,7 @@
     },
     {
         "name": "Rise Of Neon Square",
-        "image": "/assets/imgs/games/rise_of_neon_square.avif",
+        "image": "/assets/imgs/games/rise_of_neon_square.webp",
         "url": "rise-of-neon-square",
         "tags": [],
         "special": [],
@@ -2097,7 +2097,7 @@
     },
     {
         "name": "Roadblocks",
-        "image": "/assets/imgs/games/roadblocks.avif",
+        "image": "/assets/imgs/games/roadblocks.webp",
         "url": "roadblocks",
         "tags": [],
         "special": [],
@@ -2105,7 +2105,7 @@
     },
     {
         "name": "Rocking Sky Trip",
-        "image": "/assets/imgs/games/rocking_sky_trip.avif",
+        "image": "/assets/imgs/games/rocking_sky_trip.webp",
         "url": "rocking-sky-trip",
         "tags": [],
         "special": [],
@@ -2113,7 +2113,7 @@
     },
     {
         "name": "Rolling Forests",
-        "image": "/assets/imgs/games/rolling_forests.avif",
+        "image": "/assets/imgs/games/rolling_forests.webp",
         "url": "rolling-forests",
         "tags": [],
         "special": [],
@@ -2121,7 +2121,7 @@
     },
     {
         "name": "Rolly Vortex",
-        "image": "/assets/imgs/games/rolly_vortex.avif",
+        "image": "/assets/imgs/games/rolly_vortex.webp",
         "url": "rolly-vortex",
         "tags": [],
         "special": [],
@@ -2129,7 +2129,7 @@
     },
     {
         "name": "Rooftop Snipers",
-        "image": "/assets/imgs/games/rooftop_snipers.avif",
+        "image": "/assets/imgs/games/rooftop_snipers.webp",
         "url": "rooftop-snipers",
         "tags": [],
         "special": [],
@@ -2137,7 +2137,7 @@
     },
     {
         "name": "Run 3",
-        "image": "/assets/imgs/games/run_3.avif",
+        "image": "/assets/imgs/games/run_3.webp",
         "url": "run-3",
         "tags": [],
         "special": [],
@@ -2146,7 +2146,7 @@
     },
     {
         "name": "Sand Game",
-        "image": "/assets/imgs/games/sand_game.avif",
+        "image": "/assets/imgs/games/sand_game.webp",
         "url": "sand-game",
         "tags": [],
         "special": [],
@@ -2155,7 +2155,7 @@
     },
     {
         "name": "Sandboxels",
-        "image": "/assets/imgs/games/sandboxels.avif",
+        "image": "/assets/imgs/games/sandboxels.webp",
         "url": "sandboxels",
         "tags": [],
         "special": [],
@@ -2163,7 +2163,7 @@
     },
     {
         "name": "Scrambled Eggs",
-        "image": "/assets/imgs/games/scrambled_eggs.avif",
+        "image": "/assets/imgs/games/scrambled_eggs.webp",
         "url": "scrambled-eggs",
         "tags": [],
         "special": [],
@@ -2171,7 +2171,7 @@
     },
     {
         "name": "Scrapmetal",
-        "image": "/assets/imgs/games/scrapmetal.avif",
+        "image": "/assets/imgs/games/scrapmetal.webp",
         "url": "scrapmetal",
         "tags": [],
         "special": [],
@@ -2179,7 +2179,7 @@
     },
     {
         "name": "Senya And Oscar 2",
-        "image": "/assets/imgs/games/senya_and_oscar_2.avif",
+        "image": "/assets/imgs/games/senya_and_oscar_2.webp",
         "url": "senya-and-oscar-2",
         "tags": [],
         "special": [],
@@ -2187,7 +2187,7 @@
     },
     {
         "name": "Shadow World Adventure",
-        "image": "/assets/imgs/games/shadow_world_adventure.avif",
+        "image": "/assets/imgs/games/shadow_world_adventure.webp",
         "url": "shadow-world-adventure",
         "tags": [],
         "special": [],
@@ -2195,7 +2195,7 @@
     },
     {
         "name": "Shards",
-        "image": "/assets/imgs/games/shards.avif",
+        "image": "/assets/imgs/games/shards.webp",
         "url": "shards",
         "tags": [],
         "special": [],
@@ -2203,7 +2203,7 @@
     },
     {
         "name": "Shift Flash",
-        "image": "/assets/imgs/games/shift_flash.avif",
+        "image": "/assets/imgs/games/shift_flash.webp",
         "url": "shift-flash",
         "tags": [],
         "special": [],
@@ -2211,7 +2211,7 @@
     },
     {
         "name": "Shift Flash 2",
-        "image": "/assets/imgs/games/shift_flash_2.avif",
+        "image": "/assets/imgs/games/shift_flash_2.webp",
         "url": "shift-flash-2",
         "tags": [],
         "special": [],
@@ -2219,7 +2219,7 @@
     },
     {
         "name": "Short Life 2",
-        "image": "/assets/imgs/games/short_life_2.avif",
+        "image": "/assets/imgs/games/short_life_2.webp",
         "url": "short-life-2",
         "tags": [],
         "special": [],
@@ -2228,7 +2228,7 @@
     },
     {
         "name": "Short Ride",
-        "image": "/assets/imgs/games/short_ride.avif",
+        "image": "/assets/imgs/games/short_ride.webp",
         "url": "short-ride",
         "tags": [],
         "special": [],
@@ -2237,7 +2237,7 @@
     },
     {
         "name": "Shuttle Deck",
-        "image": "/assets/imgs/games/shuttledeck.avif",
+        "image": "/assets/imgs/games/shuttledeck.webp",
         "url": "shuttledeck",
         "tags": [],
         "special": [],
@@ -2245,7 +2245,7 @@
     },
     {
         "name": "Skyblock",
-        "image": "/assets/imgs/games/skyblock.avif",
+        "image": "/assets/imgs/games/skyblock.webp",
         "url": "skyblock",
         "tags": [],
         "special": [],
@@ -2253,7 +2253,7 @@
     },
     {
         "name": "Sleeping Beauty",
-        "image": "/assets/imgs/games/sleepingbeauty.avif",
+        "image": "/assets/imgs/games/sleepingbeauty.webp",
         "url": "sleepingbeauty",
         "tags": [],
         "special": [],
@@ -2261,7 +2261,7 @@
     },
     {
         "name": "Slice Of Sasha",
-        "image": "/assets/imgs/games/slice_of_sasha.avif",
+        "image": "/assets/imgs/games/slice_of_sasha.webp",
         "url": "slice-of-sasha",
         "tags": [],
         "special": [],
@@ -2269,7 +2269,7 @@
     },
     {
         "name": "Slither Snake",
-        "image": "/assets/imgs/games/slither_snake.avif",
+        "image": "/assets/imgs/games/slither_snake.webp",
         "url": "slither snake",
         "tags": [],
         "special": [],
@@ -2277,7 +2277,7 @@
     },
     {
         "name": "Slope",
-        "image": "/assets/imgs/games/slope.avif",
+        "image": "/assets/imgs/games/slope.webp",
         "url": "slope",
         "tags": [],
         "special": [],
@@ -2285,7 +2285,7 @@
     },
     {
         "name": "Slope Ball",
-        "image": "/assets/imgs/games/slope_ball.avif",
+        "image": "/assets/imgs/games/slope_ball.webp",
         "url": "slope-ball",
         "tags": [],
         "special": [],
@@ -2293,7 +2293,7 @@
     },
     {
         "name": "Slope 2",
-        "image": "/assets/imgs/games/slope_2.avif",
+        "image": "/assets/imgs/games/slope_2.webp",
         "url": "slope2",
         "tags": [],
         "special": [],
@@ -2301,7 +2301,7 @@
     },
     {
         "name": "Super Mario 63",
-        "image": "/assets/imgs/games/sm_63.avif",
+        "image": "/assets/imgs/games/sm_63.webp",
         "url": "sm63",
         "tags": [],
         "special": [],
@@ -2309,7 +2309,7 @@
     },
     {
         "name": "Super Mario 64",
-        "image": "/assets/imgs/games/sm_64.avif",
+        "image": "/assets/imgs/games/sm_64.webp",
         "url": "sm64",
         "tags": [],
         "special": [],
@@ -2317,7 +2317,7 @@
     },
     {
         "name": "Smashkarts",
-        "image": "/assets/imgs/games/smashkarts.avif",
+        "image": "/assets/imgs/games/smashkarts.webp",
         "url": "smashkarts",
         "tags": [],
         "special": [],
@@ -2325,7 +2325,7 @@
     },
     {
         "name": "Smokingbarrels",
-        "image": "/assets/imgs/games/smokingbarrels.avif",
+        "image": "/assets/imgs/games/smokingbarrels.webp",
         "url": "smokingbarrels",
         "tags": [],
         "special": [],
@@ -2333,7 +2333,7 @@
     },
     {
         "name": "Snake",
-        "image": "/assets/imgs/games/snake.avif",
+        "image": "/assets/imgs/games/snake.webp",
         "url": "snake",
         "tags": [],
         "special": [],
@@ -2341,7 +2341,7 @@
     },
     {
         "name": "Snowbattle",
-        "image": "/assets/imgs/games/snowbattle.avif",
+        "image": "/assets/imgs/games/snowbattle.webp",
         "url": "snowbattle",
         "tags": [],
         "special": [],
@@ -2349,7 +2349,7 @@
     },
     {
         "name": "Soldier Legend",
-        "image": "/assets/imgs/games/soldier_legend.avif",
+        "image": "/assets/imgs/games/soldier_legend.webp",
         "url": "soldier-legend",
         "tags": [],
         "special": [],
@@ -2357,7 +2357,7 @@
     },
     {
         "name": "Solitaire",
-        "image": "/assets/imgs/games/solitaire.avif",
+        "image": "/assets/imgs/games/solitaire.webp",
         "url": "solitaire",
         "tags": [],
         "special": [],
@@ -2365,7 +2365,7 @@
     },
     {
         "name": "Sonic The Hedgehog",
-        "image": "/assets/imgs/games/sonic_the_hedgehog.avif",
+        "image": "/assets/imgs/games/sonic_the_hedgehog.webp",
         "url": "sonic-the-hedgehog",
         "tags": [],
         "special": [],
@@ -2373,7 +2373,7 @@
     },
     {
         "name": "Sort The Court",
-        "image": "/assets/imgs/games/sort_the_court.avif",
+        "image": "/assets/imgs/games/sort_the_court.webp",
         "url": "sort-the-court",
         "tags": [],
         "special": [],
@@ -2381,7 +2381,7 @@
     },
     {
         "name": "Soundboard",
-        "image": "/assets/imgs/games/soundboard.avif",
+        "image": "/assets/imgs/games/soundboard.webp",
         "url": "soundboard",
         "tags": [],
         "special": [],
@@ -2389,7 +2389,7 @@
     },
     {
         "name": "Space Company",
-        "image": "/assets/imgs/games/space_company.avif",
+        "image": "/assets/imgs/games/space_company.webp",
         "url": "space-company",
         "tags": [],
         "special": [],
@@ -2397,7 +2397,7 @@
     },
     {
         "name": "Space Garden",
-        "image": "/assets/imgs/games/space_garden.avif",
+        "image": "/assets/imgs/games/space_garden.webp",
         "url": "spacegarden",
         "tags": [],
         "special": [],
@@ -2405,7 +2405,7 @@
     },
     {
         "name": "Space Huggers",
-        "image": "/assets/imgs/games/space_huggers.avif",
+        "image": "/assets/imgs/games/space_huggers.webp",
         "url": "spacehuggers",
         "tags": [],
         "special": [],
@@ -2413,7 +2413,7 @@
     },
     {
         "name": "Spelunky",
-        "image": "/assets/imgs/games/spelunky.avif",
+        "image": "/assets/imgs/games/spelunky.webp",
         "url": "spelunky",
         "tags": [],
         "special": [],
@@ -2421,7 +2421,7 @@
     },
     {
         "name": "Super Smash Flash",
-        "image": "/assets/imgs/games/ssf.avif",
+        "image": "/assets/imgs/games/ssf.webp",
         "url": "ssf",
         "tags": [],
         "special": [],
@@ -2429,7 +2429,7 @@
     },
     {
         "name": "Stack",
-        "image": "/assets/imgs/games/stack.avif",
+        "image": "/assets/imgs/games/stack.webp",
         "url": "stack",
         "tags": [],
         "special": [],
@@ -2437,7 +2437,7 @@
     },
     {
         "name": "Stack Bump 3D",
-        "image": "/assets/imgs/games/stack_bump_3d.avif",
+        "image": "/assets/imgs/games/stack_bump_3d.webp",
         "url": "stack-bump-3d",
         "tags": [],
         "special": [],
@@ -2445,7 +2445,7 @@
     },
     {
         "name": "Station 141",
-        "image": "/assets/imgs/games/station_141.avif",
+        "image": "/assets/imgs/games/station_141.webp",
         "url": "station-141",
         "tags": [],
         "special": [],
@@ -2453,7 +2453,7 @@
     },
     {
         "name": "Stealing The Diamond",
-        "image": "/assets/imgs/games/stealingthediamond.avif",
+        "image": "/assets/imgs/games/stealingthediamond.webp",
         "url": "stealingthediamond",
         "tags": [],
         "special": [],
@@ -2461,7 +2461,7 @@
     },
     {
         "name": "Stick Archers Battle",
-        "image": "/assets/imgs/games/stick_archer_battle.avif",
+        "image": "/assets/imgs/games/stick_archer_battle.webp",
         "url": "stick-archers-battle",
         "tags": [],
         "special": [],
@@ -2469,7 +2469,7 @@
     },
     {
         "name": "Stickman",
-        "image": "/assets/imgs/games/stickman.avif",
+        "image": "/assets/imgs/games/stickman.webp",
         "url": "stickman",
         "tags": [],
         "special": [],
@@ -2477,7 +2477,7 @@
     },
     {
         "name": "Stickman Boost",
-        "image": "/assets/imgs/games/stickman_boost.avif",
+        "image": "/assets/imgs/games/stickman_boost.webp",
         "url": "stickman-boost",
         "tags": [],
         "special": [],
@@ -2485,7 +2485,7 @@
     },
     {
         "name": "Stickman Dismount",
-        "image": "/assets/imgs/games/stickman_dismount.avif",
+        "image": "/assets/imgs/games/stickman_dismount.webp",
         "url": "stickman-dismount",
         "tags": [],
         "special": [],
@@ -2493,7 +2493,7 @@
     },
     {
         "name": "Stickman Epic Battle",
-        "image": "/assets/imgs/games/stickman_epic_battle.avif",
+        "image": "/assets/imgs/games/stickman_epic_battle.webp",
         "url": "stickman-epic-battle",
         "tags": [],
         "special": [],
@@ -2502,7 +2502,7 @@
     },
     {
         "name": "Stickman Golf",
-        "image": "/assets/imgs/games/stickman_golf.avif",
+        "image": "/assets/imgs/games/stickman_golf.webp",
         "url": "stickman-golf",
         "tags": [],
         "special": [],
@@ -2510,7 +2510,7 @@
     },
     {
         "name": "Stickman Survival",
-        "image": "/assets/imgs/games/stickman_survival.avif",
+        "image": "/assets/imgs/games/stickman_survival.webp",
         "url": "Stickman-Survival",
         "tags": [],
         "special": [],
@@ -2518,7 +2518,7 @@
     },
     {
         "name": "Stickwar",
-        "image": "/assets/imgs/games/stickwar.avif",
+        "image": "/assets/imgs/games/stickwar.webp",
         "url": "stickwar",
         "tags": [],
         "special": [],
@@ -2526,7 +2526,7 @@
     },
     {
         "name": "Storm The House 2",
-        "image": "/assets/imgs/games/stormthehouse_2.avif",
+        "image": "/assets/imgs/games/stormthehouse_2.webp",
         "url": "stormthehouse2",
         "tags": [],
         "special": [],
@@ -2534,7 +2534,7 @@
     },
     {
         "name": "Subway Surfers",
-        "image": "/assets/imgs/games/subway_surfers.avif",
+        "image": "/assets/imgs/games/subway_surfers.webp",
         "url": "subway-surfers",
         "tags": [],
         "special": [],
@@ -2542,7 +2542,7 @@
     },
     {
         "name": "Subway Surfers Bali",
-        "image": "/assets/imgs/games/subway_surfers_bali.avif",
+        "image": "/assets/imgs/games/subway_surfers_bali.webp",
         "url": "subway-surfers-bali",
         "tags": [],
         "special": [],
@@ -2550,7 +2550,7 @@
     },
     {
         "name": "Super Mario Maker Online",
-        "image": "/assets/imgs/games/super_mario_maker_online.avif",
+        "image": "/assets/imgs/games/super_mario_maker_online.webp",
         "url": "super-mario-maker-online",
         "tags": [],
         "special": [],
@@ -2558,7 +2558,7 @@
     },
     {
         "name": "Super Puffer Fish 3D",
-        "image": "/assets/imgs/games/super_puffer_fish_3d.avif",
+        "image": "/assets/imgs/games/super_puffer_fish_3d.webp",
         "url": "super-puffer-fish-3d",
         "tags": [],
         "special": [],
@@ -2566,7 +2566,7 @@
     },
     {
         "name": "Sans Fight",
-        "image": "/assets/imgs/games/sans_fight.avif",
+        "image": "/assets/imgs/games/sans_fight.webp",
         "url": "/assets/games/sansfight/",
         "tags": [],
         "special": [],
@@ -2574,7 +2574,7 @@
     },
     {
         "name": "Burrito Bison",
-        "image": "/assets/imgs/games/burritobison.avif",
+        "image": "/assets/imgs/games/burritobison.webp",
         "url": "/assets/games/burritobison/",
         "tags": [],
         "special": [
@@ -2585,7 +2585,7 @@
     },
     {
         "name": "Superhero.io",
-        "image": "/assets/imgs/games/superhero_.io.avif",
+        "image": "/assets/imgs/games/superhero_.io.webp",
         "url": "superhero-io",
         "tags": [],
         "special": [],
@@ -2593,7 +2593,7 @@
     },
     {
         "name": "Superhot",
-        "image": "/assets/imgs/games/superhot.avif",
+        "image": "/assets/imgs/games/superhot.webp",
         "url": "superhot",
         "tags": [],
         "special": [],
@@ -2601,7 +2601,7 @@
     },
     {
         "name": "Swerve",
-        "image": "/assets/imgs/games/swerve.avif",
+        "image": "/assets/imgs/games/swerve.webp",
         "url": "swerve",
         "tags": [],
         "special": [],
@@ -2610,7 +2610,7 @@
     },
     {
         "name": "Synesthesia",
-        "image": "/assets/imgs/games/synesthesia.avif",
+        "image": "/assets/imgs/games/synesthesia.webp",
         "url": "synesthesia",
         "tags": [],
         "special": [],
@@ -2618,7 +2618,7 @@
     },
     {
         "name": "Tactical Assasin 2",
-        "image": "/assets/imgs/games/tactical_weapon_pack_2.avif",
+        "image": "/assets/imgs/games/tactical_weapon_pack_2.webp",
         "url": "tacticalassasin2",
         "tags": [],
         "special": [],
@@ -2626,7 +2626,7 @@
     },
     {
         "name": "Tail Of The Dragon",
-        "image": "/assets/imgs/games/tail_of_the_dragon.avif",
+        "image": "/assets/imgs/games/tail_of_the_dragon.webp",
         "url": "tail-of-the-dragon",
         "tags": [],
         "special": [],
@@ -2635,7 +2635,7 @@
     },
     {
         "name": "Indian Truck Simulator",
-        "image": "/assets/imgs/games/tam_indian_truck_simulator_3d.avif",
+        "image": "/assets/imgs/games/tam_indian_truck_simulator_3d.webp",
         "url": "tam-indian-truck-simulator-3d",
         "tags": [],
         "special": [],
@@ -2643,7 +2643,7 @@
     },
     {
         "name": "Tank Trouble 2",
-        "image": "/assets/imgs/games/tank_trouble_2.avif",
+        "image": "/assets/imgs/games/tank_trouble_2.webp",
         "url": "tank-trouble-2",
         "tags": [],
         "special": [],
@@ -2651,7 +2651,7 @@
     },
     {
         "name": "Tanuki Sunset",
-        "image": "/assets/imgs/games/tanuki_sunset.avif",
+        "image": "/assets/imgs/games/tanuki_sunset.webp",
         "url": "tanuki-sunset",
         "tags": [],
         "special": [],
@@ -2659,7 +2659,7 @@
     },
     {
         "name": "Temple Run 2",
-        "image": "/assets/imgs/games/temple_run_2.avif",
+        "image": "/assets/imgs/games/temple_run_2.webp",
         "url": "temple-run-2",
         "tags": [],
         "special": [],
@@ -2667,7 +2667,7 @@
     },
     {
         "name": "The Final Earth",
-        "image": "/assets/imgs/games/the_final_earth.avif",
+        "image": "/assets/imgs/games/the_final_earth.webp",
         "url": "the-final-earth",
         "tags": [],
         "special": [],
@@ -2675,7 +2675,7 @@
     },
     {
         "name": "The Final Earth 2",
-        "image": "/assets/imgs/games/the_final_earth_2.avif",
+        "image": "/assets/imgs/games/the_final_earth_2.webp",
         "url": "the-final-earth-2",
         "tags": [],
         "special": [],
@@ -2683,7 +2683,7 @@
     },
     {
         "name": "The Impossible Quiz",
-        "image": "/assets/imgs/games/the_impossible_quiz.avif",
+        "image": "/assets/imgs/games/the_impossible_quiz.webp",
         "url": "the-impossible-quiz",
         "tags": [],
         "special": [],
@@ -2691,7 +2691,7 @@
     },
     {
         "name": "The Impossible Quiz 2",
-        "image": "/assets/imgs/games/the_impossible_quiz_2.avif",
+        "image": "/assets/imgs/games/the_impossible_quiz_2.webp",
         "url": "the-impossible-quiz-2",
         "tags": [],
         "special": [],
@@ -2699,7 +2699,7 @@
     },
     {
         "name": "The Little Giant",
-        "image": "/assets/imgs/games/the_little_giant.avif",
+        "image": "/assets/imgs/games/the_little_giant.webp",
         "url": "the-little-giant",
         "tags": [],
         "special": [],
@@ -2707,7 +2707,7 @@
     },
     {
         "name": "The Battle",
-        "image": "/assets/imgs/games/the_battle.avif",
+        "image": "/assets/imgs/games/the_battle.webp",
         "url": "thebattle",
         "tags": [],
         "special": [],
@@ -2715,7 +2715,7 @@
     },
     {
         "name": "The Heist",
-        "image": "/assets/imgs/games/the_heist.avif",
+        "image": "/assets/imgs/games/the_heist.webp",
         "url": "theheist",
         "tags": [],
         "special": [],
@@ -2723,7 +2723,7 @@
     },
     {
         "name": "Space Goblins",
-        "image": "/assets/imgs/games/space_goblins.avif",
+        "image": "/assets/imgs/games/space_goblins.webp",
         "url": "themazeofspacegoblins",
         "tags": [],
         "special": [],
@@ -2731,7 +2731,7 @@
     },
     {
         "name": "There Is No Game",
-        "image": "/assets/imgs/games/there_is_no_game.avif",
+        "image": "/assets/imgs/games/there_is_no_game.webp",
         "url": "there-is-no-game",
         "tags": [],
         "special": [],
@@ -2739,7 +2739,7 @@
     },
     {
         "name": "The Only Level",
-        "image": "/assets/imgs/games/thisistheonlylevel.avif",
+        "image": "/assets/imgs/games/thisistheonlylevel.webp",
         "url": "thisistheonlylevel",
         "tags": [],
         "special": [],
@@ -2747,7 +2747,7 @@
     },
     {
         "name": "Level Devil",
-        "image": "/assets/imgs/games/level_devil.avif",
+        "image": "/assets/imgs/games/level_devil.webp",
         "url": "/assets/games/leveldevil/",
         "tags": [],
         "special": [],
@@ -2755,7 +2755,7 @@
     },
     {
         "name": "Time Shooter 3",
-        "image": "/assets/imgs/games/time_shooter_3.avif",
+        "image": "/assets/imgs/games/time_shooter_3.webp",
         "url": "time-shooter-3",
         "tags": [],
         "special": [],
@@ -2763,7 +2763,7 @@
     },
     {
         "name": "Tiny Fishing",
-        "image": "/assets/imgs/games/tiny_fishing.avif",
+        "image": "/assets/imgs/games/tiny_fishing.webp",
         "url": "tiny-fishing",
         "tags": [],
         "special": [],
@@ -2771,7 +2771,7 @@
     },
     {
         "name": "Tiny Fragments",
-        "image": "/assets/imgs/games/tiny_fragments.avif",
+        "image": "/assets/imgs/games/tiny_fragments.webp",
         "url": "tiny-fragments",
         "tags": [],
         "special": [],
@@ -2779,7 +2779,7 @@
     },
     {
         "name": "Tiny Islands",
-        "image": "/assets/imgs/games/tiny_islands.avif",
+        "image": "/assets/imgs/games/tiny_islands.webp",
         "url": "tiny-islands",
         "tags": [],
         "special": [],
@@ -2787,7 +2787,7 @@
     },
     {
         "name": "Topple Adventure",
-        "image": "/assets/imgs/games/topple_adventure.avif",
+        "image": "/assets/imgs/games/topple_adventure.webp",
         "url": "topple-adventure",
         "tags": [],
         "special": [],
@@ -2795,7 +2795,7 @@
     },
     {
         "name": "Toss The Turtle",
-        "image": "/assets/imgs/games/toss_the_turtle.avif",
+        "image": "/assets/imgs/games/toss_the_turtle.webp",
         "url": "tosstheturtle",
         "tags": [],
         "special": [],
@@ -2803,7 +2803,7 @@
     },
     {
         "name": "Tough Growth",
-        "image": "/assets/imgs/games/tough_growth.avif",
+        "image": "/assets/imgs/games/tough_growth.webp",
         "url": "tough-growth",
         "tags": [],
         "special": [],
@@ -2811,7 +2811,7 @@
     },
     {
         "name": "Towermaster",
-        "image": "/assets/imgs/games/towermaster.avif",
+        "image": "/assets/imgs/games/towermaster.webp",
         "url": "towermaster",
         "tags": [],
         "special": [],
@@ -2820,7 +2820,7 @@
     },
     {
         "name": "Townscaper",
-        "image": "/assets/imgs/games/townscraper.avif",
+        "image": "/assets/imgs/games/townscraper.webp",
         "url": "townscaper",
         "tags": [],
         "special": [],
@@ -2828,7 +2828,7 @@
     },
     {
         "name": "Trimps",
-        "image": "/assets/imgs/games/trimps.avif",
+        "image": "/assets/imgs/games/trimps.webp",
         "url": "trimps",
         "tags": [],
         "special": [],
@@ -2836,7 +2836,7 @@
     },
     {
         "name": "Tube Jumpers",
-        "image": "/assets/imgs/games/tube_jumpers.avif",
+        "image": "/assets/imgs/games/tube_jumpers.webp",
         "url": "tube-jumpers",
         "tags": [],
         "special": [],
@@ -2844,7 +2844,7 @@
     },
     {
         "name": "Tunnel Rush",
-        "image": "/assets/imgs/games/tunnel_rush.avif",
+        "image": "/assets/imgs/games/tunnel_rush.webp",
         "url": "tunnel-rush",
         "tags": [],
         "special": [],
@@ -2852,7 +2852,7 @@
     },
     {
         "name": "Tunnelz",
-        "image": "/assets/imgs/games/tunnelz.avif",
+        "image": "/assets/imgs/games/tunnelz.webp",
         "url": "tunnelz",
         "tags": [],
         "special": [],
@@ -2860,7 +2860,7 @@
     },
     {
         "name": "TV Static",
-        "image": "/assets/imgs/games/tv_static.avif",
+        "image": "/assets/imgs/games/tv_static.webp",
         "url": "tv-static",
         "tags": [],
         "special": [],
@@ -2868,7 +2868,7 @@
     },
     {
         "name": "Twitch Tetris",
-        "image": "/assets/imgs/games/twitch_tetris.avif",
+        "image": "/assets/imgs/games/twitch_tetris.webp",
         "url": "twitch-tetris",
         "tags": [],
         "special": [],
@@ -2876,7 +2876,7 @@
     },
     {
         "name": "Underrun",
-        "image": "/assets/imgs/games/underrun.avif",
+        "image": "/assets/imgs/games/underrun.webp",
         "url": "underrun",
         "tags": [],
         "special": [],
@@ -2884,7 +2884,7 @@
     },
     {
         "name": "Up Left Out",
-        "image": "/assets/imgs/games/up_left_out.avif",
+        "image": "/assets/imgs/games/up_left_out.webp",
         "url": "up-left-out",
         "tags": [],
         "special": [],
@@ -2892,7 +2892,7 @@
     },
     {
         "name": "Veloce",
-        "image": "/assets/imgs/games/veloce.avif",
+        "image": "/assets/imgs/games/veloce.webp",
         "url": "veloce",
         "tags": [],
         "special": [],
@@ -2900,7 +2900,7 @@
     },
     {
         "name": "Vex 3",
-        "image": "/assets/imgs/games/vex_3.avif",
+        "image": "/assets/imgs/games/vex_3.webp",
         "url": "vex3",
         "tags": [],
         "special": [],
@@ -2908,7 +2908,7 @@
     },
     {
         "name": "Vex 4",
-        "image": "/assets/imgs/games/vex_4.avif",
+        "image": "/assets/imgs/games/vex_4.webp",
         "url": "vex4",
         "tags": [],
         "special": [],
@@ -2916,7 +2916,7 @@
     },
     {
         "name": "Vex 5",
-        "image": "/assets/imgs/games/vex_5.avif",
+        "image": "/assets/imgs/games/vex_5.webp",
         "url": "vex5",
         "tags": [],
         "special": [],
@@ -2924,7 +2924,7 @@
     },
     {
         "name": "Vex 6",
-        "image": "/assets/imgs/games/vex_6.avif",
+        "image": "/assets/imgs/games/vex_6.webp",
         "url": "vex6",
         "tags": [],
         "special": [],
@@ -2932,7 +2932,7 @@
     },
     {
         "name": "Vex 7",
-        "image": "/assets/imgs/games/vex_7.avif",
+        "image": "/assets/imgs/games/vex_7.webp",
         "url": "vex7",
         "tags": [],
         "special": [],
@@ -2940,7 +2940,7 @@
     },
     {
         "name": "Waterworks",
-        "image": "/assets/imgs/games/waterworks.avif",
+        "image": "/assets/imgs/games/waterworks.webp",
         "url": "waterworks",
         "tags": [],
         "special": [],
@@ -2948,7 +2948,7 @@
     },
     {
         "name": "Webretro",
-        "image": "/assets/imgs/games/webretro.avif",
+        "image": "/assets/imgs/games/webretro.webp",
         "url": "webretro",
         "tags": [],
         "special": [],
@@ -2956,7 +2956,7 @@
     },
     {
         "name": "Winter Falling",
-        "image": "/assets/imgs/games/winter_falling_price.avif",
+        "image": "/assets/imgs/games/winter_falling_price.webp",
         "url": "winter-falling-price",
         "tags": [],
         "special": [],
@@ -2965,7 +2965,7 @@
     },
     {
         "name": "Wolfenstein 3D",
-        "image": "/assets/imgs/games/wolf3d.avif",
+        "image": "/assets/imgs/games/wolf3d.webp",
         "url": "wolf3d",
         "tags": [],
         "special": [],
@@ -2973,7 +2973,7 @@
     },
     {
         "name": "Wordle",
-        "image": "/assets/imgs/games/wordle.avif",
+        "image": "/assets/imgs/games/wordle.webp",
         "url": "wordle",
         "tags": [],
         "special": [],
@@ -2981,7 +2981,7 @@
     },
     {
         "name": "Worlds Hardest Game",
-        "image": "/assets/imgs/games/worlds_hardest_game.avif",
+        "image": "/assets/imgs/games/worlds_hardest_game.webp",
         "url": "worlds-hardest-game",
         "tags": [],
         "special": [],
@@ -2989,7 +2989,7 @@
     },
     {
         "name": "Worlds Hardest Game 2",
-        "image": "/assets/imgs/games/worlds_hardest_game_2.avif",
+        "image": "/assets/imgs/games/worlds_hardest_game_2.webp",
         "url": "worlds-hardest-game-2",
         "tags": [],
         "special": [],
@@ -2997,7 +2997,7 @@
     },
     {
         "name": "X Trial Racing",
-        "image": "/assets/imgs/games/x_trial_racing.avif",
+        "image": "/assets/imgs/games/x_trial_racing.webp",
         "url": "x-trial-racing",
         "tags": [],
         "special": [],
@@ -3005,7 +3005,7 @@
     },
     {
         "name": "XX142B2 exe",
-        "image": "/assets/imgs/games/xx142_b2exe.avif",
+        "image": "/assets/imgs/games/xx142_b2exe.webp",
         "url": "xx142-b2exe",
         "tags": [],
         "special": [],
@@ -3013,7 +3013,7 @@
     },
     {
         "name": "You Are Bezos",
-        "image": "/assets/imgs/games/you_are_bezos.avif",
+        "image": "/assets/imgs/games/you_are_bezos.webp",
         "url": "you-are-bezos",
         "tags": [],
         "special": [],
@@ -3021,7 +3021,7 @@
     },
     {
         "name": "Zombocalypse",
-        "image": "/assets/imgs/games/zombocalypse.avif",
+        "image": "/assets/imgs/games/zombocalypse.webp",
         "url": "zombocalypse",
         "tags": [],
         "special": [],

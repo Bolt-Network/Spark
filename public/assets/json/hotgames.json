@@ -1,7 +1,7 @@
 [
     {
         "name": "Jetpack Joyride",
-        "image": "/assets/imgs/games/jetpack.avif",
+        "image": "/assets/imgs/games/jetpack.webp",
         "url": "jetpack",
         "tags": [],
         "special": [],
@@ -9,7 +9,7 @@
     },
     {
         "name": "Paper.io 2",
-        "image": "/assets/imgs/games/paper.io_2.avif",
+        "image": "/assets/imgs/games/paper.io_2.webp",
         "url": "paperio2",
         "tags": [],
         "special": [],
@@ -17,7 +17,7 @@
     },
     {
         "name": "Om Nom Bounce",
-        "image": "/assets/imgs/games/om_bounce.avif",
+        "image": "/assets/imgs/games/om_bounce.webp",
         "url": "om-bounce",
         "tags": [],
         "special": [],
@@ -26,7 +26,7 @@
     },
     {
         "name": "Level Devil",
-        "image": "/assets/imgs/games/level_devil.avif",
+        "image": "/assets/imgs/games/level_devil.webp",
         "url": "/assets/games/leveldevil/",
         "tags": [],
         "special": [],
@@ -34,7 +34,7 @@
     },
     {
         "name": "Cluster Rush",
-        "image": "/assets/imgs/games/cluster_rush.avif",
+        "image": "/assets/imgs/games/cluster_rush.webp",
         "url": "cluster-rush",
         "tags": [],
         "special": [],
@@ -42,7 +42,7 @@
     },
     {
         "name": "Arcade Wizard",
-        "image": "/assets/imgs/games/arcade_wizard.avif",
+        "image": "/assets/imgs/games/arcade_wizard.webp",
         "url": "arcade-wizard",
         "tags": [],
         "special": [],
@@ -50,7 +50,7 @@
     },
     {
         "name": "Evil Glitch",
-        "image": "/assets/imgs/games/evil_glitch.avif",
+        "image": "/assets/imgs/games/evil_glitch.webp",
         "url": "evil-glitch",
         "tags": [],
         "special": [],
@@ -58,7 +58,7 @@
     },
     {
         "name": "Burning Man 2",
-        "image": "/assets/imgs/games/burning_man_2.avif",
+        "image": "/assets/imgs/games/burning_man_2.webp",
         "url": "burning-man-2",
         "tags": [],
         "special": [],

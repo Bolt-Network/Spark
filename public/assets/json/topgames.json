@@ -1,7 +1,7 @@
 [
     {
         "name": "Toss The Turtle",
-        "image": "/assets/imgs/games/toss_the_turtle.avif",
+        "image": "/assets/imgs/games/toss_the_turtle.webp",
         "url": "tosstheturtle",
         "tags": [],
         "special": [],
@@ -9,7 +9,7 @@
     },
     {
         "name": "Blocky Snakes",
-        "image": "/assets/imgs/games/blocky_snakes.avif",
+        "image": "/assets/imgs/games/blocky_snakes.webp",
         "url": "/assets/games/blockysnakes/",
         "tags": [],
         "special": [],
@@ -17,7 +17,7 @@
     },
     {
         "name": "Minecraft 1.17",
-        "image": "/assets/imgs/games/minecraft_1.12.avif",
+        "image": "/assets/imgs/games/minecraft_1.12.webp",
         "url": "/assets/games/minecraft1.17.html",
         "tags": [
             "3D",
@@ -32,7 +32,7 @@
     },
     {
         "name": "Gunspin",
-        "image": "/assets/imgs/games/gunspin.avif",
+        "image": "/assets/imgs/games/gunspin.webp",
         "url": "/assets/games/gunspin/",
         "tags": [],
         "special": [],
@@ -40,7 +40,7 @@
     },
     {
         "name": "Cut The Rope",
-        "image": "/assets/imgs/games/cut_the_rope.avif",
+        "image": "/assets/imgs/games/cut_the_rope.webp",
         "url": "ctr",
         "tags": [],
         "special": [],
@@ -48,7 +48,7 @@
     },
     {
         "name": "Retro Bowl",
-        "image": "/assets/imgs/games/retrobowl.avif",
+        "image": "/assets/imgs/games/retrobowl.webp",
         "url": "retro-bowl",
         "tags": [],
         "special": [],
@@ -56,7 +56,7 @@
     },
     {
         "name": "Subway Surfers",
-        "image": "/assets/imgs/games/subway_surfers.avif",
+        "image": "/assets/imgs/games/subway_surfers.webp",
         "url": "subway-surfers",
         "tags": [],
         "special": [],
@@ -64,7 +64,7 @@
     },
     {
         "name": "Drive Mad",
-        "image": "/assets/imgs/games/drive_mad.avif",
+        "image": "/assets/imgs/games/drive_mad.webp",
         "url": "drive-mad",
         "tags": [],
         "special": [],
