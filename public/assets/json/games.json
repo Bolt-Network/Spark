@@ -186,6 +186,22 @@
         "size": "s"
     },
     {
+        "name": "Zombie Derby: Pixel Survival",
+        "image": "/assets/imgs/games/zombie-derby.avif",
+        "url": "/assets/games/zombie-derby/",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Super Liquid Soccer",
+        "image": "/assets/imgs/games/super_liquid_soccer.avif",
+        "url": "/assets/games/liquidsoccer/",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
         "name": "Backcountry",
         "image": "/assets/imgs/games/backcountry.avif",
         "url": "backcountry",
@@ -242,7 +258,7 @@
         "size": "s"
     },
     {
-        "name": "Basket Bros .io",
+        "name": "Basket Bros.io",
         "image": "/assets/imgs/games/basket_bros_.io.avif",
         "url": "basket-bros-io",
         "tags": [],
@@ -274,7 +290,7 @@
         "size": "s"
     },
     {
-        "name": "Battleforgondor",
+        "name": "Battle For Gondor",
         "image": "/assets/imgs/games/battleforgondor.avif",
         "url": "battleforgondor",
         "tags": [],
@@ -282,7 +298,7 @@
         "size": "s"
     },
     {
-        "name": "Bigredbutton",
+        "name": "Big Red Button",
         "image": "/assets/imgs/games/bigredbutton.avif",
         "url": "bigredbutton",
         "tags": [],
@@ -324,7 +340,7 @@
     {
         "name": "Blocky Snakes",
         "image": "/assets/imgs/games/blocky_snakes.avif",
-        "url": "blocky-snakes",
+        "url": "/assets/games/blockysnakes/",
         "tags": [],
         "special": [],
         "size": "m"
@@ -1139,7 +1155,7 @@
         "url": "go-ball",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "m"
     },
     {
         "name": "Golf",
@@ -1249,7 +1265,7 @@
     {
         "name": "Gunspin",
         "image": "/assets/imgs/games/gunspin.avif",
-        "url": "gunspin",
+        "url": "/assets/games/gunspin/",
         "tags": [],
         "special": [],
         "size": "s"
@@ -2549,7 +2565,26 @@
         "size": "s"
     },
     {
-        "name": "Superhero .io",
+        "name": "Sans Fight",
+        "image": "/assets/imgs/games/sans_fight.avif",
+        "url": "/assets/games/sansfight/",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Burrito Bison",
+        "image": "/assets/imgs/games/burritobison.avif",
+        "url": "/assets/games/burritobison/",
+        "tags": [],
+        "special": [
+            "hot",
+            "new"
+        ],
+        "size": "m"
+    },
+    {
+        "name": "Superhero.io",
         "image": "/assets/imgs/games/superhero_.io.avif",
         "url": "superhero-io",
         "tags": [],
@@ -2920,12 +2955,13 @@
         "size": "s"
     },
     {
-        "name": "Winter Falling Price",
+        "name": "Winter Falling",
         "image": "/assets/imgs/games/winter_falling_price.avif",
         "url": "winter-falling-price",
         "tags": [],
         "special": [],
-        "size": "s"
+        "size": "s",
+        "important": true
     },
     {
         "name": "Wolfenstein 3D",

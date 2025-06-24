@@ -8,11 +8,67 @@
         "size": "s"
     },
     {
-        "name": "Death Run 3D",
-        "image": "/assets/imgs/games/death_run_3d.avif",
-        "url": "death-run-3d",
+        "name": "Blocky Snakes",
+        "image": "/assets/imgs/games/blocky_snakes.avif",
+        "url": "/assets/games/blockysnakes/",
+        "tags": [],
+        "special": [],
+        "size": "m"
+    },
+    {
+        "name": "Minecraft 1.17",
+        "image": "/assets/imgs/games/minecraft_1.12.avif",
+        "url": "/assets/games/minecraft1.17.html",
+        "tags": [
+            "3D",
+            "Strategy",
+            "Action",
+            "Adventure",
+            "Multiplayer",
+            "Upgrade"
+        ],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Gunspin",
+        "image": "/assets/imgs/games/gunspin.avif",
+        "url": "/assets/games/gunspin/",
         "tags": [],
         "special": [],
         "size": "s"
+    },
+    {
+        "name": "Cut The Rope",
+        "image": "/assets/imgs/games/cut_the_rope.avif",
+        "url": "ctr",
+        "tags": [],
+        "special": [],
+        "size": "m"
+    },
+    {
+        "name": "Retro Bowl",
+        "image": "/assets/imgs/games/retrobowl.avif",
+        "url": "retro-bowl",
+        "tags": [],
+        "special": [],
+        "size": "m"
+    },
+    {
+        "name": "Subway Surfers",
+        "image": "/assets/imgs/games/subway_surfers.avif",
+        "url": "subway-surfers",
+        "tags": [],
+        "special": [],
+        "size": "m"
+    },
+    {
+        "name": "Drive Mad",
+        "image": "/assets/imgs/games/drive_mad.avif",
+        "url": "drive-mad",
+        "tags": [],
+        "special": [],
+        "size": "m",
+        "important": true
     }
 ]

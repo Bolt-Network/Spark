@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Jetpack Joyride",
+        "image": "/assets/imgs/games/jetpack.avif",
+        "url": "jetpack",
+        "tags": [],
+        "special": [],
+        "size": "m"
+    },
+    {
+        "name": "Paper.io 2",
+        "image": "/assets/imgs/games/paper.io_2.avif",
+        "url": "paperio2",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Om Nom Bounce",
+        "image": "/assets/imgs/games/om_bounce.avif",
+        "url": "om-bounce",
+        "tags": [],
+        "special": [],
+        "size": "s",
+        "important": true
+    },
+    {
+        "name": "Level Devil",
+        "image": "/assets/imgs/games/level_devil.avif",
+        "url": "/assets/games/leveldevil/",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Cluster Rush",
+        "image": "/assets/imgs/games/cluster_rush.avif",
+        "url": "cluster-rush",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Arcade Wizard",
+        "image": "/assets/imgs/games/arcade_wizard.avif",
+        "url": "arcade-wizard",
+        "tags": [],
+        "special": [],
+        "size": "m"
+    },
+    {
+        "name": "Evil Glitch",
+        "image": "/assets/imgs/games/evil_glitch.avif",
+        "url": "evil-glitch",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    },
+    {
+        "name": "Burning Man 2",
+        "image": "/assets/imgs/games/burning_man_2.avif",
+        "url": "burning-man-2",
+        "tags": [],
+        "special": [],
+        "size": "s"
+    }
+]

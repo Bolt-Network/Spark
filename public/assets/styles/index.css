@@ -242,8 +242,7 @@ a:hover::after {
 #content {
     position: relative;
     z-index: 1;
-    padding: 100px 50px 50px;
-    margin-top: 10px;
+    padding: 60px 50px 50px;
     display: flex;
     flex-direction: column;
 }
@@ -253,7 +252,6 @@ a:hover::after {
     font-family: 'big';
     font-size: 2.5rem;
     color: white;
-
 }
 
 #top h1 {
@@ -318,11 +316,12 @@ a:hover::after {
 }
 
 /* Games Grid */
-#top-games-grid {
+#top-games-grid,
+#hot-games-grid {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     gap: 20px;
-    padding: 20px 0;
+    margin-bottom: 40px;
 }
 
 /* Game Card */
@@ -397,4 +396,77 @@ a:hover::after {
         font-size: 18px;
         padding: 10px;
     }
+}
+
+#nav {
+    margin-left: auto;
+    margin-right: 40px;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+ul a {
+    font-size: 1.5rem;
+    font-family: 'big';
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+ul a svg {
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+    fill: var(--secondary);
+}
+
+.bottom-section {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom-section svg {
+    width: 35px;
+    height: 35px;
+    margin-right: 10px;
+    fill: var(--secondary);
+}
+
+.bottom-section button {
+    background-color: var(--accent);
+    color: white;
+    border: none;
+    border-radius: 15px;
+    padding: 10px 20px;
+    font-size: 1.6rem;
+    cursor: pointer;
+    font-family: 'big';
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    width: 260px;
+    height: 100px;
+    border: var(--accent) 0px solid;
+    transition: all 0.3s ease;
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-shadow: var(--accent) 0px 0px 0px;
+}
+
+.bottom-section button:hover {
+    background-color: #ff8400;
+    border: var(--accent) 3px solid;
+    transform: scale(1.05);
+    box-shadow: var(--accent) 0px 0px 10px;
 }
