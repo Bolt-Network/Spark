@@ -19,13 +19,6 @@ await app.register(fastifyCompress, {
 await app.register(fastifyStatic, {
     root: publicPath,
     prefix: '/',
-    setHeaders: (res, path) => {
-        if (path.endsWith('.html')) {
-            res.setHeader('Cache-Control', 'no-cache');
-        } else if (path.match(/\.(js|css|png|jpg|jpeg|gif|ico|svg|webp)$/)) {
-            res.setHeader('Cache-Control', 'public, max-age=31536000'); // 1 year
-        }
-    }
 });
 
 app.addHook('onSend', async (request, reply) => {
