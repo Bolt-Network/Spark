@@ -20,9 +20,23 @@ document.addEventListener('DOMContentLoaded', function () {
                 gameCard.classList.add(game.size);
 
                 const gameImage = document.createElement('img');
-                gameImage.src = game.image;
-                gameImage.alt = game.name;
                 gameImage.className = 'game-image';
+                gameImage.alt = game.name;
+                gameImage.loading = "lazy";
+                gameImage.srcset = `
+    ${game.image} 100w,
+                    ${game.image} 220w,
+                        ${game.image} 340w
+                            `;
+                gameImage.sizes = `
+                            (max - width: 100px) 100px,
+                                (max - width: 220px) 220px,
+                                    340px
+                                        `;
+                gameImage.src = game.image;
+                gameImage.onload = () => {
+                    gameImage.classList.add('loaded');
+                }
 
                 const specialContainer = document.createElement('div');
                 specialContainer.className = 'special-container';

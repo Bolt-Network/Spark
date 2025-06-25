@@ -431,3 +431,13 @@ a:hover::after {
     font-size: 0.8rem;
     margin-top: 40px;
 }
+
+
+.game-image {
+    transition: opacity 0.3s ease-in-out;
+    opacity: 0.5;
+}
+
+.game-image.loaded {
+    opacity: 1;
+}

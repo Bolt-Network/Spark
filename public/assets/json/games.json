@@ -622,7 +622,7 @@
     {
         "name": "Crowd City 2",
         "image": "/assets/imgs/games/crowd_city_2.webp",
-        "url": "crowd city 2",
+        "url": "/assets/games/crowdcity2/",
         "tags": [],
         "special": [],
         "size": "s"
