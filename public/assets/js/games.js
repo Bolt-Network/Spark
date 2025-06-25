@@ -24,15 +24,9 @@ document.addEventListener('DOMContentLoaded', function () {
                 gameImage.alt = game.name;
                 gameImage.loading = "lazy";
                 gameImage.srcset = `
-    ${game.image} 100w,
-                    ${game.image} 220w,
-                        ${game.image} 340w
-                            `;
-                gameImage.sizes = `
-                            (max - width: 100px) 100px,
-                                (max - width: 220px) 220px,
-                                    340px
-                                        `;
+    ${game.image} 340w
+`;
+                gameImage.sizes = "(max-width: 100px) 100px, (max-width: 220px) 220px, 340px";
                 gameImage.src = game.image;
                 gameImage.onload = () => {
                     gameImage.classList.add('loaded');
