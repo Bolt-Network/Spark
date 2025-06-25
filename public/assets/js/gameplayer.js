@@ -30,7 +30,6 @@ document.addEventListener('DOMContentLoaded', function () {
         const game = games.find(g => g.name === gameNameUrl);
 
         if (game) {
-
           localStorage.setItem('name', game.name);
           localStorage.setItem('image', game.image);
 
@@ -41,13 +40,17 @@ document.addEventListener('DOMContentLoaded', function () {
           }
 
           gameUrl = localStorage.getItem('url');
-
+          if (game.message) {
+            alert(game.message);
+          }
 
           if (game.unofficial) {
             localStorage.setItem('unofficial', true);
           } else {
             localStorage.removeItem('unofficial');
           }
+
+
         }
       } else {
         gameNameUrl = localStorage.getItem('name');
@@ -60,6 +63,7 @@ document.addEventListener('DOMContentLoaded', function () {
       gameFrame.src = gameUrl;
       gameImage.src = localStorage.getItem('image');
       gameNameElement.textContent = gameName;
+
 
       games.sort(() => Math.random() - 0.5);
       games.forEach(game => {

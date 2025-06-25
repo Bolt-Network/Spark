@@ -2581,7 +2581,8 @@
             "hot",
             "new"
         ],
-        "size": "m"
+        "size": "m",
+        "message": "This game is very large and may take up to 3 minutes load, please be patient!"
     },
     {
         "name": "Superhero.io",
